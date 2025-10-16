@@ -1,0 +1,4097 @@
+[
+  {
+    "content_id": 260404,
+    "reference_id": 166824,
+    "title": "Jude 1:1 (#1)",
+    "media_type": "Text",
+    "index_reference": "65001001",
+    "language": "eng",
+    "content": "<p><strong>&quot;Jude&quot;</strong></p><p>In this culture, letter writers would give their own names first, and they would refer to themselves in the third person. If that would be confusing in your language, you could use the first person. If your language has a particular way of introducing the author of a letter, you could also use that. Alternate translation: “I, Jude, am writing this letter” or “From Jude”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26670\" data-resourceType=\"UWTranslationManual\">First, Second or Third Person</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001001",
+          "start_ref_usfm": "JUD 1:1",
+          "end_ref": "65001001",
+          "end_ref_usfm": "JUD 1:1"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26670,
+          "content_id": 33256,
+          "label": "First, Second or Third Person",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260405,
+    "reference_id": 166825,
+    "title": "Jude 1:1 (#2)",
+    "media_type": "Text",
+    "index_reference": "65001001",
+    "language": "eng",
+    "content": "<p><strong>&quot;Jude&quot;</strong></p><p><strong>Jude</strong> is the name of a man, the brother of James. See the information about him in Part 1 of the Introduction to Jude.</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26805\" data-resourceType=\"UWTranslationManual\">How to Translate Names</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001001",
+          "start_ref_usfm": "JUD 1:1",
+          "end_ref": "65001001",
+          "end_ref_usfm": "JUD 1:1"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26805,
+          "content_id": 33391,
+          "label": "How to Translate Names",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260406,
+    "reference_id": 166826,
+    "title": "Jude 1:1 (#3)",
+    "media_type": "Text",
+    "index_reference": "65001001",
+    "language": "eng",
+    "content": "<p><strong>&quot;a servant of Jesus Christ and a brother of James&quot;</strong></p><p>These phrases give further information about Jude. He describes himself as being both <strong>a servant of Jesus Christ</strong> and <strong>a brother of James</strong>. This distinguishes him from the two other men named Jude in the New Testament, which English translations usually distinguish from Jude by translating their names as “Judas”.</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26678\" data-resourceType=\"UWTranslationManual\">Distinguishing Versus Informing or Reminding</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001001",
+          "start_ref_usfm": "JUD 1:1",
+          "end_ref": "65001001",
+          "end_ref_usfm": "JUD 1:1"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26678,
+          "content_id": 33264,
+          "label": "Distinguishing Versus Informing or Reminding",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260407,
+    "reference_id": 166827,
+    "title": "Jude 1:1 (#4)",
+    "media_type": "Text",
+    "index_reference": "65001001",
+    "language": "eng",
+    "content": "<p><strong>&quot;a brother of James&quot;</strong></p><p><strong>James</strong> and Jude were half brothers of Jesus. Joseph was their physical father, but he was not the physical father of Jesus. If it would be helpful in your language, you could state this relationship explicitly. Alternate translation: “a brother of James, both being half brothers of Jesus”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26687\" data-resourceType=\"UWTranslationManual\">Assumed Knowledge and Implicit Information</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001001",
+          "start_ref_usfm": "JUD 1:1",
+          "end_ref": "65001001",
+          "end_ref_usfm": "JUD 1:1"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26687,
+          "content_id": 33273,
+          "label": "Assumed Knowledge and Implicit Information",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260408,
+    "reference_id": 166828,
+    "title": "Jude 1:1 (#5)",
+    "media_type": "Text",
+    "index_reference": "65001001",
+    "language": "eng",
+    "content": "<p><strong>&quot;to the ones&quot;</strong></p><p>In this culture, after giving their own names, letter writers would then say to whom they were writing, naming those people in the third person. If that would be confusing in your language, you could use the second person. Alternate translation: “to you who are”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26670\" data-resourceType=\"UWTranslationManual\">First, Second or Third Person</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001001",
+          "start_ref_usfm": "JUD 1:1",
+          "end_ref": "65001001",
+          "end_ref_usfm": "JUD 1:1"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26670,
+          "content_id": 33256,
+          "label": "First, Second or Third Person",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260409,
+    "reference_id": 166829,
+    "title": "Jude 1:1 (#6)",
+    "media_type": "Text",
+    "index_reference": "65001001",
+    "language": "eng",
+    "content": "<p><strong>&quot;and} called&quot;</strong></p><p>That these people have been <strong>called</strong> implies that God has called and saved them. Alternate translation: “and whom God has called and saved”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26687\" data-resourceType=\"UWTranslationManual\">Assumed Knowledge and Implicit Information</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001001",
+          "start_ref_usfm": "JUD 1:1",
+          "end_ref": "65001001",
+          "end_ref_usfm": "JUD 1:1"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26687,
+          "content_id": 33273,
+          "label": "Assumed Knowledge and Implicit Information",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260410,
+    "reference_id": 166830,
+    "title": "Jude 1:1 (#7)",
+    "media_type": "Text",
+    "index_reference": "65001001",
+    "language": "eng",
+    "content": "<p><strong>&quot;loved in God the Father&quot;</strong></p><p>If your language does not use this passive form, you could express this with an active form. Alternate translation: “whom God the Father loves”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26672\" data-resourceType=\"UWTranslationManual\">Active or Passive</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001001",
+          "start_ref_usfm": "JUD 1:1",
+          "end_ref": "65001001",
+          "end_ref_usfm": "JUD 1:1"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26672,
+          "content_id": 33258,
+          "label": "Active or Passive",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260411,
+    "reference_id": 166831,
+    "title": "Jude 1:1 (#8)",
+    "media_type": "Text",
+    "index_reference": "65001001",
+    "language": "eng",
+    "content": "<p><strong>&quot;God the Father&quot;</strong></p><p><strong>Father</strong> is an important title for God.</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26763\" data-resourceType=\"UWTranslationManual\">Translating Son and Father</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001001",
+          "start_ref_usfm": "JUD 1:1",
+          "end_ref": "65001001",
+          "end_ref_usfm": "JUD 1:1"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26763,
+          "content_id": 33349,
+          "label": "Translating Son and Father",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260412,
+    "reference_id": 166832,
+    "title": "Jude 1:1 (#9)",
+    "media_type": "Text",
+    "index_reference": "65001001",
+    "language": "eng",
+    "content": "<p><strong>&quot;kept {and} called in Jesus Christ&quot;</strong></p><p>If your language does not use the passive form <strong>kept {and} called</strong>, you could express this with an active form. Alternate translation: “those whom Jesus Christ keeps and calls”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26672\" data-resourceType=\"UWTranslationManual\">Active or Passive</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001001",
+          "start_ref_usfm": "JUD 1:1",
+          "end_ref": "65001001",
+          "end_ref_usfm": "JUD 1:1"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26672,
+          "content_id": 33258,
+          "label": "Active or Passive",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260413,
+    "reference_id": 166833,
+    "title": "Jude 1:2 (#1)",
+    "media_type": "Text",
+    "index_reference": "65001002",
+    "language": "eng",
+    "content": "<p><strong>&quot;May mercy and peace and love be multiplied to you&quot;</strong></p><p>In this culture, letter writers would offer a good wish for the recipient before introducing the main business of the letter. Use a form in your language that makes it clear that this is a greeting and blessing. Alternate translation: “May God increase his mercy and peace and love to you”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26785\" data-resourceType=\"UWTranslationManual\">Blessings</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001002",
+          "start_ref_usfm": "JUD 1:2",
+          "end_ref": "65001002",
+          "end_ref_usfm": "JUD 1:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26785,
+          "content_id": 33371,
+          "label": "Blessings",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260414,
+    "reference_id": 166834,
+    "title": "Jude 1:2 (#2)",
+    "media_type": "Text",
+    "index_reference": "65001002",
+    "language": "eng",
+    "content": "<p><strong>&quot;May mercy and peace and love be multiplied to you&quot;</strong></p><p>If it would be helpful in your language, you could express the abstract nouns <strong>mercy</strong>, <strong>peace</strong>, and <strong>love</strong> by stating the ideas behind them with equivalent expressions. Alternate translation: “May God multiply his merciful acts to you and give you a more peaceful spirit and love you more and more”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26671\" data-resourceType=\"UWTranslationManual\">Abstract Nouns</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001002",
+          "start_ref_usfm": "JUD 1:2",
+          "end_ref": "65001002",
+          "end_ref_usfm": "JUD 1:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26671,
+          "content_id": 33257,
+          "label": "Abstract Nouns",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260415,
+    "reference_id": 166835,
+    "title": "Jude 1:2 (#3)",
+    "media_type": "Text",
+    "index_reference": "65001002",
+    "language": "eng",
+    "content": "<p><strong>&quot;May mercy and peace and love be multiplied&quot;</strong></p><p>Jude speaks of <strong>mercy and peace and love</strong> as if they were objects that could increase in size or numbers. If this is confusing in your language, you can use a different metaphor that means that these things will increase, or use plain language. Alternate translation: “May God increase his mercy and peace and love”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26706\" data-resourceType=\"UWTranslationManual\">Metaphor</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001002",
+          "start_ref_usfm": "JUD 1:2",
+          "end_ref": "65001002",
+          "end_ref_usfm": "JUD 1:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26706,
+          "content_id": 33292,
+          "label": "Metaphor",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260416,
+    "reference_id": 166836,
+    "title": "Jude 1:2 (#4)",
+    "media_type": "Text",
+    "index_reference": "65001002",
+    "language": "eng",
+    "content": "<p><strong>&quot;to you&quot;</strong></p><p>The word <strong>you</strong> in this letter refers to the Christians to whom Jude was writing and is always plural.</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26731\" data-resourceType=\"UWTranslationManual\">Forms of You</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001002",
+          "start_ref_usfm": "JUD 1:2",
+          "end_ref": "65001002",
+          "end_ref_usfm": "JUD 1:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26731,
+          "content_id": 33317,
+          "label": "Forms of You",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260417,
+    "reference_id": 166837,
+    "title": "Jude 1:3 (#1)",
+    "media_type": "Text",
+    "index_reference": "65001003",
+    "language": "eng",
+    "content": "<p><strong>&quot;Beloved ones&quot;</strong></p><p><strong>Beloved ones</strong> refers here to those to whom Jude is writing; it can be extended to all believers. If it would be helpful in your language, you could state this term explicitly. Alternate translation: “Beloved fellow believers”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26685\" data-resourceType=\"UWTranslationManual\">Exclusive and Inclusive ‘We’</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001003",
+          "start_ref_usfm": "JUD 1:3",
+          "end_ref": "65001003",
+          "end_ref_usfm": "JUD 1:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26685,
+          "content_id": 33271,
+          "label": "Exclusive and Inclusive ‘We’",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260418,
+    "reference_id": 166838,
+    "title": "Jude 1:3 (#2)",
+    "media_type": "Text",
+    "index_reference": "65001003",
+    "language": "eng",
+    "content": "<p><strong>&quot;making every effort to write to you&quot;</strong></p><p>This clause could refer to: (1) that fact that Jude had intended to write about something different than this letter is about. Alternate translation: “although making every effort to write to you” (2) the time when Jude was writing. Alternate translation: “when making every effort to write to you”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001003",
+          "start_ref_usfm": "JUD 1:3",
+          "end_ref": "65001003",
+          "end_ref_usfm": "JUD 1:3"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 260419,
+    "reference_id": 166839,
+    "title": "Jude 1:3 (#3)",
+    "media_type": "Text",
+    "index_reference": "65001003",
+    "language": "eng",
+    "content": "<p><strong>&quot;about our common salvation&quot;</strong></p><p>Alternate translation: “concerning the salvation we share”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001003",
+          "start_ref_usfm": "JUD 1:3",
+          "end_ref": "65001003",
+          "end_ref_usfm": "JUD 1:3"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 260420,
+    "reference_id": 166840,
+    "title": "Jude 1:3 (#4)",
+    "media_type": "Text",
+    "index_reference": "65001003",
+    "language": "eng",
+    "content": "<p><strong>&quot;about our common salvation&quot;</strong></p><p>If it would be helpful in your language, you could express the idea behind the abstract noun <strong>salvation</strong> with a verbal phrase. Alternate translation: “about how God saved us all together”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26671\" data-resourceType=\"UWTranslationManual\">Abstract Nouns</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001003",
+          "start_ref_usfm": "JUD 1:3",
+          "end_ref": "65001003",
+          "end_ref_usfm": "JUD 1:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26671,
+          "content_id": 33257,
+          "label": "Abstract Nouns",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260421,
+    "reference_id": 166841,
+    "title": "Jude 1:3 (#5)",
+    "media_type": "Text",
+    "index_reference": "65001003",
+    "language": "eng",
+    "content": "<p><strong>&quot;our&quot;</strong></p><p>Here, <strong>our</strong> refers to Jude and his audience, fellow believers.</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26685\" data-resourceType=\"UWTranslationManual\">Exclusive and Inclusive ‘We’</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001003",
+          "start_ref_usfm": "JUD 1:3",
+          "end_ref": "65001003",
+          "end_ref_usfm": "JUD 1:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26685,
+          "content_id": 33271,
+          "label": "Exclusive and Inclusive ‘We’",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260422,
+    "reference_id": 166842,
+    "title": "Jude 1:3 (#6)",
+    "media_type": "Text",
+    "index_reference": "65001003",
+    "language": "eng",
+    "content": "<p><strong>&quot;I have a necessity to write&quot;</strong></p><p>If it would be helpful in your language, you could express the idea behind the abstract noun <strong>necessity</strong> with an equivalent expression. Alternate translation: “I needed to write”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26671\" data-resourceType=\"UWTranslationManual\">Abstract Nouns</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001003",
+          "start_ref_usfm": "JUD 1:3",
+          "end_ref": "65001003",
+          "end_ref_usfm": "JUD 1:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26671,
+          "content_id": 33257,
+          "label": "Abstract Nouns",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260423,
+    "reference_id": 166843,
+    "title": "Jude 1:3 (#7)",
+    "media_type": "Text",
+    "index_reference": "65001003",
+    "language": "eng",
+    "content": "<p><strong>&quot;exhorting to contend for the faith&quot;</strong></p><p>This is a purpose clause. Jude is stating the purpose for which he has written the letter. In your translation, follow the conventions of your language for purpose clauses. Alternate translation (without a comma preceding): “in order to exhort you to contend for the faith”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26744\" data-resourceType=\"UWTranslationManual\">Connect — Goal (Purpose) Relationship</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001003",
+          "start_ref_usfm": "JUD 1:3",
+          "end_ref": "65001003",
+          "end_ref_usfm": "JUD 1:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26744,
+          "content_id": 33330,
+          "label": "Connect — Goal (Purpose) Relationship",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260424,
+    "reference_id": 166844,
+    "title": "Jude 1:3 (#8)",
+    "media_type": "Text",
+    "index_reference": "65001003",
+    "language": "eng",
+    "content": "<p><strong>&quot;exhorting to contend for the faith&quot;</strong></p><p>Jude is leaving out the word “you” that a sentence would need in many languages in order to be complete. This word can be supplied from the previous clause. Alternate translation: “exhorting you to contend for the faith”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26681\" data-resourceType=\"UWTranslationManual\">Ellipsis</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001003",
+          "start_ref_usfm": "JUD 1:3",
+          "end_ref": "65001003",
+          "end_ref_usfm": "JUD 1:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26681,
+          "content_id": 33267,
+          "label": "Ellipsis",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260425,
+    "reference_id": 166845,
+    "title": "Jude 1:3 (#9)",
+    "media_type": "Text",
+    "index_reference": "65001003",
+    "language": "eng",
+    "content": "<p><strong>&quot;for the faith delivered once for all to the saints&quot;</strong></p><p>If your language does not use the passive form <strong>delivered</strong>, you state who did the action. Alternate translation: “for the faith that God delivered once for all to the saints”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26672\" data-resourceType=\"UWTranslationManual\">Active or Passive</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001003",
+          "start_ref_usfm": "JUD 1:3",
+          "end_ref": "65001003",
+          "end_ref_usfm": "JUD 1:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26672,
+          "content_id": 33258,
+          "label": "Active or Passive",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260426,
+    "reference_id": 166846,
+    "title": "Jude 1:3 (#10)",
+    "media_type": "Text",
+    "index_reference": "65001003",
+    "language": "eng",
+    "content": "<p><strong>&quot;once for all&quot;</strong></p><p>Here, <strong>once for all</strong> expresses the idea of something that was done only once and never again. The meaning of <strong>for all</strong> is “for all time.” It does not mean “for the sake of all people.”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001003",
+          "start_ref_usfm": "JUD 1:3",
+          "end_ref": "65001003",
+          "end_ref_usfm": "JUD 1:3"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 260427,
+    "reference_id": 166847,
+    "title": "Jude 1:4 (#1)",
+    "media_type": "Text",
+    "index_reference": "65001004",
+    "language": "eng",
+    "content": "<p><strong>&quot;For&quot;</strong></p><p>Here, <strong>For</strong> indicates that Jude is giving a reason for why he said in the previous verse that he wants his readers to “contend for the faith.” Alternate translation: “I want you do to this because”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26745\" data-resourceType=\"UWTranslationManual\">Connect — Reason-and-Result Relationship</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001004",
+          "start_ref_usfm": "JUD 1:4",
+          "end_ref": "65001004",
+          "end_ref_usfm": "JUD 1:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26745,
+          "content_id": 33331,
+          "label": "Connect — Reason-and-Result Relationship",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260428,
+    "reference_id": 166848,
+    "title": "Jude 1:4 (#2)",
+    "media_type": "Text",
+    "index_reference": "65001004",
+    "language": "eng",
+    "content": "<p><strong>&quot;For certain men have entered secretly&quot;</strong></p><p>Alternate translation: “For some men have snuck in unnoticed” or “For some men have come in without drawing attention to themselves”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001004",
+          "start_ref_usfm": "JUD 1:4",
+          "end_ref": "65001004",
+          "end_ref_usfm": "JUD 1:4"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 260429,
+    "reference_id": 166849,
+    "title": "Jude 1:4 (#3)",
+    "media_type": "Text",
+    "index_reference": "65001004",
+    "language": "eng",
+    "content": "<p><strong>&quot;For certain men have entered secretly&quot;</strong></p><p>In this phrase, Jude is leaving out words from this sentence that it would need in many languages in order to be complete. If this phrase is required in your language, it can be supplied from verse <a href=\"https://ref.ly/Jude1:12\">12</a>. Alternate translation: “For certain men have entered secretly into your love feasts” or “For certain men have entered secretly into your gatherings”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26681\" data-resourceType=\"UWTranslationManual\">Ellipsis</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001004",
+          "start_ref_usfm": "JUD 1:4",
+          "end_ref": "65001004",
+          "end_ref_usfm": "JUD 1:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26681,
+          "content_id": 33267,
+          "label": "Ellipsis",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260430,
+    "reference_id": 166850,
+    "title": "Jude 1:4 (#4)",
+    "media_type": "Text",
+    "index_reference": "65001004",
+    "language": "eng",
+    "content": "<p><strong>&quot;the ones long ago having been designated beforehand for this condemnation&quot;</strong></p><p>If your language does not use this passive form <strong>having been designated</strong>, you could state who did the action. Alternate translation: “men whom God long ago designated beforehand for this condemnation”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26672\" data-resourceType=\"UWTranslationManual\">Active or Passive</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001004",
+          "start_ref_usfm": "JUD 1:4",
+          "end_ref": "65001004",
+          "end_ref_usfm": "JUD 1:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26672,
+          "content_id": 33258,
+          "label": "Active or Passive",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260431,
+    "reference_id": 166851,
+    "title": "Jude 1:4 (#5)",
+    "media_type": "Text",
+    "index_reference": "65001004",
+    "language": "eng",
+    "content": "<p><strong>&quot;for this condemnation&quot;</strong></p><p>If it would be helpful in your language, you could express the idea behind the abstract noun <strong>condemnation</strong> with an equivalent expression. Alternate translation: “to be condemned”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26671\" data-resourceType=\"UWTranslationManual\">Abstract Nouns</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001004",
+          "start_ref_usfm": "JUD 1:4",
+          "end_ref": "65001004",
+          "end_ref_usfm": "JUD 1:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26671,
+          "content_id": 33257,
+          "label": "Abstract Nouns",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260432,
+    "reference_id": 166852,
+    "title": "Jude 1:4 (#6)",
+    "media_type": "Text",
+    "index_reference": "65001004",
+    "language": "eng",
+    "content": "<p><strong>&quot;ungodly ones&quot;</strong></p><p>Here, <strong>ungodly ones</strong> refers to the “certain men” mentioned at the beginning of the verse. They are the false teachers Jude is warning his readers about. If it would be helpful in your language, you could state this term explicitly. Alternate translation: “ungodly false teachers”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26687\" data-resourceType=\"UWTranslationManual\">Assumed Knowledge and Implicit Information</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001004",
+          "start_ref_usfm": "JUD 1:4",
+          "end_ref": "65001004",
+          "end_ref_usfm": "JUD 1:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26687,
+          "content_id": 33273,
+          "label": "Assumed Knowledge and Implicit Information",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260433,
+    "reference_id": 166853,
+    "title": "Jude 1:4 (#7)",
+    "media_type": "Text",
+    "index_reference": "65001004",
+    "language": "eng",
+    "content": "<p><strong>&quot;changing the grace of our God into licentiousness&quot;</strong></p><p>Here, God’s <strong>grace</strong> is spoken of as if it were a thing that could be changed into something sinful. If this would be confusing in your language, you could translate this plainly. The false teachers were teaching that believers could do sexually immoral acts because God’s grace allowed it. Paul addressed this kind of false teaching when he wrote in Romans 6:1–2a: “Should we continue in sin so that grace may abound? May it never be!” Alternate translation: “teaching that God’s grace permits licentiousness”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26706\" data-resourceType=\"UWTranslationManual\">Metaphor</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001004",
+          "start_ref_usfm": "JUD 1:4",
+          "end_ref": "65001004",
+          "end_ref_usfm": "JUD 1:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26706,
+          "content_id": 33292,
+          "label": "Metaphor",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260434,
+    "reference_id": 166854,
+    "title": "Jude 1:4 (#8)",
+    "media_type": "Text",
+    "index_reference": "65001004",
+    "language": "eng",
+    "content": "<p><strong>&quot;our&quot;</strong> - <strong>&quot;our&quot;</strong></p><p>Both occurrences of <strong>our</strong> in this verse refer to all believers.</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26685\" data-resourceType=\"UWTranslationManual\">Exclusive and Inclusive ‘We’</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001004",
+          "start_ref_usfm": "JUD 1:4",
+          "end_ref": "65001004",
+          "end_ref_usfm": "JUD 1:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26685,
+          "content_id": 33271,
+          "label": "Exclusive and Inclusive ‘We’",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260435,
+    "reference_id": 166855,
+    "title": "Jude 1:4 (#9)",
+    "media_type": "Text",
+    "index_reference": "65001004",
+    "language": "eng",
+    "content": "<p><strong>&quot;the grace of our God&quot;</strong></p><p>If it would be helpful in your language, you could express the idea behind the abstract noun <strong>grace</strong> with an equivalent expression. Alternate translation: “the kind acts of our God”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26671\" data-resourceType=\"UWTranslationManual\">Abstract Nouns</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001004",
+          "start_ref_usfm": "JUD 1:4",
+          "end_ref": "65001004",
+          "end_ref_usfm": "JUD 1:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26671,
+          "content_id": 33257,
+          "label": "Abstract Nouns",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260436,
+    "reference_id": 166856,
+    "title": "Jude 1:4 (#10)",
+    "media_type": "Text",
+    "index_reference": "65001004",
+    "language": "eng",
+    "content": "<p><strong>&quot;into licentiousness&quot;</strong></p><p>If it would be helpful in your language, you could express the idea behind the abstract noun <strong>licentiousness</strong> with an adjective phrase. Alternate translation: “into licentious behavior”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26671\" data-resourceType=\"UWTranslationManual\">Abstract Nouns</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001004",
+          "start_ref_usfm": "JUD 1:4",
+          "end_ref": "65001004",
+          "end_ref_usfm": "JUD 1:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26671,
+          "content_id": 33257,
+          "label": "Abstract Nouns",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260437,
+    "reference_id": 166857,
+    "title": "Jude 1:4 (#11)",
+    "media_type": "Text",
+    "index_reference": "65001004",
+    "language": "eng",
+    "content": "<p><strong>&quot;denying our only Master and Lord, Jesus Christ&quot;</strong></p><p>Alternate translation: “teaching that Jesus Christ is not our Master and Lord”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001004",
+          "start_ref_usfm": "JUD 1:4",
+          "end_ref": "65001004",
+          "end_ref_usfm": "JUD 1:4"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 260438,
+    "reference_id": 166858,
+    "title": "Jude 1:4 (#12)",
+    "media_type": "Text",
+    "index_reference": "65001004",
+    "language": "eng",
+    "content": "<p><strong>&quot;our only Master and Lord&quot;</strong></p><p>Here, <strong>Lord</strong> means “the person who is lord over us” or “the person who rules over us.” The conjunction <strong>and</strong> indicates that <strong>our</strong> also applies back to <strong>only Master</strong>, meaning “the person who owns us.” Alternate translation: “the only person who owns us and rules over us”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26717\" data-resourceType=\"UWTranslationManual\">Possession</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001004",
+          "start_ref_usfm": "JUD 1:4",
+          "end_ref": "65001004",
+          "end_ref_usfm": "JUD 1:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26717,
+          "content_id": 33303,
+          "label": "Possession",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260439,
+    "reference_id": 166859,
+    "title": "Jude 1:5 (#1)",
+    "media_type": "Text",
+    "index_reference": "65001005",
+    "language": "eng",
+    "content": "<p><strong>&quot;I want to remind you, you knowing all things once for all&quot;</strong></p><p>If it would be natural in your language, you could reverse the order of the first two clauses. Alternate translation: “you knowing all things once for all, I want to remind you”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26700\" data-resourceType=\"UWTranslationManual\">Information Structure</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001005",
+          "start_ref_usfm": "JUD 1:5",
+          "end_ref": "65001005",
+          "end_ref_usfm": "JUD 1:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26700,
+          "content_id": 33286,
+          "label": "Information Structure",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260440,
+    "reference_id": 166860,
+    "title": "Jude 1:5 (#2)",
+    "media_type": "Text",
+    "index_reference": "65001005",
+    "language": "eng",
+    "content": "<p><strong>&quot;all things&quot;</strong></p><p>Here, <strong>all things</strong> refers specifically to all the information of which Jude is going to remind his readers. It does not mean everything there is to know about God or everything in general. If it would be helpful in your language, you could state this phrase explicitly. Alternate translation: “all these things of which I am reminding you”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26687\" data-resourceType=\"UWTranslationManual\">Assumed Knowledge and Implicit Information</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001005",
+          "start_ref_usfm": "JUD 1:5",
+          "end_ref": "65001005",
+          "end_ref_usfm": "JUD 1:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26687,
+          "content_id": 33273,
+          "label": "Assumed Knowledge and Implicit Information",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260441,
+    "reference_id": 166861,
+    "title": "Jude 1:5 (#3)",
+    "media_type": "Text",
+    "index_reference": "65001005",
+    "language": "eng",
+    "content": "<p><strong>&quot;that Jesus&quot;</strong></p><p>Here, some ancient manuscripts have, “that the Lord.” See the discussion of textual issues at the end of the Introduction to Jude to decide which phrase to use in your translation.</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26819\" data-resourceType=\"UWTranslationManual\">Textual Variants</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001005",
+          "start_ref_usfm": "JUD 1:5",
+          "end_ref": "65001005",
+          "end_ref_usfm": "JUD 1:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26819,
+          "content_id": 33405,
+          "label": "Textual Variants",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260442,
+    "reference_id": 166862,
+    "title": "Jude 1:5 (#4)",
+    "media_type": "Text",
+    "index_reference": "65001005",
+    "language": "eng",
+    "content": "<p><strong>&quot;having saved a people out of the land of Egypt&quot;</strong></p><p>This could mean that: (1) Jude is indicating the timing of the event described in this clause, in which case the timing is made clear by the occurrence of “afterward” in the next clause. (2) Jude is making a contrast between what Jesus did in this clause and what he did in the next. Alternate translation: “although he saved a people out of the land of Egypt”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001005",
+          "start_ref_usfm": "JUD 1:5",
+          "end_ref": "65001005",
+          "end_ref_usfm": "JUD 1:5"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 260443,
+    "reference_id": 166863,
+    "title": "Jude 1:5 (#5)",
+    "media_type": "Text",
+    "index_reference": "65001005",
+    "language": "eng",
+    "content": "<p><strong>&quot;having saved a people out of the land of Egypt&quot;</strong></p><p>If it would be helpful to your readers, you could state explicitly who the people were that he <strong>saved</strong>. Alternate translation: “having saved the people of Israel out of the land of Egypt” or “having saved the Israelites out of the land of Egypt”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26687\" data-resourceType=\"UWTranslationManual\">Assumed Knowledge and Implicit Information</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001005",
+          "start_ref_usfm": "JUD 1:5",
+          "end_ref": "65001005",
+          "end_ref_usfm": "JUD 1:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26687,
+          "content_id": 33273,
+          "label": "Assumed Knowledge and Implicit Information",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260444,
+    "reference_id": 166864,
+    "title": "Jude 1:6 (#1)",
+    "media_type": "Text",
+    "index_reference": "65001006",
+    "language": "eng",
+    "content": "<p><strong>&quot;not having kept their own domain&quot;</strong></p><p>Here, Jude uses this phrase to distinguish the <strong>angels</strong> who were kept by God for judgment from those who were not.</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26678\" data-resourceType=\"UWTranslationManual\">Distinguishing Versus Informing or Reminding</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001006",
+          "start_ref_usfm": "JUD 1:6",
+          "end_ref": "65001006",
+          "end_ref_usfm": "JUD 1:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26678,
+          "content_id": 33264,
+          "label": "Distinguishing Versus Informing or Reminding",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260445,
+    "reference_id": 166865,
+    "title": "Jude 1:6 (#2)",
+    "media_type": "Text",
+    "index_reference": "65001006",
+    "language": "eng",
+    "content": "<p><strong>&quot;their own domain&quot;</strong></p><p>Here, the word translated as <strong>domain</strong> refers to one’s sphere of influence or the place where one has authority. Alternate translation: “their proper area of influence” or “their own place of authority”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001006",
+          "start_ref_usfm": "JUD 1:6",
+          "end_ref": "65001006",
+          "end_ref_usfm": "JUD 1:6"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 260446,
+    "reference_id": 166866,
+    "title": "Jude 1:6 (#3)",
+    "media_type": "Text",
+    "index_reference": "65001006",
+    "language": "eng",
+    "content": "<p><strong>&quot;he has kept in eternal chains, under darkness&quot;</strong></p><p>Here, <strong>he</strong> refers to God. If it would be helpful for your readers, you could express this explicitly. Alternate translation: “God has kept in eternal chains, under darkness”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26838\" data-resourceType=\"UWTranslationManual\">Pronouns — When to Use Them</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001006",
+          "start_ref_usfm": "JUD 1:6",
+          "end_ref": "65001006",
+          "end_ref_usfm": "JUD 1:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26838,
+          "content_id": 33424,
+          "label": "Pronouns — When to Use Them",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260447,
+    "reference_id": 166867,
+    "title": "Jude 1:6 (#4)",
+    "media_type": "Text",
+    "index_reference": "65001006",
+    "language": "eng",
+    "content": "<p><strong>&quot;he has kept in eternal chains&quot;</strong></p><p>Here, <strong>kept in eternal chains</strong> refers to imprisonment that lasts forever. If it would be helpful in your language, you could include the idea of imprisonment in your translation. Alternate translations: “God has imprisoned for eternity”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001006",
+          "start_ref_usfm": "JUD 1:6",
+          "end_ref": "65001006",
+          "end_ref_usfm": "JUD 1:6"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 260448,
+    "reference_id": 166868,
+    "title": "Jude 1:6 (#5)",
+    "media_type": "Text",
+    "index_reference": "65001006",
+    "language": "eng",
+    "content": "<p><strong>&quot;under darkness&quot;</strong></p><p>Here, <strong>darkness</strong> is a metonym which represents the place of the dead or hell. Alternate translation: “in the utter darkness of hell”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26707\" data-resourceType=\"UWTranslationManual\">Metonymy</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001006",
+          "start_ref_usfm": "JUD 1:6",
+          "end_ref": "65001006",
+          "end_ref_usfm": "JUD 1:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26707,
+          "content_id": 33293,
+          "label": "Metonymy",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260449,
+    "reference_id": 166869,
+    "title": "Jude 1:6 (#6)",
+    "media_type": "Text",
+    "index_reference": "65001006",
+    "language": "eng",
+    "content": "<p><strong>&quot;for judgment of the great day&quot;</strong></p><p>This phrase gives the purpose or goal for which the angels have been imprisoned. Alternate translation: “for the purpose of the judgment of the great day”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26744\" data-resourceType=\"UWTranslationManual\">Connect — Goal (Purpose) Relationship</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001006",
+          "start_ref_usfm": "JUD 1:6",
+          "end_ref": "65001006",
+          "end_ref_usfm": "JUD 1:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26744,
+          "content_id": 33330,
+          "label": "Connect — Goal (Purpose) Relationship",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260450,
+    "reference_id": 166870,
+    "title": "Jude 1:6 (#7)",
+    "media_type": "Text",
+    "index_reference": "65001006",
+    "language": "eng",
+    "content": "<p><strong>&quot;for judgment of the great day&quot;</strong></p><p>If it would be helpful in your language, you could express the idea behind the abstract noun <strong>judgment</strong> with an equivalent expression. Alternate translation: “for the great day when God judges”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26671\" data-resourceType=\"UWTranslationManual\">Abstract Nouns</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001006",
+          "start_ref_usfm": "JUD 1:6",
+          "end_ref": "65001006",
+          "end_ref_usfm": "JUD 1:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26671,
+          "content_id": 33257,
+          "label": "Abstract Nouns",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260451,
+    "reference_id": 166871,
+    "title": "Jude 1:6 (#8)",
+    "media_type": "Text",
+    "index_reference": "65001006",
+    "language": "eng",
+    "content": "<p><strong>&quot;of the great day&quot;</strong></p><p>Here, <strong>the great day</strong> refers to “the day of the Lord,” which is the time when God judges everyone, and Jesus returns to earth. (See: <span data-bnType=\"resourceReference\" data-resourceId=\"25646\" data-resourceType=\"UWTranslationWords\">Day of the Lord</span>) If it would be helpful to your readers, you could express this explicitly. Alternate translation: “the great day of the Lord”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26687\" data-resourceType=\"UWTranslationManual\">Assumed Knowledge and Implicit Information</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001006",
+          "start_ref_usfm": "JUD 1:6",
+          "end_ref": "65001006",
+          "end_ref_usfm": "JUD 1:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25646,
+          "content_id": 26504,
+          "label": "Day of the Lord",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26687,
+          "content_id": 33273,
+          "label": "Assumed Knowledge and Implicit Information",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260452,
+    "reference_id": 166872,
+    "title": "Jude 1:7 (#1)",
+    "media_type": "Text",
+    "index_reference": "65001007",
+    "language": "eng",
+    "content": "<p><strong>&quot;Sodom and Gomorrah and the cities around them&quot;</strong></p><p>Here, <strong>Sodom</strong>, <strong>Gomorrah</strong>, and <strong>cities</strong> all refer to the people who lived in those cities. Alternate translation: “the people in the region of Sodom and Gomorrah”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26707\" data-resourceType=\"UWTranslationManual\">Metonymy</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001007",
+          "start_ref_usfm": "JUD 1:7",
+          "end_ref": "65001007",
+          "end_ref_usfm": "JUD 1:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26707,
+          "content_id": 33293,
+          "label": "Metonymy",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260453,
+    "reference_id": 166873,
+    "title": "Jude 1:7 (#2)",
+    "media_type": "Text",
+    "index_reference": "65001007",
+    "language": "eng",
+    "content": "<p><strong>&quot;in the same manner {as} these&quot;</strong></p><p>Here, <strong>these</strong> refers to the angels mentioned in the previous verse. The sexual sins of Sodom and Gomorrah were the result of the same kind of rebellion as the angels’ evil ways. If it would be helpful in your language, you could state this phrase explicitly. Alternate translation: “in the same manner as these wicked angels”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26838\" data-resourceType=\"UWTranslationManual\">Pronouns — When to Use Them</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001007",
+          "start_ref_usfm": "JUD 1:7",
+          "end_ref": "65001007",
+          "end_ref_usfm": "JUD 1:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26838,
+          "content_id": 33424,
+          "label": "Pronouns — When to Use Them",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260454,
+    "reference_id": 166874,
+    "title": "Jude 1:7 (#3)",
+    "media_type": "Text",
+    "index_reference": "65001007",
+    "language": "eng",
+    "content": "<p><strong>&quot;having committed sexual immorality&quot;</strong></p><p>If it would be helpful in your language, you could express the idea behind the abstract noun <strong>sexual immortality</strong> with an equivalent expression. Alternate translation: “having committed sexually immoral acts”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26671\" data-resourceType=\"UWTranslationManual\">Abstract Nouns</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001007",
+          "start_ref_usfm": "JUD 1:7",
+          "end_ref": "65001007",
+          "end_ref_usfm": "JUD 1:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26671,
+          "content_id": 33257,
+          "label": "Abstract Nouns",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260455,
+    "reference_id": 166875,
+    "title": "Jude 1:7 (#4)",
+    "media_type": "Text",
+    "index_reference": "65001007",
+    "language": "eng",
+    "content": "<p><strong>&quot;and having gone after other flesh&quot;</strong></p><p>Here Jude uses the phrase <strong>having gone after</strong> to refer to actively engaging in an improper activity instead of a proper one. This expression is frequently used in the Bible to describe people worshiping false gods or engaging in sexual immorality. If it would be helpful in your language, you could state this phrase literally. Alternate translation: “and habitually engaging in sexual immorality with other flesh”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26706\" data-resourceType=\"UWTranslationManual\">Metaphor</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001007",
+          "start_ref_usfm": "JUD 1:7",
+          "end_ref": "65001007",
+          "end_ref_usfm": "JUD 1:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26706,
+          "content_id": 33292,
+          "label": "Metaphor",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260456,
+    "reference_id": 166876,
+    "title": "Jude 1:7 (#5)",
+    "media_type": "Text",
+    "index_reference": "65001007",
+    "language": "eng",
+    "content": "<p><strong>&quot;other flesh&quot;</strong></p><p>Here, <strong>other flesh</strong> could refer to: (1) the sexual immorality mentioned in the previous clause. Alternate translation: “improper sexual relations” (2) flesh of a different species, in this case referring to the angels whom the people of Sodom and Gomorrah wants to have sexual relations with. Alternate translation: “flesh of a different type”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001007",
+          "start_ref_usfm": "JUD 1:7",
+          "end_ref": "65001007",
+          "end_ref_usfm": "JUD 1:7"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 260457,
+    "reference_id": 166877,
+    "title": "Jude 1:7 (#6)",
+    "media_type": "Text",
+    "index_reference": "65001007",
+    "language": "eng",
+    "content": "<p><strong>&quot;are being displayed {as} an example&quot;</strong></p><p>The destruction of the people of Sodom and Gomorrah is an <strong>example</strong> of what happens to people who reject God. If it would be helpful in your language, you could state this phrase explicitly. Alternate translation: “are being displayed as an example of those who reject God”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26687\" data-resourceType=\"UWTranslationManual\">Assumed Knowledge and Implicit Information</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001007",
+          "start_ref_usfm": "JUD 1:7",
+          "end_ref": "65001007",
+          "end_ref_usfm": "JUD 1:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26687,
+          "content_id": 33273,
+          "label": "Assumed Knowledge and Implicit Information",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260458,
+    "reference_id": 166878,
+    "title": "Jude 1:7 (#7)",
+    "media_type": "Text",
+    "index_reference": "65001007",
+    "language": "eng",
+    "content": "<p><strong>&quot;suffering punishment of eternal fire&quot;</strong></p><p>If it would be helpful in your language, you could express the idea behind the abstract noun <strong>punishment</strong> with a verbal phrase. Alternate translation: “suffering when God punished them with eternal fire”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26671\" data-resourceType=\"UWTranslationManual\">Abstract Nouns</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001007",
+          "start_ref_usfm": "JUD 1:7",
+          "end_ref": "65001007",
+          "end_ref_usfm": "JUD 1:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26671,
+          "content_id": 33257,
+          "label": "Abstract Nouns",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260459,
+    "reference_id": 166879,
+    "title": "Jude 1:8 (#1)",
+    "media_type": "Text",
+    "index_reference": "65001008",
+    "language": "eng",
+    "content": "<p><strong>&quot;in the same way&quot;</strong></p><p>Here, <strong>in the same way</strong> refers back to the sexual immorality of the people of Sodom and Gomorrah referred to in the previous verse, and possibly the improper behavior of the wicked angels referred to in verse <a href=\"https://ref.ly/Jude1:6\">6</a>. If it would be helpful in your language, you could state this connection explicitly. Alternate translation: “in the same way as these sexually immoral ones”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26687\" data-resourceType=\"UWTranslationManual\">Assumed Knowledge and Implicit Information</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001008",
+          "start_ref_usfm": "JUD 1:8",
+          "end_ref": "65001008",
+          "end_ref_usfm": "JUD 1:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26687,
+          "content_id": 33273,
+          "label": "Assumed Knowledge and Implicit Information",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260460,
+    "reference_id": 166880,
+    "title": "Jude 1:8 (#2)",
+    "media_type": "Text",
+    "index_reference": "65001008",
+    "language": "eng",
+    "content": "<p><strong>&quot;these, dreaming&quot;</strong></p><p>Here, <strong>these</strong> refers to the false teachers introduced in verse <a href=\"https://ref.ly/Jude1:4\">4</a>. If it would be helpful in your language, you could state this phrase explicitly. Alternate translation: “these false teachers who dream”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26838\" data-resourceType=\"UWTranslationManual\">Pronouns — When to Use Them</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001008",
+          "start_ref_usfm": "JUD 1:8",
+          "end_ref": "65001008",
+          "end_ref_usfm": "JUD 1:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26838,
+          "content_id": 33424,
+          "label": "Pronouns — When to Use Them",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260461,
+    "reference_id": 166881,
+    "title": "Jude 1:8 (#3)",
+    "media_type": "Text",
+    "index_reference": "65001008",
+    "language": "eng",
+    "content": "<p><strong>&quot;indeed defile the flesh&quot;</strong></p><p>Here, <strong>flesh</strong> refers to the bodies of these false teachers. Paul agrees with this idea when he says in 1 Corinthians 6:18 that sexual immorality is sin against one’s own body. If it would be helpful in your language, you could state this idea explicitly. Alternate translation: “defile their bodies”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26707\" data-resourceType=\"UWTranslationManual\">Metonymy</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001008",
+          "start_ref_usfm": "JUD 1:8",
+          "end_ref": "65001008",
+          "end_ref_usfm": "JUD 1:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26707,
+          "content_id": 33293,
+          "label": "Metonymy",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260462,
+    "reference_id": 166882,
+    "title": "Jude 1:8 (#4)",
+    "media_type": "Text",
+    "index_reference": "65001008",
+    "language": "eng",
+    "content": "<p><strong>&quot;lordship&quot;</strong></p><p>Here, <strong>lordship</strong> could refer to: (1) the lordship of Jesus. Alternate translation: “the ruling authority of Jesus” (2) the lordship of God. Alternate translation: “the ruling authority of God”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001008",
+          "start_ref_usfm": "JUD 1:8",
+          "end_ref": "65001008",
+          "end_ref_usfm": "JUD 1:8"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 260463,
+    "reference_id": 166883,
+    "title": "Jude 1:8 (#5)",
+    "media_type": "Text",
+    "index_reference": "65001008",
+    "language": "eng",
+    "content": "<p><strong>&quot;reject lordship&quot;</strong></p><p>If it would be helpful in your language, you could express the idea behind the abstract noun <strong>lordship</strong> with an equivalent expression. Alternate translation: “reject what Jesus commands” or “reject what God commands”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26671\" data-resourceType=\"UWTranslationManual\">Abstract Nouns</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001008",
+          "start_ref_usfm": "JUD 1:8",
+          "end_ref": "65001008",
+          "end_ref_usfm": "JUD 1:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26671,
+          "content_id": 33257,
+          "label": "Abstract Nouns",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260464,
+    "reference_id": 166884,
+    "title": "Jude 1:8 (#6)",
+    "media_type": "Text",
+    "index_reference": "65001008",
+    "language": "eng",
+    "content": "<p><strong>&quot;glorious ones&quot;</strong></p><p>Here, <strong>glorious ones</strong> refers to spiritual beings, such as angels. Alternate translation: “glorious spiritual beings”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001008",
+          "start_ref_usfm": "JUD 1:8",
+          "end_ref": "65001008",
+          "end_ref_usfm": "JUD 1:8"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 260465,
+    "reference_id": 166885,
+    "title": "Jude 1:9 (#1)",
+    "media_type": "Text",
+    "index_reference": "65001009",
+    "language": "eng",
+    "content": "<p><strong>&quot;to bring a judgment of slander {against him&quot;</strong></p><p>Here Jude speaks of <strong>judgment</strong> as if it were something someone can <strong>bring</strong> from one place to another. If it would be helpful in your language, you could state this metaphor plainly. Alternate translation: “to speak a judgment of slander against him”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26706\" data-resourceType=\"UWTranslationManual\">Metaphor</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001009",
+          "start_ref_usfm": "JUD 1:9",
+          "end_ref": "65001009",
+          "end_ref_usfm": "JUD 1:9"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26706,
+          "content_id": 33292,
+          "label": "Metaphor",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260466,
+    "reference_id": 166886,
+    "title": "Jude 1:9 (#2)",
+    "media_type": "Text",
+    "index_reference": "65001009",
+    "language": "eng",
+    "content": "<p><strong>&quot;to bring a judgment of slander {against him&quot;</strong></p><p>If it would be helpful in your language, you could express the idea behind the abstract noun <strong>judgment</strong> with an equivalent expression. Alternate translation: “to accuse him of slander”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26671\" data-resourceType=\"UWTranslationManual\">Abstract Nouns</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001009",
+          "start_ref_usfm": "JUD 1:9",
+          "end_ref": "65001009",
+          "end_ref_usfm": "JUD 1:9"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26671,
+          "content_id": 33257,
+          "label": "Abstract Nouns",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260467,
+    "reference_id": 166887,
+    "title": "Jude 1:9 (#3)",
+    "media_type": "Text",
+    "index_reference": "65001009",
+    "language": "eng",
+    "content": "<p><strong>&quot;to bring a judgment of slander {against him&quot;</strong></p><p>Jude is using the possessive form to describe a <strong>judgment</strong> that is characterized by <strong>slander</strong>. If this is not clear in your language, you could use a phrase to explain it. Alternate translation: “to bring a slanderous judgment against him”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26717\" data-resourceType=\"UWTranslationManual\">Possession</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001009",
+          "start_ref_usfm": "JUD 1:9",
+          "end_ref": "65001009",
+          "end_ref_usfm": "JUD 1:9"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26717,
+          "content_id": 33303,
+          "label": "Possession",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260468,
+    "reference_id": 166888,
+    "title": "Jude 1:10 (#1)",
+    "media_type": "Text",
+    "index_reference": "65001010",
+    "language": "eng",
+    "content": "<p><strong>&quot;these ones&quot;</strong></p><p>Here, <strong>these ones</strong> refers to the false teachers introduced in verse <a href=\"https://ref.ly/Jude1:4\">4</a>. If it would be helpful in your language, you could state this phrase explicitly. Alternate translation: “these false teachers”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26838\" data-resourceType=\"UWTranslationManual\">Pronouns — When to Use Them</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001010",
+          "start_ref_usfm": "JUD 1:10",
+          "end_ref": "65001010",
+          "end_ref_usfm": "JUD 1:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26838,
+          "content_id": 33424,
+          "label": "Pronouns — When to Use Them",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260469,
+    "reference_id": 166889,
+    "title": "Jude 1:10 (#2)",
+    "media_type": "Text",
+    "index_reference": "65001010",
+    "language": "eng",
+    "content": "<p><strong>&quot;what they do not understand&quot;</strong></p><p>This word <strong>what</strong> could refer to: (1) the spiritual realm referred to in the previous verse. Alternate translation: “the spiritual realm, which they do not understand” (2) the glorious ones mentioned in verse <a href=\"https://ref.ly/Jude1:8\">8</a>. Alternate translation: “the glorious ones, which they do not understand”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001010",
+          "start_ref_usfm": "JUD 1:10",
+          "end_ref": "65001010",
+          "end_ref_usfm": "JUD 1:10"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 260470,
+    "reference_id": 166890,
+    "title": "Jude 1:10 (#3)",
+    "media_type": "Text",
+    "index_reference": "65001010",
+    "language": "eng",
+    "content": "<p><strong>&quot;&quot;</strong></p><p>This clause refers to the sexual immorality of the false teachers, who thoughtlessly live according to their natural sexual desires, the way animals do. If it would be helpful in your language, you could express this simile by translating the simile plainly. Alternate translation: “what they naturally understand, unrestrained sexual desires”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26728\" data-resourceType=\"UWTranslationManual\">Simile</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001010",
+          "start_ref_usfm": "JUD 1:10",
+          "end_ref": "65001010",
+          "end_ref_usfm": "JUD 1:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26728,
+          "content_id": 33314,
+          "label": "Simile",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260471,
+    "reference_id": 166891,
+    "title": "Jude 1:10 (#4)",
+    "media_type": "Text",
+    "index_reference": "65001010",
+    "language": "eng",
+    "content": "<p><strong>&quot;by these things&quot;</strong></p><p>Here, <strong>these things</strong> refers back to “what they understand by instinct,” which is sexually immoral acts. If it would be helpful in your language, you could express this explicitly. Alternate translation: “by these sexually immoral acts”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26838\" data-resourceType=\"UWTranslationManual\">Pronouns — When to Use Them</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001010",
+          "start_ref_usfm": "JUD 1:10",
+          "end_ref": "65001010",
+          "end_ref_usfm": "JUD 1:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26838,
+          "content_id": 33424,
+          "label": "Pronouns — When to Use Them",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260472,
+    "reference_id": 166892,
+    "title": "Jude 1:10 (#5)",
+    "media_type": "Text",
+    "index_reference": "65001010",
+    "language": "eng",
+    "content": "<p><strong>&quot;by these things they are being destroyed&quot;</strong></p><p>If your language does not use the passive form <strong>are being destroyed</strong>, you could express this with an active form. Alternate translation: “these things are destroying them”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26672\" data-resourceType=\"UWTranslationManual\">Active or Passive</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001010",
+          "start_ref_usfm": "JUD 1:10",
+          "end_ref": "65001010",
+          "end_ref_usfm": "JUD 1:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26672,
+          "content_id": 33258,
+          "label": "Active or Passive",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260473,
+    "reference_id": 166893,
+    "title": "Jude 1:11 (#1)",
+    "media_type": "Text",
+    "index_reference": "65001011",
+    "language": "eng",
+    "content": "<p><strong>&quot;Woe to them&quot;</strong></p><p>The phrase <strong>Woe to them</strong> is the opposite of “blessed are you.” It indicates that bad things are going to happen to the people being addressed, because they have displeased God. Alternate translation: “How terrible it is for them” or “Trouble will come to them”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26697\" data-resourceType=\"UWTranslationManual\">Idiom</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001011",
+          "start_ref_usfm": "JUD 1:11",
+          "end_ref": "65001011",
+          "end_ref_usfm": "JUD 1:11"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26697,
+          "content_id": 33283,
+          "label": "Idiom",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260474,
+    "reference_id": 166894,
+    "title": "Jude 1:11 (#2)",
+    "media_type": "Text",
+    "index_reference": "65001011",
+    "language": "eng",
+    "content": "<p><strong>&quot;they have gone in the way of Cain&quot;</strong></p><p>Here, <strong>have gone in the way</strong> is a metaphor for “have lived in the same way as.” If it would be helpful in your language, you could state this metaphor plainly. Alternate translation: “they have lived the same way Cain lived”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26706\" data-resourceType=\"UWTranslationManual\">Metaphor</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001011",
+          "start_ref_usfm": "JUD 1:11",
+          "end_ref": "65001011",
+          "end_ref_usfm": "JUD 1:11"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26706,
+          "content_id": 33292,
+          "label": "Metaphor",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260475,
+    "reference_id": 166895,
+    "title": "Jude 1:11 (#3)",
+    "media_type": "Text",
+    "index_reference": "65001011",
+    "language": "eng",
+    "content": "<p><strong>&quot;of Cain&quot;</strong></p><p>Here Jude compares the false teachers to <strong>Cain</strong>. Jude assumes that his readers will know that he is referring to a story recorded in the Old Testament book of Genesis. In that story, Cain made an unacceptable offering to God, and God rejected his offering. As a result he became angry and was jealous of his brother Abel, because God had accepted Abel’s offering. Cain’s anger and jealousy led him to murder his brother. God punished Cain by banishing him from farming the land. Additionally, at the time Jude wrote this letter, Jews considered Cain to be an example of someone who taught other people how to sin, which is what these false teachers were doing. You could indicate some of this explicitly if it would be helpful to your readers, particularly if they would not know the story. Alternate translation, as a statement: “of Cain, who murdered his brother”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26687\" data-resourceType=\"UWTranslationManual\">Assumed Knowledge and Implicit Information</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001011",
+          "start_ref_usfm": "JUD 1:11",
+          "end_ref": "65001011",
+          "end_ref_usfm": "JUD 1:11"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26687,
+          "content_id": 33273,
+          "label": "Assumed Knowledge and Implicit Information",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260476,
+    "reference_id": 166896,
+    "title": "Jude 1:11 (#4)",
+    "media_type": "Text",
+    "index_reference": "65001011",
+    "language": "eng",
+    "content": "<p><strong>&quot;have abandoned themselves&quot;</strong></p><p>Alternate translation: “they have fully committed themselves”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001011",
+          "start_ref_usfm": "JUD 1:11",
+          "end_ref": "65001011",
+          "end_ref_usfm": "JUD 1:11"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 260477,
+    "reference_id": 166897,
+    "title": "Jude 1:11 (#5)",
+    "media_type": "Text",
+    "index_reference": "65001011",
+    "language": "eng",
+    "content": "<p><strong>&quot;of Balaam {for} wages&quot;</strong></p><p>Here Jude compares the false teachers to <strong>Balaam</strong>. Jude assumes that his readers will know that he is referring to a story recorded in the Old Testament book of Numbers. In that story, Balaam was hired by wicked kings to curse the Israelites. When God did not allow Balaam to do so, Balaam used wicked women to seduce the Israelites into sexual immorality and idol worship so that God would punish them for their disobedience. Balaam did these wicked things because he wanted to be paid by the wicked kings, but he was eventually killed by the Israelites when they conquered the land of Canaan. You could indicate this explicitly if it would be helpful to your readers, particularly if they would not know the story. Alternate translation, as a statement: “of Balaam, who led the Israelites into immorality for money”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26687\" data-resourceType=\"UWTranslationManual\">Assumed Knowledge and Implicit Information</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001011",
+          "start_ref_usfm": "JUD 1:11",
+          "end_ref": "65001011",
+          "end_ref_usfm": "JUD 1:11"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26687,
+          "content_id": 33273,
+          "label": "Assumed Knowledge and Implicit Information",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260478,
+    "reference_id": 166898,
+    "title": "Jude 1:11 (#6)",
+    "media_type": "Text",
+    "index_reference": "65001011",
+    "language": "eng",
+    "content": "<p><strong>&quot;of Korah&quot;</strong></p><p>Here Jude compares the false teachers to <strong>Korah</strong>. Jude assumes that his readers will know that he is referring to a story recorded in the Old Testament book of Numbers. In that story, Korah was a man of Israel who led a rebellion against the leadership of Moses and Aaron, whom God had appointed. God killed Korah and all those who rebelled with him by burning some of them and opening up the ground to swallow up the others. You could indicate some of this explicitly if it would be helpful to your readers, particularly if they would not know the story. Alternate translation, as a statement: “of Korah, who rebelled against God’s appointed leaders”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26687\" data-resourceType=\"UWTranslationManual\">Assumed Knowledge and Implicit Information</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001011",
+          "start_ref_usfm": "JUD 1:11",
+          "end_ref": "65001011",
+          "end_ref_usfm": "JUD 1:11"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26687,
+          "content_id": 33273,
+          "label": "Assumed Knowledge and Implicit Information",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260479,
+    "reference_id": 166899,
+    "title": "Jude 1:11 (#7)",
+    "media_type": "Text",
+    "index_reference": "65001011",
+    "language": "eng",
+    "content": "<p><strong>&quot;they perished&quot;</strong></p><p>Jude is using the past tense in order to refer to something that will happen in the future. He is doing this to show that the event will certainly happen. If this is not clear in your language, you could use the future tense. Alternate translation: “they will certainly perish”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26715\" data-resourceType=\"UWTranslationManual\">Predictive Past</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001011",
+          "start_ref_usfm": "JUD 1:11",
+          "end_ref": "65001011",
+          "end_ref_usfm": "JUD 1:11"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26715,
+          "content_id": 33301,
+          "label": "Predictive Past",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260480,
+    "reference_id": 166900,
+    "title": "Jude 1:12 (#1)",
+    "media_type": "Text",
+    "index_reference": "65001012",
+    "language": "eng",
+    "content": "<p><strong>&quot;These ones&quot;</strong></p><p>Here, <strong>These ones</strong> refers to the false teachers introduced in verse <a href=\"https://ref.ly/Jude1:4\">4</a>. If it would be helpful in your language, you could state this phrase explicitly. Alternate translation: “These false teachers”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26838\" data-resourceType=\"UWTranslationManual\">Pronouns — When to Use Them</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001012",
+          "start_ref_usfm": "JUD 1:12",
+          "end_ref": "65001012",
+          "end_ref_usfm": "JUD 1:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26838,
+          "content_id": 33424,
+          "label": "Pronouns — When to Use Them",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260481,
+    "reference_id": 166901,
+    "title": "Jude 1:12 (#2)",
+    "media_type": "Text",
+    "index_reference": "65001012",
+    "language": "eng",
+    "content": "<p><strong>&quot;hidden reefs&quot;</strong></p><p>Here, <strong>reefs</strong> are large rocks that are very close to the surface of water in the sea. Because sailors cannot see them, they are very dangerous. Ships can easily be destroyed if they hit these rocks. If it would be helpful in your language, you could express this metaphor with a simile or plainly. Alternate translation: “they are like hidden reefs” or “although they are inconspicuous, these people are extremely dangerous”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26706\" data-resourceType=\"UWTranslationManual\">Metaphor</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001012",
+          "start_ref_usfm": "JUD 1:12",
+          "end_ref": "65001012",
+          "end_ref_usfm": "JUD 1:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26706,
+          "content_id": 33292,
+          "label": "Metaphor",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260482,
+    "reference_id": 166902,
+    "title": "Jude 1:12 (#3)",
+    "media_type": "Text",
+    "index_reference": "65001012",
+    "language": "eng",
+    "content": "<p><strong>&quot;love feasts&quot;</strong></p><p>Here, <strong>love feasts</strong> refers to gatherings of Christians where they ate a meal together. These <strong>feasts</strong> took place in the early church and most likely included sharing the bread and wine to remember the death of Jesus, which Paul calls “the Lord’s Supper” in 1 Corinthians 11:20. If it would be helpful in your language, you could express some of this information explicitly. Alternate translation: “communal meals with fellow believers”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26822\" data-resourceType=\"UWTranslationManual\">Translate Unknowns</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001012",
+          "start_ref_usfm": "JUD 1:12",
+          "end_ref": "65001012",
+          "end_ref_usfm": "JUD 1:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26822,
+          "content_id": 33408,
+          "label": "Translate Unknowns",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260483,
+    "reference_id": 166903,
+    "title": "Jude 1:12 (#4)",
+    "media_type": "Text",
+    "index_reference": "65001012",
+    "language": "eng",
+    "content": "<p><strong>&quot;shepherding themselves&quot;</strong></p><p>Here Jude speaks of the false teachers selfishly taking care of their own needs as if they are shepherds who feed and care for themselves instead of their flocks. If it would be helpful in your language, you could express this metaphor with a simile or plainly. Alternate translation: “like shepherds that feed themselves instead of their flocks” or “only caring for themselves”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26706\" data-resourceType=\"UWTranslationManual\">Metaphor</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001012",
+          "start_ref_usfm": "JUD 1:12",
+          "end_ref": "65001012",
+          "end_ref_usfm": "JUD 1:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26706,
+          "content_id": 33292,
+          "label": "Metaphor",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260484,
+    "reference_id": 166904,
+    "title": "Jude 1:12 (#5)",
+    "media_type": "Text",
+    "index_reference": "65001012",
+    "language": "eng",
+    "content": "<p><strong>&quot;waterless clouds, carried along by winds&quot;</strong></p><p>Jude speaks of the false teachers to describe their uselessness. People expect clouds to provide water to grow crops, but <strong>waterless clouds</strong> disappoint farmers by being blown away by the wind without giving rain. In the same way, false teachers, although they promise many things, are unable to do what they promise. If it would be helpful in your language, you could express this metaphor by translating this plainly or turn the metaphor into a simile. Alternate translation: “These false teachers never give what they promise” or “These false teachers disappoint like clouds without water”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26706\" data-resourceType=\"UWTranslationManual\">Metaphor</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001012",
+          "start_ref_usfm": "JUD 1:12",
+          "end_ref": "65001012",
+          "end_ref_usfm": "JUD 1:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26706,
+          "content_id": 33292,
+          "label": "Metaphor",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260485,
+    "reference_id": 166905,
+    "title": "Jude 1:12 (#6)",
+    "media_type": "Text",
+    "index_reference": "65001012",
+    "language": "eng",
+    "content": "<p><strong>&quot;carried along by winds&quot;</strong></p><p>If your language does not use the passive form <strong>carried along</strong>, you could express this with an active form. Alternate translation: “which the wind carries along”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26672\" data-resourceType=\"UWTranslationManual\">Active or Passive</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001012",
+          "start_ref_usfm": "JUD 1:12",
+          "end_ref": "65001012",
+          "end_ref_usfm": "JUD 1:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26672,
+          "content_id": 33258,
+          "label": "Active or Passive",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260486,
+    "reference_id": 166906,
+    "title": "Jude 1:12 (#7)",
+    "media_type": "Text",
+    "index_reference": "65001012",
+    "language": "eng",
+    "content": "<p><strong>&quot;fruitless autumn trees&quot;</strong></p><p>Here Jude again speaks of the false teachers to describe their uselessness. People expect trees in the autumn to provide fruit, but <strong>fruitless autumn trees</strong> disappoint them. In the same way, false teachers, although they promise many things, are unable to do what they promise. If it would be helpful in your language, you could express this metaphor by translating this plainly or turn the metaphor into a simile. Alternate translation: “never giving what they promise” or “like barren fruit trees”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26706\" data-resourceType=\"UWTranslationManual\">Metaphor</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001012",
+          "start_ref_usfm": "JUD 1:12",
+          "end_ref": "65001012",
+          "end_ref_usfm": "JUD 1:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26706,
+          "content_id": 33292,
+          "label": "Metaphor",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260487,
+    "reference_id": 166907,
+    "title": "Jude 1:12 (#8)",
+    "media_type": "Text",
+    "index_reference": "65001012",
+    "language": "eng",
+    "content": "<p><strong>&quot;having died twice, having been uprooted&quot;</strong></p><p>Here Jude is using the past tense in order to refer to something that will happen in the future. He is doing this to show that the event will certainly happen. If this is not clear in your language, you could use the future tense. Alternate translation: “they will certainly die twice, they will certainly be uprooted”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26715\" data-resourceType=\"UWTranslationManual\">Predictive Past</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001012",
+          "start_ref_usfm": "JUD 1:12",
+          "end_ref": "65001012",
+          "end_ref_usfm": "JUD 1:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26715,
+          "content_id": 33301,
+          "label": "Predictive Past",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260488,
+    "reference_id": 166908,
+    "title": "Jude 1:12 (#9)",
+    "media_type": "Text",
+    "index_reference": "65001012",
+    "language": "eng",
+    "content": "<p><strong>&quot;having died twice, having been uprooted&quot;</strong></p><p>Here, <strong>having died twice</strong> could mean: (1) the trees are considered to be dead firstly because they do not produce fruit, but doubly dead because they are uprooted in response to their lack of fruit. Alternate translation: “having died twice by being fruitless and uprooted” (2) the trees, which represent the false teachers, are spiritually dead but will also be physically dead when God kills them. “being spiritually dead and then physically dead when they were uprooted”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001012",
+          "start_ref_usfm": "JUD 1:12",
+          "end_ref": "65001012",
+          "end_ref_usfm": "JUD 1:12"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 260489,
+    "reference_id": 166909,
+    "title": "Jude 1:12 (#10)",
+    "media_type": "Text",
+    "index_reference": "65001012",
+    "language": "eng",
+    "content": "<p><strong>&quot;having been uprooted&quot;</strong></p><p>Jude describes God’s judgment of these false teachers like trees that have been completely pulled out of the ground by their roots. If it would be helpful in your language, you could state this metaphor plainly. Alternate translation: “having been destroyed”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26706\" data-resourceType=\"UWTranslationManual\">Metaphor</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001012",
+          "start_ref_usfm": "JUD 1:12",
+          "end_ref": "65001012",
+          "end_ref_usfm": "JUD 1:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26706,
+          "content_id": 33292,
+          "label": "Metaphor",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260490,
+    "reference_id": 166910,
+    "title": "Jude 1:12 (#11)",
+    "media_type": "Text",
+    "index_reference": "65001012",
+    "language": "eng",
+    "content": "<p><strong>&quot;having been uprooted&quot;</strong></p><p>If your language does not use this passive form, you could this with an active form and say who did the action. Alternate translation: “God uprooted them”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26672\" data-resourceType=\"UWTranslationManual\">Active or Passive</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001012",
+          "start_ref_usfm": "JUD 1:12",
+          "end_ref": "65001012",
+          "end_ref_usfm": "JUD 1:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26672,
+          "content_id": 33258,
+          "label": "Active or Passive",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260491,
+    "reference_id": 166911,
+    "title": "Jude 1:13 (#1)",
+    "media_type": "Text",
+    "index_reference": "65001013",
+    "language": "eng",
+    "content": "<p><strong>&quot;wild waves of the sea&quot;</strong></p><p>Here Jude speaks of the false teachers to describe their unrestrained and untamable behavior. He describes them as <strong>wild waves</strong> that thrash about in an uncontrollable manner. If it would be helpful in your language, you could express this metaphor by translating this plainly or turn the metaphor into a simile. Alternate translation: “they act in an unrestrained manner” or “they are unrestrained like wild waves”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26706\" data-resourceType=\"UWTranslationManual\">Metaphor</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001013",
+          "start_ref_usfm": "JUD 1:13",
+          "end_ref": "65001013",
+          "end_ref_usfm": "JUD 1:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26706,
+          "content_id": 33292,
+          "label": "Metaphor",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260492,
+    "reference_id": 166912,
+    "title": "Jude 1:13 (#2)",
+    "media_type": "Text",
+    "index_reference": "65001013",
+    "language": "eng",
+    "content": "<p><strong>&quot;foaming out their own shameful deeds&quot;</strong></p><p>Here Jude expands the wave metaphor of the previous phrase, speaking of the <strong>shameful deeds</strong> of the false teachers. As waves leave dirty foam on the shore that everyone can see, so the false teachers keep on acting shamefully in the sight of others. If it would be helpful in your language, you could express this metaphor by translating this plainly or turn the metaphor into a simile. Alternate translation: “they make their shameful deeds visible to everyone” or “they show their shameful deeds like waves leave foam”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26706\" data-resourceType=\"UWTranslationManual\">Metaphor</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001013",
+          "start_ref_usfm": "JUD 1:13",
+          "end_ref": "65001013",
+          "end_ref_usfm": "JUD 1:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26706,
+          "content_id": 33292,
+          "label": "Metaphor",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260493,
+    "reference_id": 166913,
+    "title": "Jude 1:13 (#3)",
+    "media_type": "Text",
+    "index_reference": "65001013",
+    "language": "eng",
+    "content": "<p><strong>&quot;wandering stars&quot;</strong></p><p>Here, the phrase <strong>wandering stars</strong> describes <strong>stars</strong> that have wandered away from their normal path of movement. Jude uses this expression to describe the false teachers as people who have stopped doing what pleases the Lord. If it would be helpful in your language, you could state this metaphor plainly or with a simile. Alternate translation: “no longer living righteously” or “like stars that wander away from their proper path”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26706\" data-resourceType=\"UWTranslationManual\">Metaphor</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001013",
+          "start_ref_usfm": "JUD 1:13",
+          "end_ref": "65001013",
+          "end_ref_usfm": "JUD 1:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26706,
+          "content_id": 33292,
+          "label": "Metaphor",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260494,
+    "reference_id": 166914,
+    "title": "Jude 1:13 (#4)",
+    "media_type": "Text",
+    "index_reference": "65001013",
+    "language": "eng",
+    "content": "<p><strong>&quot;for whom the gloom of darkness has been kept to eternity&quot;</strong></p><p>If your language does not use the passive form <strong>has been kept</strong>, you could express this with an active form, and you can state who did the action. Alternate translation: “for whom God has kept the gloom and darkness to eternity”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26672\" data-resourceType=\"UWTranslationManual\">Active or Passive</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001013",
+          "start_ref_usfm": "JUD 1:13",
+          "end_ref": "65001013",
+          "end_ref_usfm": "JUD 1:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26672,
+          "content_id": 33258,
+          "label": "Active or Passive",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260495,
+    "reference_id": 166915,
+    "title": "Jude 1:13 (#5)",
+    "media_type": "Text",
+    "index_reference": "65001013",
+    "language": "eng",
+    "content": "<p><strong>&quot;for whom&quot;</strong></p><p>Here, <strong>whom</strong> refers to the false teachers that Jude called “wandering stars” in the previous phrase. If it would be helpful to your readers, you could indicate explicitly that this refers to the false teachers. Alternate translation: “false teachers for whom”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26838\" data-resourceType=\"UWTranslationManual\">Pronouns — When to Use Them</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001013",
+          "start_ref_usfm": "JUD 1:13",
+          "end_ref": "65001013",
+          "end_ref_usfm": "JUD 1:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26838,
+          "content_id": 33424,
+          "label": "Pronouns — When to Use Them",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260496,
+    "reference_id": 166916,
+    "title": "Jude 1:13 (#6)",
+    "media_type": "Text",
+    "index_reference": "65001013",
+    "language": "eng",
+    "content": "<p><strong>&quot;the gloom of darkness&quot;</strong></p><p>Here, <strong>gloom of darkness</strong> could mean: (1) the gloom is characterized by darkness. Alternate translation: “the dark gloom” (2) the gloom is identical to the darkness. Alternate translation: “the gloom, which is darkness.”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001013",
+          "start_ref_usfm": "JUD 1:13",
+          "end_ref": "65001013",
+          "end_ref_usfm": "JUD 1:13"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 260497,
+    "reference_id": 166917,
+    "title": "Jude 1:13 (#7)",
+    "media_type": "Text",
+    "index_reference": "65001013",
+    "language": "eng",
+    "content": "<p><strong>&quot;the gloom of darkness&quot;</strong></p><p>Here Jude uses <strong>gloom</strong> and <strong>darkness</strong> to refer to hell. If it would be helpful in your language, you could state this metaphor directly. Alternate translation: “for whom God has reserved the gloom of darkness of hell”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26706\" data-resourceType=\"UWTranslationManual\">Metaphor</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001013",
+          "start_ref_usfm": "JUD 1:13",
+          "end_ref": "65001013",
+          "end_ref_usfm": "JUD 1:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26706,
+          "content_id": 33292,
+          "label": "Metaphor",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260498,
+    "reference_id": 166918,
+    "title": "Jude 1:14 (#1)",
+    "media_type": "Text",
+    "index_reference": "65001014",
+    "language": "eng",
+    "content": "<p><strong>&quot;seventh from Adam&quot;</strong></p><p>Since <strong>Adam</strong> is considered to be the first generation of mankind, Enoch is the seventh generation.</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001014",
+          "start_ref_usfm": "JUD 1:14",
+          "end_ref": "65001014",
+          "end_ref_usfm": "JUD 1:14"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 260499,
+    "reference_id": 166919,
+    "title": "Jude 1:14 (#2)",
+    "media_type": "Text",
+    "index_reference": "65001014",
+    "language": "eng",
+    "content": "<p><strong>&quot;about these ones&quot;</strong></p><p>Here, <strong>these ones</strong> refers to the false teachers. If it would be helpful to your readers, you could express this explicitly. Alternate translation: “about these false teachers”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26838\" data-resourceType=\"UWTranslationManual\">Pronouns — When to Use Them</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001014",
+          "start_ref_usfm": "JUD 1:14",
+          "end_ref": "65001014",
+          "end_ref_usfm": "JUD 1:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26838,
+          "content_id": 33424,
+          "label": "Pronouns — When to Use Them",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260500,
+    "reference_id": 166920,
+    "title": "Jude 1:14 (#3)",
+    "media_type": "Text",
+    "index_reference": "65001014",
+    "language": "eng",
+    "content": "<p><strong>&quot;saying&quot;</strong></p><p>Consider natural ways of introducing direct quotations in your language. Alternate translation: “and he said”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26840\" data-resourceType=\"UWTranslationManual\">Quotations and Quote Margins</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001014",
+          "start_ref_usfm": "JUD 1:14",
+          "end_ref": "65001014",
+          "end_ref_usfm": "JUD 1:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26840,
+          "content_id": 33426,
+          "label": "Quotations and Quote Margins",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260501,
+    "reference_id": 166921,
+    "title": "Jude 1:14 (#4)",
+    "media_type": "Text",
+    "index_reference": "65001014",
+    "language": "eng",
+    "content": "<p><strong>&quot;Behold&quot;</strong></p><p>The term <strong>Behold</strong> focuses the attention of a listener or reader on what a speaker or writer is about to say. Though it literally means “look” or “see,” the term can be used to mean giving notice and attention, and that is how James is using it here. Alternate translation: “Pay attention to what I have to say!”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26706\" data-resourceType=\"UWTranslationManual\">Metaphor</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001014",
+          "start_ref_usfm": "JUD 1:14",
+          "end_ref": "65001014",
+          "end_ref_usfm": "JUD 1:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26706,
+          "content_id": 33292,
+          "label": "Metaphor",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260502,
+    "reference_id": 166922,
+    "title": "Jude 1:14 (#5)",
+    "media_type": "Text",
+    "index_reference": "65001014",
+    "language": "eng",
+    "content": "<p><strong>&quot;The Lord came&quot;</strong></p><p>Here Jude is using the past tense in order to refer to something that will happen in the future. He is doing this to show that the event will certainly happen. If this is not clear in your language, you could use the future tense. Alternate translation: “The Lord will certainly come”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26715\" data-resourceType=\"UWTranslationManual\">Predictive Past</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001014",
+          "start_ref_usfm": "JUD 1:14",
+          "end_ref": "65001014",
+          "end_ref_usfm": "JUD 1:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26715,
+          "content_id": 33301,
+          "label": "Predictive Past",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260503,
+    "reference_id": 166923,
+    "title": "Jude 1:14 (#6)",
+    "media_type": "Text",
+    "index_reference": "65001014",
+    "language": "eng",
+    "content": "<p><strong>&quot;The Lord&quot;</strong></p><p>Here, <strong>Lord</strong> could refer to: (1) Jesus. Alternate translation, as in the UST: “The Lord Jesus” (2) God. Alternate translation: “The Lord God”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001014",
+          "start_ref_usfm": "JUD 1:14",
+          "end_ref": "65001014",
+          "end_ref_usfm": "JUD 1:14"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 260504,
+    "reference_id": 166924,
+    "title": "Jude 1:14 (#7)",
+    "media_type": "Text",
+    "index_reference": "65001014",
+    "language": "eng",
+    "content": "<p><strong>&quot;myriads&quot;</strong></p><p>The word <strong>myriads</strong> is the plural of the Greek word “myriad,” which means ten thousand (10,000) but is often used to refer to a large number. You can express this number in the way that would be most natural in your language. Alternate translation: “tens of thousands”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26822\" data-resourceType=\"UWTranslationManual\">Translate Unknowns</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001014",
+          "start_ref_usfm": "JUD 1:14",
+          "end_ref": "65001014",
+          "end_ref_usfm": "JUD 1:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26822,
+          "content_id": 33408,
+          "label": "Translate Unknowns",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260505,
+    "reference_id": 166925,
+    "title": "Jude 1:14 (#8)",
+    "media_type": "Text",
+    "index_reference": "65001014",
+    "language": "eng",
+    "content": "<p><strong>&quot;holy ones&quot;</strong></p><p>Here, <strong>holy ones</strong> could refer to: (1) angels, as suggested by the presence of angels in similar statements about judgment in Matthew 24:31, 25:31, Mark 89:38, and 2 Thessalonians 1:7. Alternate translation, as in the UST: “his holy angels” (2) believers. Alternate translation: “his holy believers” or “his saints”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001014",
+          "start_ref_usfm": "JUD 1:14",
+          "end_ref": "65001014",
+          "end_ref_usfm": "JUD 1:14"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 260506,
+    "reference_id": 166926,
+    "title": "Jude 1:15 (#1)",
+    "media_type": "Text",
+    "index_reference": "65001015",
+    "language": "eng",
+    "content": "<p><strong>&quot;to do judgment&quot;</strong> - <strong>&quot;and to rebuke&quot;</strong></p><p>Here both instances of the word <strong>to</strong> indicate the purpose for which the Lord comes with his holy ones. Alternate translation: “for the purpose of judgment … and in order to rebuke”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26744\" data-resourceType=\"UWTranslationManual\">Connect — Goal (Purpose) Relationship</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001015",
+          "start_ref_usfm": "JUD 1:15",
+          "end_ref": "65001015",
+          "end_ref_usfm": "JUD 1:15"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26744,
+          "content_id": 33330,
+          "label": "Connect — Goal (Purpose) Relationship",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260507,
+    "reference_id": 166927,
+    "title": "Jude 1:15 (#2)",
+    "media_type": "Text",
+    "index_reference": "65001015",
+    "language": "eng",
+    "content": "<p><strong>&quot;to do judgment against&quot;</strong></p><p>If it would be helpful in your language, you could express the idea behind the abstract noun <strong>judgment</strong> with a verbal phrase. Alternate translation: “to judge”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26671\" data-resourceType=\"UWTranslationManual\">Abstract Nouns</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001015",
+          "start_ref_usfm": "JUD 1:15",
+          "end_ref": "65001015",
+          "end_ref_usfm": "JUD 1:15"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26671,
+          "content_id": 33257,
+          "label": "Abstract Nouns",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260508,
+    "reference_id": 166928,
+    "title": "Jude 1:15 (#3)",
+    "media_type": "Text",
+    "index_reference": "65001015",
+    "language": "eng",
+    "content": "<p><strong>&quot;every soul&quot;</strong></p><p>Here, <strong>soul</strong> refers to a person. Alternate translation: “every person”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26729\" data-resourceType=\"UWTranslationManual\">Synecdoche</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001015",
+          "start_ref_usfm": "JUD 1:15",
+          "end_ref": "65001015",
+          "end_ref_usfm": "JUD 1:15"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26729,
+          "content_id": 33315,
+          "label": "Synecdoche",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260509,
+    "reference_id": 166929,
+    "title": "Jude 1:15 (#4)",
+    "media_type": "Text",
+    "index_reference": "65001015",
+    "language": "eng",
+    "content": "<p><strong>&quot;their works of ungodliness&quot;</strong></p><p>Here Jude is using the possessive form to describe <strong>works</strong> that are characterized by <strong>ungodliness</strong>. If this is not clear in your language, you could use a phrase to explain it. Alternate translation: “ungodly works”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26717\" data-resourceType=\"UWTranslationManual\">Possession</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001015",
+          "start_ref_usfm": "JUD 1:15",
+          "end_ref": "65001015",
+          "end_ref_usfm": "JUD 1:15"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26717,
+          "content_id": 33303,
+          "label": "Possession",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260510,
+    "reference_id": 166930,
+    "title": "Jude 1:15 (#5)",
+    "media_type": "Text",
+    "index_reference": "65001015",
+    "language": "eng",
+    "content": "<p><strong>&quot;the harsh things&quot;</strong></p><p>Here, <strong>harsh things</strong> refers to harsh statements that sinners speak slanderously against the Lord. Alternate translation: “the harsh words” or “the offensive statements”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001015",
+          "start_ref_usfm": "JUD 1:15",
+          "end_ref": "65001015",
+          "end_ref_usfm": "JUD 1:15"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 260511,
+    "reference_id": 166931,
+    "title": "Jude 1:15 (#6)",
+    "media_type": "Text",
+    "index_reference": "65001015",
+    "language": "eng",
+    "content": "<p><strong>&quot;him&quot;</strong></p><p>Here the pronoun <strong>him</strong> could refer to: (1) Jesus. Alternate translation, as in the UST: “Jesus” (2) God. Alternate translation: “God” The option you choose must agree with your choice for the meaning of “Lord” in the previous verse.</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26838\" data-resourceType=\"UWTranslationManual\">Pronouns — When to Use Them</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001015",
+          "start_ref_usfm": "JUD 1:15",
+          "end_ref": "65001015",
+          "end_ref_usfm": "JUD 1:15"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26838,
+          "content_id": 33424,
+          "label": "Pronouns — When to Use Them",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260512,
+    "reference_id": 166932,
+    "title": "Jude 1:16 (#1)",
+    "media_type": "Text",
+    "index_reference": "65001016",
+    "language": "eng",
+    "content": "<p><strong>&quot;These ones&quot;</strong></p><p>Here, <strong>These ones</strong> refers to the false teachers that Jude first introduced in verse <a href=\"https://ref.ly/Jude1:4\">4</a> and has discussed throughout the letter. Since Jude shifted in the previous verse to describing the judgment of everyone who does wicked deeds, it may be helpful for you to inform your readers that this verse returns to specifically focusing on the false teachers. Alternate translation: “These false teachers”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26838\" data-resourceType=\"UWTranslationManual\">Pronouns — When to Use Them</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001016",
+          "start_ref_usfm": "JUD 1:16",
+          "end_ref": "65001016",
+          "end_ref_usfm": "JUD 1:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26838,
+          "content_id": 33424,
+          "label": "Pronouns — When to Use Them",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260513,
+    "reference_id": 166933,
+    "title": "Jude 1:16 (#2)",
+    "media_type": "Text",
+    "index_reference": "65001016",
+    "language": "eng",
+    "content": "<p><strong>&quot;are murmurers, complainers&quot;</strong></p><p>Here the terms <strong>murmurers</strong> and <strong>complainers</strong> refer to two different ways of expressing discontent or unhappiness. While <strong>grumblers</strong> are people who speak their complaints quietly, <strong>complainers</strong> speak them openly. When the Israelites were traveling in the wilderness after leaving Egypt, they were often punished by God for grumbling and complaining against him and their leaders, which is evidently what these false teachers were doing in Jude’s day. Alternate translation: “grumble quietly to themselves and complain loudly”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001016",
+          "start_ref_usfm": "JUD 1:16",
+          "end_ref": "65001016",
+          "end_ref_usfm": "JUD 1:16"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 260514,
+    "reference_id": 166934,
+    "title": "Jude 1:16 (#3)",
+    "media_type": "Text",
+    "index_reference": "65001016",
+    "language": "eng",
+    "content": "<p><strong>&quot;going&quot;</strong></p><p>Here Jude uses <strong>going</strong> to refer to habitually doing something. If it would be helpful in your language, you could state this metaphor literally. Alternate translation: “those habitually living”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26706\" data-resourceType=\"UWTranslationManual\">Metaphor</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001016",
+          "start_ref_usfm": "JUD 1:16",
+          "end_ref": "65001016",
+          "end_ref_usfm": "JUD 1:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26706,
+          "content_id": 33292,
+          "label": "Metaphor",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260515,
+    "reference_id": 166935,
+    "title": "Jude 1:16 (#4)",
+    "media_type": "Text",
+    "index_reference": "65001016",
+    "language": "eng",
+    "content": "<p><strong>&quot;their lusts&quot;</strong></p><p>Here, <strong>lusts</strong> refers to sinful desires that are opposed to God’s will. Alternate translation: “their sinful desires”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001016",
+          "start_ref_usfm": "JUD 1:16",
+          "end_ref": "65001016",
+          "end_ref_usfm": "JUD 1:16"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 260516,
+    "reference_id": 166936,
+    "title": "Jude 1:16 (#5)",
+    "media_type": "Text",
+    "index_reference": "65001016",
+    "language": "eng",
+    "content": "<p><strong>&quot;their mouth speaks&quot;</strong></p><p>Here Jude uses the singular <strong>mouth</strong> in a distributive way. If this would be confusing to your readers, you could express this explicitly or use a plural noun and verb. Alternate translation: “the mouth of each of them speaks” or “their mouths speak”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001016",
+          "start_ref_usfm": "JUD 1:16",
+          "end_ref": "65001016",
+          "end_ref_usfm": "JUD 1:16"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 260517,
+    "reference_id": 166937,
+    "title": "Jude 1:16 (#6)",
+    "media_type": "Text",
+    "index_reference": "65001016",
+    "language": "eng",
+    "content": "<p><strong>&quot;their mouth speaks&quot;</strong></p><p>Here, <strong>mouth</strong> represents the person who is speaking. Alternate translation: “they speak”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26707\" data-resourceType=\"UWTranslationManual\">Metonymy</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001016",
+          "start_ref_usfm": "JUD 1:16",
+          "end_ref": "65001016",
+          "end_ref_usfm": "JUD 1:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26707,
+          "content_id": 33293,
+          "label": "Metonymy",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260518,
+    "reference_id": 166938,
+    "title": "Jude 1:16 (#7)",
+    "media_type": "Text",
+    "index_reference": "65001016",
+    "language": "eng",
+    "content": "<p><strong>&quot;speaks boastful things&quot;</strong></p><p>Here, <strong>boastful things</strong> refers to arrogant statements about themselves that these false teachers were making. Alternate translation: “boasts about themselves” or “speaks boastful statements”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001016",
+          "start_ref_usfm": "JUD 1:16",
+          "end_ref": "65001016",
+          "end_ref_usfm": "JUD 1:16"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 260519,
+    "reference_id": 166939,
+    "title": "Jude 1:16 (#8)",
+    "media_type": "Text",
+    "index_reference": "65001016",
+    "language": "eng",
+    "content": "<p><strong>&quot;admiring faces&quot;</strong></p><p>This is an idiom that means to show favoritism toward someone or to flatter someone. If it would be helpful in your language, you could use an equivalent idiom or use plain language. Alternate translation: “favoring people” or “flattering people”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26697\" data-resourceType=\"UWTranslationManual\">Idiom</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001016",
+          "start_ref_usfm": "JUD 1:16",
+          "end_ref": "65001016",
+          "end_ref_usfm": "JUD 1:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26697,
+          "content_id": 33283,
+          "label": "Idiom",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260520,
+    "reference_id": 166940,
+    "title": "Jude 1:16 (#9)",
+    "media_type": "Text",
+    "index_reference": "65001016",
+    "language": "eng",
+    "content": "<p><strong>&quot;admiring faces&quot;</strong></p><p>Here, <strong>faces</strong> refers to the people they are flattering. Alternate translation: “admiring people”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26707\" data-resourceType=\"UWTranslationManual\">Metonymy</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001016",
+          "start_ref_usfm": "JUD 1:16",
+          "end_ref": "65001016",
+          "end_ref_usfm": "JUD 1:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26707,
+          "content_id": 33293,
+          "label": "Metonymy",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260521,
+    "reference_id": 166941,
+    "title": "Jude 1:17 (#1)",
+    "media_type": "Text",
+    "index_reference": "65001017",
+    "language": "eng",
+    "content": "<p><strong>&quot;beloved ones&quot;</strong></p><p>Here, <strong>beloved ones</strong> refers to those whom Jude is writing to, which can be extended to all believers. If it would be helpful in your language, you could state this term explicitly. See how you translated this in verse <a href=\"https://ref.ly/Jude1:3\">3</a>. Alternate translation: “beloved fellow believers”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26687\" data-resourceType=\"UWTranslationManual\">Assumed Knowledge and Implicit Information</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001017",
+          "start_ref_usfm": "JUD 1:17",
+          "end_ref": "65001017",
+          "end_ref_usfm": "JUD 1:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26687,
+          "content_id": 33273,
+          "label": "Assumed Knowledge and Implicit Information",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260522,
+    "reference_id": 166942,
+    "title": "Jude 1:17 (#2)",
+    "media_type": "Text",
+    "index_reference": "65001017",
+    "language": "eng",
+    "content": "<p><strong>&quot;the words&quot;</strong></p><p>Here, Jude is using <strong>words</strong> to describe the teachings of the apostles that were conveyed by using words. The specific teachings Jude is referring to here are described in the next verse. Alternate translation: “the teachings”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26707\" data-resourceType=\"UWTranslationManual\">Metonymy</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001017",
+          "start_ref_usfm": "JUD 1:17",
+          "end_ref": "65001017",
+          "end_ref_usfm": "JUD 1:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26707,
+          "content_id": 33293,
+          "label": "Metonymy",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260523,
+    "reference_id": 166943,
+    "title": "Jude 1:17 (#3)",
+    "media_type": "Text",
+    "index_reference": "65001017",
+    "language": "eng",
+    "content": "<p><strong>&quot;of our Lord&quot;</strong></p><p>Here, <strong>our Lord</strong> means “the person who is lord over us” or “the person who rules over us.” Alternate translation: “of the person who rules over us”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26717\" data-resourceType=\"UWTranslationManual\">Possession</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001017",
+          "start_ref_usfm": "JUD 1:17",
+          "end_ref": "65001017",
+          "end_ref_usfm": "JUD 1:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26717,
+          "content_id": 33303,
+          "label": "Possession",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260524,
+    "reference_id": 166944,
+    "title": "Jude 1:17 (#4)",
+    "media_type": "Text",
+    "index_reference": "65001017",
+    "language": "eng",
+    "content": "<p><strong>&quot;our&quot;</strong></p><p>Here, <strong>our</strong> refers to all believers.</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26685\" data-resourceType=\"UWTranslationManual\">Exclusive and Inclusive ‘We’</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001017",
+          "start_ref_usfm": "JUD 1:17",
+          "end_ref": "65001017",
+          "end_ref_usfm": "JUD 1:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26685,
+          "content_id": 33271,
+          "label": "Exclusive and Inclusive ‘We’",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260525,
+    "reference_id": 166945,
+    "title": "Jude 1:18 (#1)",
+    "media_type": "Text",
+    "index_reference": "65001018",
+    "language": "eng",
+    "content": "<p><strong>&quot;that they said to you&quot;</strong></p><p>This phrase indicates that this verse contains the content of the “words” spoken by the apostles, which Jude referred to in the previous verse.</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001018",
+          "start_ref_usfm": "JUD 1:18",
+          "end_ref": "65001018",
+          "end_ref_usfm": "JUD 1:18"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 260526,
+    "reference_id": 166946,
+    "title": "Jude 1:18 (#2)",
+    "media_type": "Text",
+    "index_reference": "65001018",
+    "language": "eng",
+    "content": "<p><strong>&quot;the last time&quot;</strong></p><p>Here, <strong>the last time</strong> is an idiom that refers to the time before the return of Jesus. Alternate translation: “the time just before Jesus returns”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26697\" data-resourceType=\"UWTranslationManual\">Idiom</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001018",
+          "start_ref_usfm": "JUD 1:18",
+          "end_ref": "65001018",
+          "end_ref_usfm": "JUD 1:18"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26697,
+          "content_id": 33283,
+          "label": "Idiom",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260527,
+    "reference_id": 166947,
+    "title": "Jude 1:18 (#3)",
+    "media_type": "Text",
+    "index_reference": "65001018",
+    "language": "eng",
+    "content": "<p><strong>&quot;going&quot;</strong></p><p>Here Jude uses the word <strong>going</strong> to refer to habitually doing something. If it would be helpful in your language, you could state this metaphor literally. Alternate translation: “those habitually living”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26706\" data-resourceType=\"UWTranslationManual\">Metaphor</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001018",
+          "start_ref_usfm": "JUD 1:18",
+          "end_ref": "65001018",
+          "end_ref_usfm": "JUD 1:18"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26706,
+          "content_id": 33292,
+          "label": "Metaphor",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260528,
+    "reference_id": 166948,
+    "title": "Jude 1:18 (#4)",
+    "media_type": "Text",
+    "index_reference": "65001018",
+    "language": "eng",
+    "content": "<p><strong>&quot;according to their own lusts of ungodliness&quot;</strong></p><p>Here, <strong>lusts of ungodliness</strong> refers to sinful desires that are opposed to God’s will. Alternate translation: “according to their own sinful and ungodly desires”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001018",
+          "start_ref_usfm": "JUD 1:18",
+          "end_ref": "65001018",
+          "end_ref_usfm": "JUD 1:18"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 260529,
+    "reference_id": 166949,
+    "title": "Jude 1:19 (#1)",
+    "media_type": "Text",
+    "index_reference": "65001019",
+    "language": "eng",
+    "content": "<p><strong>&quot;These&quot;</strong></p><p>Here, <strong>These</strong> refers to the mockers Jude referred to in the previous verse. If it would be helpful for your readers, you could express this explicitly. Alternate translation, as in the UST: “These mockers”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26838\" data-resourceType=\"UWTranslationManual\">Pronouns — When to Use Them</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001019",
+          "start_ref_usfm": "JUD 1:19",
+          "end_ref": "65001019",
+          "end_ref_usfm": "JUD 1:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26838,
+          "content_id": 33424,
+          "label": "Pronouns — When to Use Them",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260530,
+    "reference_id": 166950,
+    "title": "Jude 1:19 (#2)",
+    "media_type": "Text",
+    "index_reference": "65001019",
+    "language": "eng",
+    "content": "<p><strong>&quot;the ones causing divisions&quot;</strong></p><p>If it would be helpful in your language, you could express the idea behind the abstract noun <strong>divisions</strong> with an equivalent expression. Alternate translation: “the ones dividing others against each other”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26671\" data-resourceType=\"UWTranslationManual\">Abstract Nouns</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001019",
+          "start_ref_usfm": "JUD 1:19",
+          "end_ref": "65001019",
+          "end_ref_usfm": "JUD 1:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26671,
+          "content_id": 33257,
+          "label": "Abstract Nouns",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260531,
+    "reference_id": 166951,
+    "title": "Jude 1:19 (#3)",
+    "media_type": "Text",
+    "index_reference": "65001019",
+    "language": "eng",
+    "content": "<p><strong>&quot;the Spirit&quot;</strong></p><p>Here, <strong>Spirit</strong> refers to the Holy Spirit. It does not refer to the spirit of a human or to an evil spirit. If it would be helpful in your language, you could express this explicitly. Alternate translation, as in the UST: “the Holy Spirit”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26687\" data-resourceType=\"UWTranslationManual\">Assumed Knowledge and Implicit Information</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001019",
+          "start_ref_usfm": "JUD 1:19",
+          "end_ref": "65001019",
+          "end_ref_usfm": "JUD 1:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26687,
+          "content_id": 33273,
+          "label": "Assumed Knowledge and Implicit Information",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260532,
+    "reference_id": 166952,
+    "title": "Jude 1:19 (#4)",
+    "media_type": "Text",
+    "index_reference": "65001019",
+    "language": "eng",
+    "content": "<p><strong>&quot;soulish&quot;</strong></p><p>Jude is using one part of the human being, the soul, as opposed to another part, the spirit, to mean “unspiritual.” The word <strong>soulish</strong> describes someone who lives according to their natural instincts instead of according to God’s word and Spirit. It is used to refer to people who are not true believers. Alternate translation: “unspiritual” or “worldly”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26707\" data-resourceType=\"UWTranslationManual\">Metonymy</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001019",
+          "start_ref_usfm": "JUD 1:19",
+          "end_ref": "65001019",
+          "end_ref_usfm": "JUD 1:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26707,
+          "content_id": 33293,
+          "label": "Metonymy",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260533,
+    "reference_id": 166953,
+    "title": "Jude 1:19 (#5)",
+    "media_type": "Text",
+    "index_reference": "65001019",
+    "language": "eng",
+    "content": "<p><strong>&quot;not having the Spirit&quot;</strong></p><p>The Holy <strong>Spirit</strong> is spoken of as if he were something that people can possess. If it would be helpful in your language, you could state this metaphor plainly. Alternate translation: “the Spirit is not within them”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26706\" data-resourceType=\"UWTranslationManual\">Metaphor</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001019",
+          "start_ref_usfm": "JUD 1:19",
+          "end_ref": "65001019",
+          "end_ref_usfm": "JUD 1:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26706,
+          "content_id": 33292,
+          "label": "Metaphor",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260534,
+    "reference_id": 166954,
+    "title": "Jude 1:20 (#1)",
+    "media_type": "Text",
+    "index_reference": "65001020",
+    "language": "eng",
+    "content": "<p><strong>&quot;beloved ones&quot;</strong></p><p>Here, <strong>beloved ones</strong> refers to those to whom Jude is writing, which can be extended to all believers. If it would be helpful in your language, you could express this explicitly. See how you translated this in verse <a href=\"https://ref.ly/Jude1:3\">3</a>. Alternate translation: “beloved fellow believers”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26687\" data-resourceType=\"UWTranslationManual\">Assumed Knowledge and Implicit Information</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001020",
+          "start_ref_usfm": "JUD 1:20",
+          "end_ref": "65001020",
+          "end_ref_usfm": "JUD 1:20"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26687,
+          "content_id": 33273,
+          "label": "Assumed Knowledge and Implicit Information",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260535,
+    "reference_id": 166955,
+    "title": "Jude 1:20 (#2)",
+    "media_type": "Text",
+    "index_reference": "65001020",
+    "language": "eng",
+    "content": "<p><strong>&quot;building yourselves up in your most holy faith&quot;</strong></p><p>Here Jude speaks of becoming increasingly able to trust in God as if it were the process of constructing a building. If it would be helpful in your language, you could state this metaphor plainly or use a simile. Alternate translation: “causing yourselves to increase in trust in God” or “causing yourselves to increase in trust like one builds up a building”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26706\" data-resourceType=\"UWTranslationManual\">Metaphor</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001020",
+          "start_ref_usfm": "JUD 1:20",
+          "end_ref": "65001020",
+          "end_ref_usfm": "JUD 1:20"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26706,
+          "content_id": 33292,
+          "label": "Metaphor",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260536,
+    "reference_id": 166956,
+    "title": "Jude 1:20 (#3)",
+    "media_type": "Text",
+    "index_reference": "65001020",
+    "language": "eng",
+    "content": "<p><strong>&quot;building yourselves up&quot;</strong></p><p>This clause refers to one means by which Jude’s readers can obey the command to keep themselves in the love of God, which he makes in the next verse. If it would be helpful in your language, you could indicate this explicitly. Alternate translation: “by means of building yourselves up”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001020",
+          "start_ref_usfm": "JUD 1:20",
+          "end_ref": "65001020",
+          "end_ref_usfm": "JUD 1:20"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 260537,
+    "reference_id": 166957,
+    "title": "Jude 1:20 (#4)",
+    "media_type": "Text",
+    "index_reference": "65001020",
+    "language": "eng",
+    "content": "<p><strong>&quot;in your most holy faith&quot;</strong></p><p>If it would be helpful in your language, you could express the idea behind the abstract noun <strong>faith</strong> with a verb, such as “trust” or “believe.” Alternate translation: “in what you believe that is most holy”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26671\" data-resourceType=\"UWTranslationManual\">Abstract Nouns</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001020",
+          "start_ref_usfm": "JUD 1:20",
+          "end_ref": "65001020",
+          "end_ref_usfm": "JUD 1:20"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26671,
+          "content_id": 33257,
+          "label": "Abstract Nouns",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260538,
+    "reference_id": 166958,
+    "title": "Jude 1:20 (#5)",
+    "media_type": "Text",
+    "index_reference": "65001020",
+    "language": "eng",
+    "content": "<p><strong>&quot;praying in the Holy Spirit&quot;</strong></p><p>This clause refers to a second means by which Jude’s readers can obey the command to keep themselves in the love of God, which he makes in the next verse. If it would be helpful in your language, you could express this explicitly. Alternate translation: “by means of praying in the Holy Spirit”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001020",
+          "start_ref_usfm": "JUD 1:20",
+          "end_ref": "65001020",
+          "end_ref_usfm": "JUD 1:20"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 260539,
+    "reference_id": 166959,
+    "title": "Jude 1:21 (#1)",
+    "media_type": "Text",
+    "index_reference": "65001021",
+    "language": "eng",
+    "content": "<p><strong>&quot;keep yourselves in the love of God&quot;</strong></p><p>If your language would put the command at the front of the sentence and before other modifying clauses, then you could create a verse bridge by moving this clause to the previous verse, placing it just before “building yourselves up in your most holy faith”. You would need to present the combined verses as 20–21.</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26824\" data-resourceType=\"UWTranslationManual\">Verse Bridges</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001021",
+          "start_ref_usfm": "JUD 1:21",
+          "end_ref": "65001021",
+          "end_ref_usfm": "JUD 1:21"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26824,
+          "content_id": 33410,
+          "label": "Verse Bridges",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260540,
+    "reference_id": 166960,
+    "title": "Jude 1:21 (#2)",
+    "media_type": "Text",
+    "index_reference": "65001021",
+    "language": "eng",
+    "content": "<p><strong>&quot;keep yourselves in the love of God&quot;</strong></p><p>Here Jude speaks of remaining able to receive the <strong>love of God</strong> as if one were keeping oneself in a certain place. If it would be helpful in your language, you could state this metaphor explicitly. Alternate translation: “keep yourselves able to receive the love of God”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26706\" data-resourceType=\"UWTranslationManual\">Metaphor</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001021",
+          "start_ref_usfm": "JUD 1:21",
+          "end_ref": "65001021",
+          "end_ref_usfm": "JUD 1:21"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26706,
+          "content_id": 33292,
+          "label": "Metaphor",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260541,
+    "reference_id": 166961,
+    "title": "Jude 1:21 (#3)",
+    "media_type": "Text",
+    "index_reference": "65001021",
+    "language": "eng",
+    "content": "<p><strong>&quot;waiting for the mercy of our Lord&quot;</strong></p><p>This clause occurs at the same time as the clause that precedes it. If it would be helpful in your language, you could state this connection explicitly. Alternate translation: “while waiting for the mercy of our Lord” or “while expecting the mercy of our Lord”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001021",
+          "start_ref_usfm": "JUD 1:21",
+          "end_ref": "65001021",
+          "end_ref_usfm": "JUD 1:21"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 260542,
+    "reference_id": 166962,
+    "title": "Jude 1:21 (#4)",
+    "media_type": "Text",
+    "index_reference": "65001021",
+    "language": "eng",
+    "content": "<p><strong>&quot;the mercy of our Lord Jesus Christ&quot;</strong></p><p>Here, <strong>mercy</strong> could refer to: (1) the mercy Jesus will show to believers when he returns to earth. Alternate translation: “our Lord Jesus Christ to return and act mercifully” (2) Jesus’ continued acts of mercy toward believers in general. Alternate translation: “our Lord Jesus Christ to act mercifully”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26671\" data-resourceType=\"UWTranslationManual\">Abstract Nouns</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001021",
+          "start_ref_usfm": "JUD 1:21",
+          "end_ref": "65001021",
+          "end_ref_usfm": "JUD 1:21"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26671,
+          "content_id": 33257,
+          "label": "Abstract Nouns",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260543,
+    "reference_id": 166963,
+    "title": "Jude 1:21 (#5)",
+    "media_type": "Text",
+    "index_reference": "65001021",
+    "language": "eng",
+    "content": "<p><strong>&quot;of our Lord&quot;</strong></p><p>Here, <strong>our Lord</strong> means “the person who is lord over us” or “the person who rules over us.” See how you translated this expression in verse <a href=\"https://ref.ly/Jude1:17\">17</a>. Alternate translation: “of the person who rules over us,”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26717\" data-resourceType=\"UWTranslationManual\">Possession</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001021",
+          "start_ref_usfm": "JUD 1:21",
+          "end_ref": "65001021",
+          "end_ref_usfm": "JUD 1:21"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26717,
+          "content_id": 33303,
+          "label": "Possession",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260544,
+    "reference_id": 166964,
+    "title": "Jude 1:21 (#6)",
+    "media_type": "Text",
+    "index_reference": "65001021",
+    "language": "eng",
+    "content": "<p><strong>&quot;our&quot;</strong></p><p>Here, <strong>our</strong> refers to all believers.</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26685\" data-resourceType=\"UWTranslationManual\">Exclusive and Inclusive ‘We’</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001021",
+          "start_ref_usfm": "JUD 1:21",
+          "end_ref": "65001021",
+          "end_ref_usfm": "JUD 1:21"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26685,
+          "content_id": 33271,
+          "label": "Exclusive and Inclusive ‘We’",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260545,
+    "reference_id": 166965,
+    "title": "Jude 1:21 (#7)",
+    "media_type": "Text",
+    "index_reference": "65001021",
+    "language": "eng",
+    "content": "<p><strong>&quot;the mercy of our Lord Jesus Christ to eternal life&quot;</strong></p><p>Jude is using <strong>to</strong> to introduce the result of <strong>the mercy</strong>. If it would be helpful to your readers, you could express this explicitly. Alternate translation: “the mercy of our Lord Jesus Christ, which brings eternal life”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26745\" data-resourceType=\"UWTranslationManual\">Connect — Reason-and-Result Relationship</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001021",
+          "start_ref_usfm": "JUD 1:21",
+          "end_ref": "65001021",
+          "end_ref_usfm": "JUD 1:21"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26745,
+          "content_id": 33331,
+          "label": "Connect — Reason-and-Result Relationship",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260546,
+    "reference_id": 166966,
+    "title": "Jude 1:22 (#1)",
+    "media_type": "Text",
+    "index_reference": "65001022",
+    "language": "eng",
+    "content": "<p><strong>&quot;have mercy on&quot;</strong></p><p>If it would be helpful in your language, you could express the idea behind the abstract noun <strong>mercy</strong> with an equivalent expression. Alternate translation: “act mercifully toward”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26671\" data-resourceType=\"UWTranslationManual\">Abstract Nouns</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001022",
+          "start_ref_usfm": "JUD 1:22",
+          "end_ref": "65001022",
+          "end_ref_usfm": "JUD 1:22"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26671,
+          "content_id": 33257,
+          "label": "Abstract Nouns",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260547,
+    "reference_id": 166967,
+    "title": "Jude 1:22 (#2)",
+    "media_type": "Text",
+    "index_reference": "65001022",
+    "language": "eng",
+    "content": "<p><strong>&quot;some} who are doubting&quot;</strong></p><p>The phrase <strong>{some} who are doubting</strong> refers to people who have become confused because of the teaching and activities of the false teachers. Alternate translation: “some who are uncertain about what to believe”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001022",
+          "start_ref_usfm": "JUD 1:22",
+          "end_ref": "65001022",
+          "end_ref_usfm": "JUD 1:22"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 260548,
+    "reference_id": 166968,
+    "title": "Jude 1:23 (#1)",
+    "media_type": "Text",
+    "index_reference": "65001023",
+    "language": "eng",
+    "content": "<p><strong>&quot;snatching from fire&quot;</strong></p><p>This clause indicates the means by which Jude wants his audience to save a certain group of people. If it would be helpful in your language, you could state this connection explicitly. Alternate translation: “by means of snatching from fire”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001023",
+          "start_ref_usfm": "JUD 1:23",
+          "end_ref": "65001023",
+          "end_ref_usfm": "JUD 1:23"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 260549,
+    "reference_id": 166969,
+    "title": "Jude 1:23 (#2)",
+    "media_type": "Text",
+    "index_reference": "65001023",
+    "language": "eng",
+    "content": "<p><strong>&quot;snatching from fire&quot;</strong></p><p>Here Jude speaks of urgently rescuing some people from going to hell as though it was like pulling people from a <strong>fire</strong> before they start to burn. If it would be helpful in your language, you could state this metaphor plainly or use a simile. Alternate translation: “doing whatever must be done to keep them from going to hell” or “doing whatever must be done to save them, as if pulling them from fire”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26706\" data-resourceType=\"UWTranslationManual\">Metaphor</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001023",
+          "start_ref_usfm": "JUD 1:23",
+          "end_ref": "65001023",
+          "end_ref_usfm": "JUD 1:23"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26706,
+          "content_id": 33292,
+          "label": "Metaphor",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260550,
+    "reference_id": 166970,
+    "title": "Jude 1:23 (#3)",
+    "media_type": "Text",
+    "index_reference": "65001023",
+    "language": "eng",
+    "content": "<p><strong>&quot;have mercy on&quot;</strong></p><p>If it would be helpful in your language, you could express the idea behind the abstract noun <strong>mercy</strong> with an equivalent expression. Alternate translation: “act mercifully toward”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26671\" data-resourceType=\"UWTranslationManual\">Abstract Nouns</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001023",
+          "start_ref_usfm": "JUD 1:23",
+          "end_ref": "65001023",
+          "end_ref_usfm": "JUD 1:23"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26671,
+          "content_id": 33257,
+          "label": "Abstract Nouns",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260551,
+    "reference_id": 166971,
+    "title": "Jude 1:23 (#4)",
+    "media_type": "Text",
+    "index_reference": "65001023",
+    "language": "eng",
+    "content": "<p><strong>&quot;with fear&quot;</strong></p><p>This phrase indicates the manner by which Jude wanted his readers to have mercy on a certain group of people. Alternate translation: “by being cautious”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001023",
+          "start_ref_usfm": "JUD 1:23",
+          "end_ref": "65001023",
+          "end_ref_usfm": "JUD 1:23"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 260552,
+    "reference_id": 166972,
+    "title": "Jude 1:23 (#5)",
+    "media_type": "Text",
+    "index_reference": "65001023",
+    "language": "eng",
+    "content": "<p><strong>&quot;hating even the garment having been defiled by the flesh&quot;</strong></p><p>Jude exaggerates to warn his readers that they can become like those sinners. Alternate translation: “treating them as though you could become guilty of sin just by touching their clothes”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26695\" data-resourceType=\"UWTranslationManual\">Hyperbole</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001023",
+          "start_ref_usfm": "JUD 1:23",
+          "end_ref": "65001023",
+          "end_ref_usfm": "JUD 1:23"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26695,
+          "content_id": 33281,
+          "label": "Hyperbole",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260553,
+    "reference_id": 166973,
+    "title": "Jude 1:23 (#6)",
+    "media_type": "Text",
+    "index_reference": "65001023",
+    "language": "eng",
+    "content": "<p><strong>&quot;the flesh&quot;</strong></p><p>Here, <strong>flesh</strong> is used to refer to a person’s sinful nature. If it would be helpful in your language, you could state this metaphor literally. Alternate translation: “their sinful nature”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26706\" data-resourceType=\"UWTranslationManual\">Metaphor</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001023",
+          "start_ref_usfm": "JUD 1:23",
+          "end_ref": "65001023",
+          "end_ref_usfm": "JUD 1:23"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26706,
+          "content_id": 33292,
+          "label": "Metaphor",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260554,
+    "reference_id": 166974,
+    "title": "Jude 1:24 (#1)",
+    "media_type": "Text",
+    "index_reference": "65001024",
+    "language": "eng",
+    "content": "<p><strong>&quot;Now to the one being able to keep&quot;</strong></p><p>Here, <strong>the one</strong> refers to God. If it would be helpful in your language, you could express this explicitly. Alternate translation: “to God, who is able to keep”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26687\" data-resourceType=\"UWTranslationManual\">Assumed Knowledge and Implicit Information</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001024",
+          "start_ref_usfm": "JUD 1:24",
+          "end_ref": "65001024",
+          "end_ref_usfm": "JUD 1:24"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26687,
+          "content_id": 33273,
+          "label": "Assumed Knowledge and Implicit Information",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260555,
+    "reference_id": 166975,
+    "title": "Jude 1:24 (#2)",
+    "media_type": "Text",
+    "index_reference": "65001024",
+    "language": "eng",
+    "content": "<p><strong>&quot;to keep you without stumbling&quot;</strong></p><p>Here Jude uses <strong>stumbling</strong> to speak of returning to habitual sin as if one is tripping over something. If it would be helpful in your language, you could state this metaphor plainly. Alternate translation: “to prevent you from returning to sinful habits”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26706\" data-resourceType=\"UWTranslationManual\">Metaphor</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001024",
+          "start_ref_usfm": "JUD 1:24",
+          "end_ref": "65001024",
+          "end_ref_usfm": "JUD 1:24"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26706,
+          "content_id": 33292,
+          "label": "Metaphor",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260556,
+    "reference_id": 166976,
+    "title": "Jude 1:24 (#3)",
+    "media_type": "Text",
+    "index_reference": "65001024",
+    "language": "eng",
+    "content": "<p><strong>&quot;his glory&quot;</strong></p><p>Here, <strong>glory</strong> refers to the bright light that surrounds the presence of God. If it would be helpful in your language, you could express this abstract noun by translating it with an adjective. Alternate translation: “his glorious presence”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26671\" data-resourceType=\"UWTranslationManual\">Abstract Nouns</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001024",
+          "start_ref_usfm": "JUD 1:24",
+          "end_ref": "65001024",
+          "end_ref_usfm": "JUD 1:24"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26671,
+          "content_id": 33257,
+          "label": "Abstract Nouns",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260557,
+    "reference_id": 166977,
+    "title": "Jude 1:24 (#4)",
+    "media_type": "Text",
+    "index_reference": "65001024",
+    "language": "eng",
+    "content": "<p><strong>&quot;in exultation&quot;</strong></p><p>This phrase describes the manner in which believers will stand before God. Alternate translation, as in the UST: “with great joy”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001024",
+          "start_ref_usfm": "JUD 1:24",
+          "end_ref": "65001024",
+          "end_ref_usfm": "JUD 1:24"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 260558,
+    "reference_id": 166978,
+    "title": "Jude 1:25 (#1)",
+    "media_type": "Text",
+    "index_reference": "65001025",
+    "language": "eng",
+    "content": "<p><strong>&quot;to the only God our Savior&quot;</strong></p><p>Here, <strong>our Savior</strong> refers to God. It does not refer to Jesus. This phrase emphasizes that God the Father, as well as the Son, is the Savior. If it would be helpful in your language, you could state this phrase explicitly. Alternate translation: “to the only God, who is our Savior”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001025",
+          "start_ref_usfm": "JUD 1:25",
+          "end_ref": "65001025",
+          "end_ref_usfm": "JUD 1:25"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 260559,
+    "reference_id": 166979,
+    "title": "Jude 1:25 (#2)",
+    "media_type": "Text",
+    "index_reference": "65001025",
+    "language": "eng",
+    "content": "<p><strong>&quot;our Savior&quot;</strong></p><p>If it would be helpful in your language, you could express the idea behind the abstract noun <strong>Savior</strong> with an equivalent expression. Alternate translation: “the person who saves”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26671\" data-resourceType=\"UWTranslationManual\">Abstract Nouns</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001025",
+          "start_ref_usfm": "JUD 1:25",
+          "end_ref": "65001025",
+          "end_ref_usfm": "JUD 1:25"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26671,
+          "content_id": 33257,
+          "label": "Abstract Nouns",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260560,
+    "reference_id": 166980,
+    "title": "Jude 1:25 (#3)",
+    "media_type": "Text",
+    "index_reference": "65001025",
+    "language": "eng",
+    "content": "<p><strong>&quot;our Lord&quot;</strong></p><p>If it would be helpful in your language, you could express the idea behind the abstract noun <strong>Lord</strong> with an equivalent expression. Alternate translation: “the person who rules”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26671\" data-resourceType=\"UWTranslationManual\">Abstract Nouns</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001025",
+          "start_ref_usfm": "JUD 1:25",
+          "end_ref": "65001025",
+          "end_ref_usfm": "JUD 1:25"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26671,
+          "content_id": 33257,
+          "label": "Abstract Nouns",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260561,
+    "reference_id": 166981,
+    "title": "Jude 1:25 (#4)",
+    "media_type": "Text",
+    "index_reference": "65001025",
+    "language": "eng",
+    "content": "<p><strong>&quot;to the only God&quot;</strong> - <strong>&quot;be} glory, majesty, power, and authority&quot;</strong></p><p>If it would be helpful in your language, you could express the abstract nouns <strong>glory, majesty, power</strong> and <strong>authority</strong> by translating them with adjective phrases. Alternate translation: “may the only God … be recognized as glorious, majestic, powerful, and authoritative”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26671\" data-resourceType=\"UWTranslationManual\">Abstract Nouns</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001025",
+          "start_ref_usfm": "JUD 1:25",
+          "end_ref": "65001025",
+          "end_ref_usfm": "JUD 1:25"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26671,
+          "content_id": 33257,
+          "label": "Abstract Nouns",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260562,
+    "reference_id": 166982,
+    "title": "Jude 1:25 (#5)",
+    "media_type": "Text",
+    "index_reference": "65001025",
+    "language": "eng",
+    "content": "<p><strong>&quot;before all the age&quot;</strong></p><p>This is an idiom that refers to eternity past. If it would be helpful in your language, you could use an equivalent idiom or use plain language. Alternate translation: “in eternity past” or “before everything”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26697\" data-resourceType=\"UWTranslationManual\">Idiom</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001025",
+          "start_ref_usfm": "JUD 1:25",
+          "end_ref": "65001025",
+          "end_ref_usfm": "JUD 1:25"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26697,
+          "content_id": 33283,
+          "label": "Idiom",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 260563,
+    "reference_id": 166983,
+    "title": "Jude 1:25 (#6)",
+    "media_type": "Text",
+    "index_reference": "65001025",
+    "language": "eng",
+    "content": "<p><strong>&quot;to all eternity&quot;</strong></p><p>This is an idiom that means “forever.” If it would be helpful in your language, you could use an equivalent idiom or use plain language. Alternate translation: “to eternity” or “forever”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26697\" data-resourceType=\"UWTranslationManual\">Idiom</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "65001025",
+          "start_ref_usfm": "JUD 1:25",
+          "end_ref": "65001025",
+          "end_ref_usfm": "JUD 1:25"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26697,
+          "content_id": 33283,
+          "label": "Idiom",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]
