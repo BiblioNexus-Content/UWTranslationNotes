@@ -1,0 +1,2311 @@
+[
+  {
+    "content_id": 247751,
+    "reference_id": 162492,
+    "title": "Philemon 1:1 (#1)",
+    "media_type": "Text",
+    "index_reference": "57001001",
+    "language": "eng",
+    "content": "<p><strong>&quot;Paul&quot;</strong></p><p>Your language may have a particular way of introducing the author of a letter. Use that here. Alternate translations: “From me, Paul” or “I, Paul”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26670\" data-resourceType=\"UWTranslationManual\">First, Second or Third Person</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001001",
+          "start_ref_usfm": "PHM 1:1",
+          "end_ref": "57001001",
+          "end_ref_usfm": "PHM 1:1"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26670,
+          "content_id": 33256,
+          "label": "First, Second or Third Person",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247752,
+    "reference_id": 162493,
+    "title": "Philemon 1:1 (#2)",
+    "media_type": "Text",
+    "index_reference": "57001001",
+    "language": "eng",
+    "content": "<p><strong>&quot;a prisoner of Christ Jesus&quot;</strong></p><p>Paul was in prison because people in authority did not want him to preach about Jesus. They put him there in order to stop him and to punish him. This does not mean that Jesus had put Paul in prison. Alternate translation: “a prisoner for the sake of Christ Jesus”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001001",
+          "start_ref_usfm": "PHM 1:1",
+          "end_ref": "57001001",
+          "end_ref_usfm": "PHM 1:1"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 247753,
+    "reference_id": 162494,
+    "title": "Philemon 1:1 (#3)",
+    "media_type": "Text",
+    "index_reference": "57001001",
+    "language": "eng",
+    "content": "<p><strong>&quot;our brother&quot;</strong></p><p>Paul is using the term <strong>brother</strong> to mean someone who shares the same faith. Alternate translation: “our fellow Christian” or “our companion in the faith” (See: rc://*/ta/man/translate/figs-metaphor)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001001",
+          "start_ref_usfm": "PHM 1:1",
+          "end_ref": "57001001",
+          "end_ref_usfm": "PHM 1:1"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 247754,
+    "reference_id": 162495,
+    "title": "Philemon 1:1 (#4)",
+    "media_type": "Text",
+    "index_reference": "57001001",
+    "language": "eng",
+    "content": "<p><strong>&quot;our brother&quot;</strong></p><p>Here, the word <strong>our</strong> is not in the original, but was necessary for English, which requires that a relationship word indicate who the person is related to. In this case, <strong>our</strong> would be inclusive, relating Timothy to Paul and the readers as a brother in Christ. If your language requires this, you could do the same. If not, you could follow the original wording, which says, “the brother.”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26685\" data-resourceType=\"UWTranslationManual\">Exclusive and Inclusive ‘We’</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001001",
+          "start_ref_usfm": "PHM 1:1",
+          "end_ref": "57001001",
+          "end_ref_usfm": "PHM 1:1"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26685,
+          "content_id": 33271,
+          "label": "Exclusive and Inclusive ‘We’",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247755,
+    "reference_id": 162496,
+    "title": "Philemon 1:1 (#5)",
+    "media_type": "Text",
+    "index_reference": "57001001",
+    "language": "eng",
+    "content": "<p><strong>&quot;to Philemon&quot;</strong></p><p><strong>Philemon</strong> is the name of a man.</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26805\" data-resourceType=\"UWTranslationManual\">How to Translate Names</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001001",
+          "start_ref_usfm": "PHM 1:1",
+          "end_ref": "57001001",
+          "end_ref_usfm": "PHM 1:1"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26805,
+          "content_id": 33391,
+          "label": "How to Translate Names",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247756,
+    "reference_id": 162497,
+    "title": "Philemon 1:1 (#6)",
+    "media_type": "Text",
+    "index_reference": "57001001",
+    "language": "eng",
+    "content": "<p><strong>&quot;to Philemon&quot;</strong></p><p>If it would be more natural in your language, you could include the information that this is a letter in which Paul is speaking directly to <strong>Philemon</strong>, as in the UST.</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26687\" data-resourceType=\"UWTranslationManual\">Assumed Knowledge and Implicit Information</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001001",
+          "start_ref_usfm": "PHM 1:1",
+          "end_ref": "57001001",
+          "end_ref_usfm": "PHM 1:1"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26687,
+          "content_id": 33273,
+          "label": "Assumed Knowledge and Implicit Information",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247757,
+    "reference_id": 162498,
+    "title": "Philemon 1:1 (#7)",
+    "media_type": "Text",
+    "index_reference": "57001001",
+    "language": "eng",
+    "content": "<p><strong>&quot;our&quot;</strong></p><p>The word <strong>our</strong> here refers to Paul and those with him, but not to the reader.</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26685\" data-resourceType=\"UWTranslationManual\">Exclusive and Inclusive ‘We’</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001001",
+          "start_ref_usfm": "PHM 1:1",
+          "end_ref": "57001001",
+          "end_ref_usfm": "PHM 1:1"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26685,
+          "content_id": 33271,
+          "label": "Exclusive and Inclusive ‘We’",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247758,
+    "reference_id": 162499,
+    "title": "Philemon 1:1 (#8)",
+    "media_type": "Text",
+    "index_reference": "57001001",
+    "language": "eng",
+    "content": "<p><strong>&quot;and our fellow worker&quot;</strong></p><p>If it would be helpful in your language, you could state explicitly how Philemon worked with Paul. Alternate translation: “who, like us, works to spread the gospel” or “who works as we do to serve Jesus”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001001",
+          "start_ref_usfm": "PHM 1:1",
+          "end_ref": "57001001",
+          "end_ref_usfm": "PHM 1:1"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 247759,
+    "reference_id": 162500,
+    "title": "Philemon 1:2 (#1)",
+    "media_type": "Text",
+    "index_reference": "57001002",
+    "language": "eng",
+    "content": "<p><strong>&quot;to Apphia&quot;</strong></p><p><strong>Apphia</strong> is the name of a woman.</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26805\" data-resourceType=\"UWTranslationManual\">How to Translate Names</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001002",
+          "start_ref_usfm": "PHM 1:2",
+          "end_ref": "57001002",
+          "end_ref_usfm": "PHM 1:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26805,
+          "content_id": 33391,
+          "label": "How to Translate Names",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247760,
+    "reference_id": 162501,
+    "title": "Philemon 1:2 (#2)",
+    "media_type": "Text",
+    "index_reference": "57001002",
+    "language": "eng",
+    "content": "<p><strong>&quot;our sister&quot;</strong></p><p>Here, the word <strong>our</strong> is not in the original, but was necessary for English, which requires that a relationship word indicate who the person is related to. In this case, <strong>our</strong> would be inclusive, relating Apphia to Paul and the readers as a sister in Christ. If your language requires this, you could do the same. If not, you could do the same as the original, which says, “the sister.”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26685\" data-resourceType=\"UWTranslationManual\">Exclusive and Inclusive ‘We’</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001002",
+          "start_ref_usfm": "PHM 1:2",
+          "end_ref": "57001002",
+          "end_ref_usfm": "PHM 1:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26685,
+          "content_id": 33271,
+          "label": "Exclusive and Inclusive ‘We’",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247761,
+    "reference_id": 162502,
+    "title": "Philemon 1:2 (#3)",
+    "media_type": "Text",
+    "index_reference": "57001002",
+    "language": "eng",
+    "content": "<p><strong>&quot;our sister&quot;</strong></p><p>Paul is using the term <strong>sister</strong> to mean a woman who shares the same faith. Alternate translation: “our fellow Christian” or “our spiritual sister”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26706\" data-resourceType=\"UWTranslationManual\">Metaphor</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001002",
+          "start_ref_usfm": "PHM 1:2",
+          "end_ref": "57001002",
+          "end_ref_usfm": "PHM 1:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26706,
+          "content_id": 33292,
+          "label": "Metaphor",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247762,
+    "reference_id": 162503,
+    "title": "Philemon 1:2 (#4)",
+    "media_type": "Text",
+    "index_reference": "57001002",
+    "language": "eng",
+    "content": "<p><strong>&quot;our&quot;</strong></p><p>The word <strong>our</strong> here refers to Paul and those with him, but not to the reader.</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26685\" data-resourceType=\"UWTranslationManual\">Exclusive and Inclusive ‘We’</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001002",
+          "start_ref_usfm": "PHM 1:2",
+          "end_ref": "57001002",
+          "end_ref_usfm": "PHM 1:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26685,
+          "content_id": 33271,
+          "label": "Exclusive and Inclusive ‘We’",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247763,
+    "reference_id": 162504,
+    "title": "Philemon 1:2 (#5)",
+    "media_type": "Text",
+    "index_reference": "57001002",
+    "language": "eng",
+    "content": "<p><strong>&quot;to Apphia&quot;</strong> - <strong>&quot;to Archippus&quot;</strong> - <strong>&quot;to the church&quot;</strong></p><p>The letter is predominantly addressed to Philemon. It could be misleading to suggest Paul is writing to <strong>Apphia</strong>, <strong>Archippus</strong>, and <strong>the church</strong> in Philemon’s house, on the same level as he is writing to Philemon.</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001002",
+          "start_ref_usfm": "PHM 1:2",
+          "end_ref": "57001002",
+          "end_ref_usfm": "PHM 1:2"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 247764,
+    "reference_id": 162505,
+    "title": "Philemon 1:2 (#6)",
+    "media_type": "Text",
+    "index_reference": "57001002",
+    "language": "eng",
+    "content": "<p><strong>&quot;to Archippus&quot;</strong></p><p><strong>Archippus</strong> is the name of a man in the church with Philemon.</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26805\" data-resourceType=\"UWTranslationManual\">How to Translate Names</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001002",
+          "start_ref_usfm": "PHM 1:2",
+          "end_ref": "57001002",
+          "end_ref_usfm": "PHM 1:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26805,
+          "content_id": 33391,
+          "label": "How to Translate Names",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247765,
+    "reference_id": 162506,
+    "title": "Philemon 1:2 (#7)",
+    "media_type": "Text",
+    "index_reference": "57001002",
+    "language": "eng",
+    "content": "<p><strong>&quot;our fellow soldier&quot;</strong></p><p>Paul speaks here of Archippus as if he and Archippus were both soldiers in an army. He means that Archippus works hard, as Paul himself works hard, to spread the gospel. Alternate translation: “our fellow spiritual warrior” or “who also fights the spiritual battle with us”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26706\" data-resourceType=\"UWTranslationManual\">Metaphor</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001002",
+          "start_ref_usfm": "PHM 1:2",
+          "end_ref": "57001002",
+          "end_ref_usfm": "PHM 1:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26706,
+          "content_id": 33292,
+          "label": "Metaphor",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247766,
+    "reference_id": 162507,
+    "title": "Philemon 1:2 (#8)",
+    "media_type": "Text",
+    "index_reference": "57001002",
+    "language": "eng",
+    "content": "<p><strong>&quot;and to the church in your house&quot;</strong></p><p>Apphia and Archippus were probably also members of the <strong>church</strong> that met at Philemon’s house. If mentioning them separately would imply that they were not part of the church, you could include a word like “other.” Alternate translation: “to the other members of the church in your house”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001002",
+          "start_ref_usfm": "PHM 1:2",
+          "end_ref": "57001002",
+          "end_ref_usfm": "PHM 1:2"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 247767,
+    "reference_id": 162508,
+    "title": "Philemon 1:3 (#1)",
+    "media_type": "Text",
+    "index_reference": "57001003",
+    "language": "eng",
+    "content": "<p><strong>&quot;Grace to you and peace from God our Father and our Lord Jesus Christ&quot;</strong></p><p>After introducing the senders and recipients of the letter, Paul gives a blessing. Use a form that people would recognize as a blessing in your language. Alternate translation: “May God our Father and the Lord Jesus Christ give you grace and peace.”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26785\" data-resourceType=\"UWTranslationManual\">Blessings</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001003",
+          "start_ref_usfm": "PHM 1:3",
+          "end_ref": "57001003",
+          "end_ref_usfm": "PHM 1:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26785,
+          "content_id": 33371,
+          "label": "Blessings",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247768,
+    "reference_id": 162509,
+    "title": "Philemon 1:3 (#2)",
+    "media_type": "Text",
+    "index_reference": "57001003",
+    "language": "eng",
+    "content": "<p><strong>&quot;Grace to you and peace from God our Father and our Lord Jesus Christ&quot;</strong></p><p>If it would be helpful in your language, you could express the idea behind the abstract nouns <strong>Grace</strong> and <strong>peace</strong> with adjectives such as “gracious” and “peaceful.” Alternate translation: “May God our Father and our Lord Jesus Christ be gracious to you and make you peaceful”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26671\" data-resourceType=\"UWTranslationManual\">Abstract Nouns</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001003",
+          "start_ref_usfm": "PHM 1:3",
+          "end_ref": "57001003",
+          "end_ref_usfm": "PHM 1:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26671,
+          "content_id": 33257,
+          "label": "Abstract Nouns",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247769,
+    "reference_id": 162510,
+    "title": "Philemon 1:3 (#3)",
+    "media_type": "Text",
+    "index_reference": "57001003",
+    "language": "eng",
+    "content": "<p><strong>&quot;our&quot;</strong> - <strong>&quot;our&quot;</strong></p><p>The word <strong>our</strong> here is inclusive, referring to Paul, those with him, and the reader.</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26685\" data-resourceType=\"UWTranslationManual\">Exclusive and Inclusive ‘We’</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001003",
+          "start_ref_usfm": "PHM 1:3",
+          "end_ref": "57001003",
+          "end_ref_usfm": "PHM 1:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26685,
+          "content_id": 33271,
+          "label": "Exclusive and Inclusive ‘We’",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247770,
+    "reference_id": 162511,
+    "title": "Philemon 1:3 (#4)",
+    "media_type": "Text",
+    "index_reference": "57001003",
+    "language": "eng",
+    "content": "<p><strong>&quot;to you&quot;</strong></p><p>Here, <strong>you</strong> is plural, referring to all of the recipients named in verses 1–2.</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26735\" data-resourceType=\"UWTranslationManual\">Forms of ‘You’ — Singular</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001003",
+          "start_ref_usfm": "PHM 1:3",
+          "end_ref": "57001003",
+          "end_ref_usfm": "PHM 1:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26735,
+          "content_id": 33321,
+          "label": "Forms of ‘You’ — Singular",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247771,
+    "reference_id": 162512,
+    "title": "Philemon 1:3 (#5)",
+    "media_type": "Text",
+    "index_reference": "57001003",
+    "language": "eng",
+    "content": "<p><strong>&quot;Father&quot;</strong></p><p><strong>Father</strong> is an important title for God.</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26763\" data-resourceType=\"UWTranslationManual\">Translating Son and Father</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001003",
+          "start_ref_usfm": "PHM 1:3",
+          "end_ref": "57001003",
+          "end_ref_usfm": "PHM 1:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26763,
+          "content_id": 33349,
+          "label": "Translating Son and Father",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247772,
+    "reference_id": 162513,
+    "title": "Philemon 1:4 (#1)",
+    "media_type": "Text",
+    "index_reference": "57001004",
+    "language": "eng",
+    "content": "<p><strong>&quot;of you&quot;</strong></p><p>Here, the word <strong>you</strong> is singular and refers to Philemon.</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26735\" data-resourceType=\"UWTranslationManual\">Forms of ‘You’ — Singular</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001004",
+          "start_ref_usfm": "PHM 1:4",
+          "end_ref": "57001004",
+          "end_ref_usfm": "PHM 1:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26735,
+          "content_id": 33321,
+          "label": "Forms of ‘You’ — Singular",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247773,
+    "reference_id": 162514,
+    "title": "Philemon 1:5 (#1)",
+    "media_type": "Text",
+    "index_reference": "57001005",
+    "language": "eng",
+    "content": "<p><strong>&quot;hearing of your love and the faith that you have in the Lord Jesus and for all the saints&quot;</strong></p><p>If it would be helpful in your language, you could express the abstract nouns <strong>love</strong> and <strong>faith</strong> by stating the ideas behind them with verbs instead. Alternate translation: “hearing how much you love and believe in the Lord Jesus and all the saints”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26671\" data-resourceType=\"UWTranslationManual\">Abstract Nouns</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001005",
+          "start_ref_usfm": "PHM 1:5",
+          "end_ref": "57001005",
+          "end_ref_usfm": "PHM 1:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26671,
+          "content_id": 33257,
+          "label": "Abstract Nouns",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247774,
+    "reference_id": 162515,
+    "title": "Philemon 1:5 (#2)",
+    "media_type": "Text",
+    "index_reference": "57001005",
+    "language": "eng",
+    "content": "<p><strong>&quot;hearing of your love and the faith that you have in the Lord Jesus and for all the saints&quot;</strong></p><p>Paul is using a poetic structure here in which the first and last parts relate and the second and third parts relate. Therefore, the meaning is: “hearing of the faith that you have in the Lord Jesus and of your love for all the saints.”Paul said exactly that in Colossians 1:4 without the poetic structure.</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26836\" data-resourceType=\"UWTranslationManual\">Poetry</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001005",
+          "start_ref_usfm": "PHM 1:5",
+          "end_ref": "57001005",
+          "end_ref_usfm": "PHM 1:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26836,
+          "content_id": 33422,
+          "label": "Poetry",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247775,
+    "reference_id": 162516,
+    "title": "Philemon 1:5 (#3)",
+    "media_type": "Text",
+    "index_reference": "57001005",
+    "language": "eng",
+    "content": "<p><strong>&quot;your&quot;</strong> - <strong>&quot;you have&quot;</strong></p><p>Here, the words <strong>your</strong> and <strong>you</strong> are singular and refer to Philemon.</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26735\" data-resourceType=\"UWTranslationManual\">Forms of ‘You’ — Singular</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001005",
+          "start_ref_usfm": "PHM 1:5",
+          "end_ref": "57001005",
+          "end_ref_usfm": "PHM 1:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26735,
+          "content_id": 33321,
+          "label": "Forms of ‘You’ — Singular",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247776,
+    "reference_id": 162517,
+    "title": "Philemon 1:6 (#1)",
+    "media_type": "Text",
+    "index_reference": "57001006",
+    "language": "eng",
+    "content": "<p><strong>&quot;that&quot;</strong></p><p>Here, <strong>that</strong> introduces the content of the prayer that Paul mentions in verse 4. If it would be helpful in your language, you could repeat the idea of prayer here. Alternate translation: “I pray that”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26687\" data-resourceType=\"UWTranslationManual\">Assumed Knowledge and Implicit Information</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001006",
+          "start_ref_usfm": "PHM 1:6",
+          "end_ref": "57001006",
+          "end_ref_usfm": "PHM 1:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26687,
+          "content_id": 33273,
+          "label": "Assumed Knowledge and Implicit Information",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247777,
+    "reference_id": 162518,
+    "title": "Philemon 1:6 (#2)",
+    "media_type": "Text",
+    "index_reference": "57001006",
+    "language": "eng",
+    "content": "<p><strong>&quot;the fellowship of your faith&quot;</strong></p><p>The word translated <strong>fellowship</strong> means a sharing or a partnership in something. Paul probably intends both meanings, but if you must choose, it could mean: (1) that Philemon shares the same faith in Christ as Paul and others. Alternate translation: “the faith that you share with us” (2) that Philemon is a partner with Paul and others in working for Christ. Alternate translation: “your working together with us as believers”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26671\" data-resourceType=\"UWTranslationManual\">Abstract Nouns</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001006",
+          "start_ref_usfm": "PHM 1:6",
+          "end_ref": "57001006",
+          "end_ref_usfm": "PHM 1:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26671,
+          "content_id": 33257,
+          "label": "Abstract Nouns",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247778,
+    "reference_id": 162519,
+    "title": "Philemon 1:6 (#3)",
+    "media_type": "Text",
+    "index_reference": "57001006",
+    "language": "eng",
+    "content": "<p><strong>&quot;the fellowship of your faith may become effective through the knowledge of everything good {that is} among us for Christ&quot;</strong></p><p>If it would be helpful in your language, you could express the idea behind the abstract noun <strong>faith</strong> with a verb such as “trust” or “believe,” and behind <strong>knowledge</strong> with a verb such as “know” or “learn.” Alternate translation: “as you trust in the Messiah along with us, you may become increasingly better at serving the Messiah, as you learn about all of the good things that he has given us to use for him”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26671\" data-resourceType=\"UWTranslationManual\">Abstract Nouns</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001006",
+          "start_ref_usfm": "PHM 1:6",
+          "end_ref": "57001006",
+          "end_ref_usfm": "PHM 1:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26671,
+          "content_id": 33257,
+          "label": "Abstract Nouns",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247779,
+    "reference_id": 162520,
+    "title": "Philemon 1:6 (#4)",
+    "media_type": "Text",
+    "index_reference": "57001006",
+    "language": "eng",
+    "content": "<p><strong>&quot;through the knowledge of everything good&quot;</strong></p><p>This could mean: (1) “and will result in you knowing every good thing” (2) “so that those you share your faith with will know every good thing” Alternate translation: “by knowing everything good”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26671\" data-resourceType=\"UWTranslationManual\">Abstract Nouns</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001006",
+          "start_ref_usfm": "PHM 1:6",
+          "end_ref": "57001006",
+          "end_ref_usfm": "PHM 1:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26671,
+          "content_id": 33257,
+          "label": "Abstract Nouns",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247780,
+    "reference_id": 162521,
+    "title": "Philemon 1:6 (#5)",
+    "media_type": "Text",
+    "index_reference": "57001006",
+    "language": "eng",
+    "content": "<p><strong>&quot;for Christ&quot;</strong></p><p>If it would be helpful in your language, you could state explicitly how “everything good” is <strong>for Christ</strong>. Alternate translation: “for the sake of Christ” or “for the benefit of Christ”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26687\" data-resourceType=\"UWTranslationManual\">Assumed Knowledge and Implicit Information</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001006",
+          "start_ref_usfm": "PHM 1:6",
+          "end_ref": "57001006",
+          "end_ref_usfm": "PHM 1:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26687,
+          "content_id": 33273,
+          "label": "Assumed Knowledge and Implicit Information",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247781,
+    "reference_id": 162522,
+    "title": "Philemon 1:7 (#1)",
+    "media_type": "Text",
+    "index_reference": "57001007",
+    "language": "eng",
+    "content": "<p><strong>&quot;For I had much joy and comfort&quot;</strong></p><p>If it would be helpful in your language, you could express the idea behind the abstract nouns <strong>joy</strong> and <strong>comfort</strong> with adjectives. Alternate translation: “For you made me very joyful and comforted”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26671\" data-resourceType=\"UWTranslationManual\">Abstract Nouns</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001007",
+          "start_ref_usfm": "PHM 1:7",
+          "end_ref": "57001007",
+          "end_ref_usfm": "PHM 1:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26671,
+          "content_id": 33257,
+          "label": "Abstract Nouns",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247782,
+    "reference_id": 162523,
+    "title": "Philemon 1:7 (#2)",
+    "media_type": "Text",
+    "index_reference": "57001007",
+    "language": "eng",
+    "content": "<p><strong>&quot;because of your love&quot;</strong></p><p>If it would be helpful in your language, you could express the idea behind the abstract noun <strong>love</strong> with a verb. Alternate translation: “because you love people”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26671\" data-resourceType=\"UWTranslationManual\">Abstract Nouns</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001007",
+          "start_ref_usfm": "PHM 1:7",
+          "end_ref": "57001007",
+          "end_ref_usfm": "PHM 1:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26671,
+          "content_id": 33257,
+          "label": "Abstract Nouns",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247783,
+    "reference_id": 162524,
+    "title": "Philemon 1:7 (#3)",
+    "media_type": "Text",
+    "index_reference": "57001007",
+    "language": "eng",
+    "content": "<p><strong>&quot;the inner parts of the saints are being refreshed by you&quot;</strong></p><p>If your language does not use this passive form, you can state this in active form. Alternate translation: “you have refreshed the inward parts of the saints”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26672\" data-resourceType=\"UWTranslationManual\">Active or Passive</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001007",
+          "start_ref_usfm": "PHM 1:7",
+          "end_ref": "57001007",
+          "end_ref_usfm": "PHM 1:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26672,
+          "content_id": 33258,
+          "label": "Active or Passive",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247784,
+    "reference_id": 162525,
+    "title": "Philemon 1:7 (#4)",
+    "media_type": "Text",
+    "index_reference": "57001007",
+    "language": "eng",
+    "content": "<p><strong>&quot;the inner parts of the saints&quot;</strong></p><p>Here, <strong>inward parts</strong> refers to a person’s emotions or inner being. Use the figure that is normal in your language for this, such as “hearts” or “livers,” or give the plain meaning. Alternate translation: “the thoughts and feelings of the saints”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26707\" data-resourceType=\"UWTranslationManual\">Metonymy</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001007",
+          "start_ref_usfm": "PHM 1:7",
+          "end_ref": "57001007",
+          "end_ref_usfm": "PHM 1:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26707,
+          "content_id": 33293,
+          "label": "Metonymy",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247785,
+    "reference_id": 162526,
+    "title": "Philemon 1:7 (#5)",
+    "media_type": "Text",
+    "index_reference": "57001007",
+    "language": "eng",
+    "content": "<p><strong>&quot;the inner parts of the saints are being refreshed by you&quot;</strong></p><p>Here, <strong>being refreshed</strong> refers to the feeling of encouragement or relief. Alternate translation: “you have encouraged the saints” or “you have helped the believers”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26706\" data-resourceType=\"UWTranslationManual\">Metaphor</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001007",
+          "start_ref_usfm": "PHM 1:7",
+          "end_ref": "57001007",
+          "end_ref_usfm": "PHM 1:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26706,
+          "content_id": 33292,
+          "label": "Metaphor",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247786,
+    "reference_id": 162527,
+    "title": "Philemon 1:7 (#6)",
+    "media_type": "Text",
+    "index_reference": "57001007",
+    "language": "eng",
+    "content": "<p><strong>&quot;you, brother&quot;</strong></p><p>Paul called Philemon <strong>brother</strong> because they were both believers, and he wanted to emphasize their friendship. Alternate translation: “you, dear brother” or “you, dear friend”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26706\" data-resourceType=\"UWTranslationManual\">Metaphor</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001007",
+          "start_ref_usfm": "PHM 1:7",
+          "end_ref": "57001007",
+          "end_ref_usfm": "PHM 1:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26706,
+          "content_id": 33292,
+          "label": "Metaphor",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247787,
+    "reference_id": 162528,
+    "title": "Philemon 1:8 (#1)",
+    "media_type": "Text",
+    "index_reference": "57001008",
+    "language": "eng",
+    "content": "<p><strong>&quot;&quot;</strong></p><p>Connecting Statement:\\n\\nPaul begins his plea and the reason for his letter.</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001008",
+          "start_ref_usfm": "PHM 1:8",
+          "end_ref": "57001008",
+          "end_ref_usfm": "PHM 1:8"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 247788,
+    "reference_id": 162529,
+    "title": "Philemon 1:8 (#2)",
+    "media_type": "Text",
+    "index_reference": "57001008",
+    "language": "eng",
+    "content": "<p><strong>&quot;much boldness in Christ&quot;</strong></p><p>This could mean: (1) “all authority because of Christ” (2) “all courage because of Christ.”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001008",
+          "start_ref_usfm": "PHM 1:8",
+          "end_ref": "57001008",
+          "end_ref_usfm": "PHM 1:8"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 247789,
+    "reference_id": 162530,
+    "title": "Philemon 1:8 (#3)",
+    "media_type": "Text",
+    "index_reference": "57001008",
+    "language": "eng",
+    "content": "<p><strong>&quot;Therefore&quot;</strong></p><p>The word <strong>Therefore</strong> signals that what Paul has just said in verses 4–7 is the reason for what he is about to say. Use a connecting word or another way that your language uses to signal this relationship. Alternate translation: “Because of this”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26745\" data-resourceType=\"UWTranslationManual\">Connect — Reason-and-Result Relationship</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001008",
+          "start_ref_usfm": "PHM 1:8",
+          "end_ref": "57001008",
+          "end_ref_usfm": "PHM 1:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26745,
+          "content_id": 33331,
+          "label": "Connect — Reason-and-Result Relationship",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247790,
+    "reference_id": 162531,
+    "title": "Philemon 1:9 (#1)",
+    "media_type": "Text",
+    "index_reference": "57001009",
+    "language": "eng",
+    "content": "<p><strong>&quot;because of love&quot;</strong></p><p>Paul does not say for whom this <strong>love</strong> is. If you need to use a verb here and say who loves whom, this could refer to: (1) the mutual love between him and Philemon. See the UST. (2) Paul’s love for Philemon. Alternate translation: “because I love you” (3) Philemon’s love for his fellow believers. Alternate translation: “because I know that you love God’s people”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26671\" data-resourceType=\"UWTranslationManual\">Abstract Nouns</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001009",
+          "start_ref_usfm": "PHM 1:9",
+          "end_ref": "57001009",
+          "end_ref_usfm": "PHM 1:9"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26671,
+          "content_id": 33257,
+          "label": "Abstract Nouns",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247791,
+    "reference_id": 162532,
+    "title": "Philemon 1:9 (#2)",
+    "media_type": "Text",
+    "index_reference": "57001009",
+    "language": "eng",
+    "content": "<p><strong>&quot;a prisoner of Christ Jesus&quot;</strong></p><p>Paul was in prison because people in authority did not want him to preach about Jesus. They put him there in order to stop him and to punish him. This does not mean that Jesus had put Paul in prison. Alternate translation: “a prisoner for the sake of Christ Jesus”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001009",
+          "start_ref_usfm": "PHM 1:9",
+          "end_ref": "57001009",
+          "end_ref_usfm": "PHM 1:9"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 247792,
+    "reference_id": 162533,
+    "title": "Philemon 1:10 (#1)",
+    "media_type": "Text",
+    "index_reference": "57001010",
+    "language": "eng",
+    "content": "<p><strong>&quot;Onesimus&quot;</strong></p><p><strong>Onesimus</strong> is the name of a man.</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26805\" data-resourceType=\"UWTranslationManual\">How to Translate Names</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001010",
+          "start_ref_usfm": "PHM 1:10",
+          "end_ref": "57001010",
+          "end_ref_usfm": "PHM 1:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26805,
+          "content_id": 33391,
+          "label": "How to Translate Names",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247793,
+    "reference_id": 162534,
+    "title": "Philemon 1:10 (#2)",
+    "media_type": "Text",
+    "index_reference": "57001010",
+    "language": "eng",
+    "content": "<p><strong>&quot;Onesimus&quot;</strong></p><p>The name <strong>Onesimus</strong> means “profitable” or “useful.” If it would be helpful to your readers, you could include this information in the text or in a footnote.</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26687\" data-resourceType=\"UWTranslationManual\">Assumed Knowledge and Implicit Information</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001010",
+          "start_ref_usfm": "PHM 1:10",
+          "end_ref": "57001010",
+          "end_ref_usfm": "PHM 1:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26687,
+          "content_id": 33273,
+          "label": "Assumed Knowledge and Implicit Information",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247794,
+    "reference_id": 162535,
+    "title": "Philemon 1:10 (#3)",
+    "media_type": "Text",
+    "index_reference": "57001010",
+    "language": "eng",
+    "content": "<p><strong>&quot;whom I have fathered&quot;</strong></p><p>Here, <strong>fathered</strong> is a metaphor that means that Onesimus became a believer as Paul taught him about Christ. Alternate translation: “who received new life and became my spiritual son when I taught him about Christ” or “who became a spiritual son to me”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26706\" data-resourceType=\"UWTranslationManual\">Metaphor</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001010",
+          "start_ref_usfm": "PHM 1:10",
+          "end_ref": "57001010",
+          "end_ref_usfm": "PHM 1:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26706,
+          "content_id": 33292,
+          "label": "Metaphor",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247795,
+    "reference_id": 162536,
+    "title": "Philemon 1:10 (#4)",
+    "media_type": "Text",
+    "index_reference": "57001010",
+    "language": "eng",
+    "content": "<p><strong>&quot;in my chains&quot;</strong></p><p>Prisoners were often bound in <strong>chains</strong>. Paul was in prison when he taught Onesimus and was still in prison when he wrote this letter. Alternate translation: “here in prison”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26707\" data-resourceType=\"UWTranslationManual\">Metonymy</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001010",
+          "start_ref_usfm": "PHM 1:10",
+          "end_ref": "57001010",
+          "end_ref_usfm": "PHM 1:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26707,
+          "content_id": 33293,
+          "label": "Metonymy",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247796,
+    "reference_id": 162537,
+    "title": "Philemon 1:12 (#1)",
+    "media_type": "Text",
+    "index_reference": "57001012",
+    "language": "eng",
+    "content": "<p><strong>&quot;whom I have sent back to you&quot;</strong></p><p>Paul was probably sending Onesimus with another believer who carried this letter.</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001012",
+          "start_ref_usfm": "PHM 1:12",
+          "end_ref": "57001012",
+          "end_ref_usfm": "PHM 1:12"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 247797,
+    "reference_id": 162538,
+    "title": "Philemon 1:12 (#2)",
+    "media_type": "Text",
+    "index_reference": "57001012",
+    "language": "eng",
+    "content": "<p><strong>&quot;this one is my inner parts&quot;</strong></p><p>The phrase <strong>this one is my inward parts</strong> is a metaphor for deep feelings about someone. Paul was saying this about Onesimus. Alternate translation: “this is a person whom I love dearly” or “this person is very special to me”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26706\" data-resourceType=\"UWTranslationManual\">Metaphor</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001012",
+          "start_ref_usfm": "PHM 1:12",
+          "end_ref": "57001012",
+          "end_ref_usfm": "PHM 1:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26706,
+          "content_id": 33292,
+          "label": "Metaphor",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247798,
+    "reference_id": 162539,
+    "title": "Philemon 1:12 (#3)",
+    "media_type": "Text",
+    "index_reference": "57001012",
+    "language": "eng",
+    "content": "<p><strong>&quot;my inner parts&quot;</strong></p><p>Here, ** inward parts** is figurative for the place of a person’s emotions. If your language has a similar figure, then use that. If not, use plain language. Alternate translation: “my heart” or “my liver” or “my deepest feelings”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26707\" data-resourceType=\"UWTranslationManual\">Metonymy</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001012",
+          "start_ref_usfm": "PHM 1:12",
+          "end_ref": "57001012",
+          "end_ref_usfm": "PHM 1:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26707,
+          "content_id": 33293,
+          "label": "Metonymy",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247799,
+    "reference_id": 162540,
+    "title": "Philemon 1:13 (#1)",
+    "media_type": "Text",
+    "index_reference": "57001013",
+    "language": "eng",
+    "content": "<p><strong>&quot;so that he might serve me on behalf of you&quot;</strong></p><p>Paul knows that Philemon wants to help him, and so he suggests that a way to do that would be to allow Onesimus to serve Paul in prison. Alternate translation: “so that, since you could not be here, he might help me” or “so that he could help me in your place”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001013",
+          "start_ref_usfm": "PHM 1:13",
+          "end_ref": "57001013",
+          "end_ref_usfm": "PHM 1:13"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 247800,
+    "reference_id": 162541,
+    "title": "Philemon 1:13 (#2)",
+    "media_type": "Text",
+    "index_reference": "57001013",
+    "language": "eng",
+    "content": "<p><strong>&quot;in the chains&quot;</strong></p><p>Prisoners were often bound in <strong>chains</strong>. Paul was in prison when he told Onesimus about the Messiah, and he was still in prison when he wrote this letter.</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26707\" data-resourceType=\"UWTranslationManual\">Metonymy</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001013",
+          "start_ref_usfm": "PHM 1:13",
+          "end_ref": "57001013",
+          "end_ref_usfm": "PHM 1:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26707,
+          "content_id": 33293,
+          "label": "Metonymy",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247801,
+    "reference_id": 162542,
+    "title": "Philemon 1:13 (#3)",
+    "media_type": "Text",
+    "index_reference": "57001013",
+    "language": "eng",
+    "content": "<p><strong>&quot;in the chains of the gospel&quot;</strong></p><p>Paul was in prison because he preached <strong>the gospel</strong> publicly. You can state this explicitly. Alternate translation: “in the chains that they put on me because I preach the gospel”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26687\" data-resourceType=\"UWTranslationManual\">Assumed Knowledge and Implicit Information</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001013",
+          "start_ref_usfm": "PHM 1:13",
+          "end_ref": "57001013",
+          "end_ref_usfm": "PHM 1:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26687,
+          "content_id": 33273,
+          "label": "Assumed Knowledge and Implicit Information",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247802,
+    "reference_id": 162543,
+    "title": "Philemon 1:14 (#1)",
+    "media_type": "Text",
+    "index_reference": "57001014",
+    "language": "eng",
+    "content": "<p><strong>&quot;so that your good {deed} might not be as according to compulsion&quot;</strong></p><p>If it would be helpful in your language, you could express the idea behind the abstract noun <strong>compulsion</strong> with a verb. Alternate translation: “for I did not want you to do this good deed because I commanded you to do it”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26671\" data-resourceType=\"UWTranslationManual\">Abstract Nouns</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001014",
+          "start_ref_usfm": "PHM 1:14",
+          "end_ref": "57001014",
+          "end_ref_usfm": "PHM 1:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26671,
+          "content_id": 33257,
+          "label": "Abstract Nouns",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247803,
+    "reference_id": 162544,
+    "title": "Philemon 1:14 (#2)",
+    "media_type": "Text",
+    "index_reference": "57001014",
+    "language": "eng",
+    "content": "<p><strong>&quot;but according to good will&quot;</strong></p><p>If it would be helpful in your language, you could express the idea behind the abstract noun <strong>will</strong> with a verb. Alternate translation: “but because you wanted to do it” or “but because you freely chose to do the right thing”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26671\" data-resourceType=\"UWTranslationManual\">Abstract Nouns</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001014",
+          "start_ref_usfm": "PHM 1:14",
+          "end_ref": "57001014",
+          "end_ref_usfm": "PHM 1:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26671,
+          "content_id": 33257,
+          "label": "Abstract Nouns",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247804,
+    "reference_id": 162545,
+    "title": "Philemon 1:15 (#1)",
+    "media_type": "Text",
+    "index_reference": "57001015",
+    "language": "eng",
+    "content": "<p><strong>&quot;For perhaps because of this he was separated from {you} for an hour, so that&quot;</strong></p><p>If your language does not use this passive form, you can state this in active form. Alternate translation: “For perhaps the reason that God took Onesimus away from you for a time was so that”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26672\" data-resourceType=\"UWTranslationManual\">Active or Passive</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001015",
+          "start_ref_usfm": "PHM 1:15",
+          "end_ref": "57001015",
+          "end_ref_usfm": "PHM 1:15"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26672,
+          "content_id": 33258,
+          "label": "Active or Passive",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247805,
+    "reference_id": 162546,
+    "title": "Philemon 1:15 (#2)",
+    "media_type": "Text",
+    "index_reference": "57001015",
+    "language": "eng",
+    "content": "<p><strong>&quot;for an hour&quot;</strong></p><p>Here, the phrase <strong>for an hour</strong> is an idiom meaning “for a short time.” If it would be helpful in your language, you could use an equivalent idiom or use plain language. Alternate translation: “for this short time”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26697\" data-resourceType=\"UWTranslationManual\">Idiom</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001015",
+          "start_ref_usfm": "PHM 1:15",
+          "end_ref": "57001015",
+          "end_ref_usfm": "PHM 1:15"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26697,
+          "content_id": 33283,
+          "label": "Idiom",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247806,
+    "reference_id": 162547,
+    "title": "Philemon 1:16 (#1)",
+    "media_type": "Text",
+    "index_reference": "57001016",
+    "language": "eng",
+    "content": "<p><strong>&quot;better than a slave&quot;</strong></p><p>Alternate translation: “more valuable than a slave” or “more dear than a slave”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001016",
+          "start_ref_usfm": "PHM 1:16",
+          "end_ref": "57001016",
+          "end_ref_usfm": "PHM 1:16"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 247807,
+    "reference_id": 162548,
+    "title": "Philemon 1:16 (#2)",
+    "media_type": "Text",
+    "index_reference": "57001016",
+    "language": "eng",
+    "content": "<p><strong>&quot;no longer as a slave&quot;</strong></p><p>This does not mean that Onesimus will no longer be a <strong>slave</strong> to Philemon. If it would be helpful in your language, you could use a word such as “just” or “only.” Alternate translation: “no longer only as a slave”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001016",
+          "start_ref_usfm": "PHM 1:16",
+          "end_ref": "57001016",
+          "end_ref_usfm": "PHM 1:16"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 247808,
+    "reference_id": 162549,
+    "title": "Philemon 1:16 (#3)",
+    "media_type": "Text",
+    "index_reference": "57001016",
+    "language": "eng",
+    "content": "<p><strong>&quot;better than a slave&quot;</strong></p><p>Alternate translation: “more valuable than a slave”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001016",
+          "start_ref_usfm": "PHM 1:16",
+          "end_ref": "57001016",
+          "end_ref_usfm": "PHM 1:16"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 247809,
+    "reference_id": 162550,
+    "title": "Philemon 1:16 (#4)",
+    "media_type": "Text",
+    "index_reference": "57001016",
+    "language": "eng",
+    "content": "<p><strong>&quot;a beloved brother&quot;</strong></p><p>Here, <strong>brother</strong> is a metaphor for a fellow believer. Alternative translation, “a beloved spiritual brother” or “a brother whom we love in Christ”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26706\" data-resourceType=\"UWTranslationManual\">Metaphor</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001016",
+          "start_ref_usfm": "PHM 1:16",
+          "end_ref": "57001016",
+          "end_ref_usfm": "PHM 1:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26706,
+          "content_id": 33292,
+          "label": "Metaphor",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247810,
+    "reference_id": 162551,
+    "title": "Philemon 1:16 (#5)",
+    "media_type": "Text",
+    "index_reference": "57001016",
+    "language": "eng",
+    "content": "<p><strong>&quot;beloved&quot;</strong></p><p>Alternate translation: “dear” or “precious”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001016",
+          "start_ref_usfm": "PHM 1:16",
+          "end_ref": "57001016",
+          "end_ref_usfm": "PHM 1:16"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 247811,
+    "reference_id": 162552,
+    "title": "Philemon 1:16 (#6)",
+    "media_type": "Text",
+    "index_reference": "57001016",
+    "language": "eng",
+    "content": "<p><strong>&quot;in the Lord&quot;</strong></p><p>Alternate translation: “in the fellowship of brotherhood through Jesus” or “in the fellowship of believers in the Lord”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001016",
+          "start_ref_usfm": "PHM 1:16",
+          "end_ref": "57001016",
+          "end_ref_usfm": "PHM 1:16"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 247812,
+    "reference_id": 162553,
+    "title": "Philemon 1:17 (#1)",
+    "media_type": "Text",
+    "index_reference": "57001017",
+    "language": "eng",
+    "content": "<p><strong>&quot;if you have me {as} a partner&quot;</strong></p><p>Paul is writing in a way that makes it seem as though it is possible that Philemon does not consider that Paul is his partner, but he knows that Philemon does consider Paul to be his partner. This is a way of getting Philemon to agree on one thing (that Paul is a partner) so that he will agree to the other thing (to receive Onesimus). If your language does not state something as uncertain if it is certain or true, and if your readers might think that what Paul is saying is not certain, then you could translate his words as an affirmative statement. Alternate translation: “since you have me as a partner”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26740\" data-resourceType=\"UWTranslationManual\">Connect — Factual Conditions</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001017",
+          "start_ref_usfm": "PHM 1:17",
+          "end_ref": "57001017",
+          "end_ref_usfm": "PHM 1:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26740,
+          "content_id": 33326,
+          "label": "Connect — Factual Conditions",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247813,
+    "reference_id": 162554,
+    "title": "Philemon 1:17 (#2)",
+    "media_type": "Text",
+    "index_reference": "57001017",
+    "language": "eng",
+    "content": "<p><strong>&quot;Therefore&quot;</strong></p><p><strong>Therefore</strong> means that what came before this word is the reason for what comes after it. It may be that Paul intends for everything that came before to be the reason, because this word also indicates that Paul is now coming to the main point of the letter. Use a natural method in your language to indicate this transition. Alternate translation: “Because of all of these things”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26745\" data-resourceType=\"UWTranslationManual\">Connect — Reason-and-Result Relationship</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001017",
+          "start_ref_usfm": "PHM 1:17",
+          "end_ref": "57001017",
+          "end_ref_usfm": "PHM 1:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26745,
+          "content_id": 33331,
+          "label": "Connect — Reason-and-Result Relationship",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247814,
+    "reference_id": 162555,
+    "title": "Philemon 1:17 (#3)",
+    "media_type": "Text",
+    "index_reference": "57001017",
+    "language": "eng",
+    "content": "<p><strong>&quot;receive him as me&quot;</strong></p><p>Paul is leaving out some of the words here that a sentence would need in many languages to be complete. If it would be helpful in your language, you could supply these words from the context. Alternate translation: “receive him just as you would receive me”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26681\" data-resourceType=\"UWTranslationManual\">Ellipsis</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001017",
+          "start_ref_usfm": "PHM 1:17",
+          "end_ref": "57001017",
+          "end_ref_usfm": "PHM 1:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26681,
+          "content_id": 33267,
+          "label": "Ellipsis",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247815,
+    "reference_id": 162556,
+    "title": "Philemon 1:18 (#1)",
+    "media_type": "Text",
+    "index_reference": "57001018",
+    "language": "eng",
+    "content": "<p><strong>&quot;But if he has wronged you or owes {you} anything&quot;</strong></p><p>Onesimus certainly did wrong to Philemon by running away, and he probably also stole some of Philemon’s property. But Paul is stating these things as uncertain in order to be polite. If your language does not use a conditional statement in this way, then use a more natural way to state this. Alternate translation: “But whatever he has taken or whatever wrong he has done to you”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26740\" data-resourceType=\"UWTranslationManual\">Connect — Factual Conditions</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001018",
+          "start_ref_usfm": "PHM 1:18",
+          "end_ref": "57001018",
+          "end_ref_usfm": "PHM 1:18"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26740,
+          "content_id": 33326,
+          "label": "Connect — Factual Conditions",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247816,
+    "reference_id": 162557,
+    "title": "Philemon 1:18 (#2)",
+    "media_type": "Text",
+    "index_reference": "57001018",
+    "language": "eng",
+    "content": "<p><strong>&quot;But if he has wronged you or owes {you} anything&quot;</strong></p><p>These two phrases mean similar things, although <strong>wronged you</strong> is more general than <strong>owes {you}</strong>. If it would be more natural in your language, you could put the more general phrase second. Alternate translation: “But if he owes you anything or has wronged you in any way”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001018",
+          "start_ref_usfm": "PHM 1:18",
+          "end_ref": "57001018",
+          "end_ref_usfm": "PHM 1:18"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 247817,
+    "reference_id": 162558,
+    "title": "Philemon 1:18 (#3)",
+    "media_type": "Text",
+    "index_reference": "57001018",
+    "language": "eng",
+    "content": "<p><strong>&quot;charge that to me&quot;</strong></p><p>Alternate translation: “I will take responsibility for repaying you” or “say that I am the one who owes you”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001018",
+          "start_ref_usfm": "PHM 1:18",
+          "end_ref": "57001018",
+          "end_ref_usfm": "PHM 1:18"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 247818,
+    "reference_id": 162559,
+    "title": "Philemon 1:19 (#1)",
+    "media_type": "Text",
+    "index_reference": "57001019",
+    "language": "eng",
+    "content": "<p><strong>&quot;I, Paul, wrote this with my own hand&quot;</strong></p><p>Paul wrote this part with his <strong>own hand</strong> so that Philemon would know that these words were really from Paul, and that Paul really would pay him. He used the past tense here because the action of writing would be in the past when Philemon read the letter. Use the tense that is most natural in your language. Alternate translation: “I, Paul, write this myself.”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001019",
+          "start_ref_usfm": "PHM 1:19",
+          "end_ref": "57001019",
+          "end_ref_usfm": "PHM 1:19"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 247819,
+    "reference_id": 162560,
+    "title": "Philemon 1:19 (#2)",
+    "media_type": "Text",
+    "index_reference": "57001019",
+    "language": "eng",
+    "content": "<p><strong>&quot;in order not to say to you&quot;</strong></p><p>Paul says that he will not say something to Philemon while saying it. This is a polite way of emphasizing the truth of what Paul is telling him. If your language would not use irony like this, then use a more natural expression. Alternate translation: “I do not need to remind you” or “You already know”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26702\" data-resourceType=\"UWTranslationManual\">Irony</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001019",
+          "start_ref_usfm": "PHM 1:19",
+          "end_ref": "57001019",
+          "end_ref_usfm": "PHM 1:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26702,
+          "content_id": 33288,
+          "label": "Irony",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247820,
+    "reference_id": 162561,
+    "title": "Philemon 1:19 (#3)",
+    "media_type": "Text",
+    "index_reference": "57001019",
+    "language": "eng",
+    "content": "<p><strong>&quot;you also owe me even your own self&quot;</strong></p><p>Paul was implying that whatever Onesimus or Paul owed to Philemon was canceled by the larger amount that Philemon owed to Paul, which was Philemon’s own life. The reason that Philemon owed Paul his life can be made explicit. Alternate translation: “you even owe me your own life” or “you owe me much more because I saved your life” or “you owe me your own life because I told you about Jesus”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26687\" data-resourceType=\"UWTranslationManual\">Assumed Knowledge and Implicit Information</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001019",
+          "start_ref_usfm": "PHM 1:19",
+          "end_ref": "57001019",
+          "end_ref_usfm": "PHM 1:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26687,
+          "content_id": 33273,
+          "label": "Assumed Knowledge and Implicit Information",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247821,
+    "reference_id": 162562,
+    "title": "Philemon 1:20 (#1)",
+    "media_type": "Text",
+    "index_reference": "57001020",
+    "language": "eng",
+    "content": "<p><strong>&quot;brother&quot;</strong></p><p>Here, <strong>brother</strong> is a metaphor for a fellow believer. Alternate translation: “spiritual brother” or “brother in Christ”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26706\" data-resourceType=\"UWTranslationManual\">Metaphor</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001020",
+          "start_ref_usfm": "PHM 1:20",
+          "end_ref": "57001020",
+          "end_ref_usfm": "PHM 1:20"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26706,
+          "content_id": 33292,
+          "label": "Metaphor",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247822,
+    "reference_id": 162563,
+    "title": "Philemon 1:20 (#2)",
+    "media_type": "Text",
+    "index_reference": "57001020",
+    "language": "eng",
+    "content": "<p><strong>&quot;in the Lord&quot;</strong></p><p>See how you translated <strong>in the Lord</strong> in verse 16. This metaphor refers to being a believer in Jesus and means the same as <strong>in Christ</strong>. Alternate translation: “as you serve the Lord” or “because we are fellow believers in the Lord”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26706\" data-resourceType=\"UWTranslationManual\">Metaphor</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001020",
+          "start_ref_usfm": "PHM 1:20",
+          "end_ref": "57001020",
+          "end_ref_usfm": "PHM 1:20"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26706,
+          "content_id": 33292,
+          "label": "Metaphor",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247823,
+    "reference_id": 162564,
+    "title": "Philemon 1:20 (#3)",
+    "media_type": "Text",
+    "index_reference": "57001020",
+    "language": "eng",
+    "content": "<p><strong>&quot;refresh my inner parts in Christ&quot;</strong></p><p>How Paul wanted Philemon to refresh him can be made explicit. Alternate translation: “refresh my inward parts in Christ by accepting Onesimus kindly”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26687\" data-resourceType=\"UWTranslationManual\">Assumed Knowledge and Implicit Information</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001020",
+          "start_ref_usfm": "PHM 1:20",
+          "end_ref": "57001020",
+          "end_ref_usfm": "PHM 1:20"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26687,
+          "content_id": 33273,
+          "label": "Assumed Knowledge and Implicit Information",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247824,
+    "reference_id": 162565,
+    "title": "Philemon 1:20 (#4)",
+    "media_type": "Text",
+    "index_reference": "57001020",
+    "language": "eng",
+    "content": "<p><strong>&quot;refresh my inner parts&quot;</strong></p><p>Here, <strong>refresh</strong> is a metaphor for comfort or encourage. Alternate translation: “encourage me” or “comfort me”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26706\" data-resourceType=\"UWTranslationManual\">Metaphor</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001020",
+          "start_ref_usfm": "PHM 1:20",
+          "end_ref": "57001020",
+          "end_ref_usfm": "PHM 1:20"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26706,
+          "content_id": 33292,
+          "label": "Metaphor",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247825,
+    "reference_id": 162566,
+    "title": "Philemon 1:20 (#5)",
+    "media_type": "Text",
+    "index_reference": "57001020",
+    "language": "eng",
+    "content": "<p><strong>&quot;refresh my inner parts&quot;</strong></p><p>Here, <strong>inward parts</strong> is a metonym for a person’s feelings, thoughts, or inner being. Alternate translation: “encourage me” or “comfort me”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26707\" data-resourceType=\"UWTranslationManual\">Metonymy</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001020",
+          "start_ref_usfm": "PHM 1:20",
+          "end_ref": "57001020",
+          "end_ref_usfm": "PHM 1:20"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26707,
+          "content_id": 33293,
+          "label": "Metonymy",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247826,
+    "reference_id": 162567,
+    "title": "Philemon 1:21 (#1)",
+    "media_type": "Text",
+    "index_reference": "57001021",
+    "language": "eng",
+    "content": "<p><strong>&quot;Having become confident in your obedience&quot;</strong></p><p>If it would be helpful in your language, you could express the idea behind the abstract nouns <strong>confidence</strong> and <strong>obedience</strong> with verbs. Alternate translation: “Because I am confident that you will obey”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26671\" data-resourceType=\"UWTranslationManual\">Abstract Nouns</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001021",
+          "start_ref_usfm": "PHM 1:21",
+          "end_ref": "57001021",
+          "end_ref_usfm": "PHM 1:21"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26671,
+          "content_id": 33257,
+          "label": "Abstract Nouns",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247827,
+    "reference_id": 162568,
+    "title": "Philemon 1:21 (#2)",
+    "media_type": "Text",
+    "index_reference": "57001021",
+    "language": "eng",
+    "content": "<p><strong>&quot;I wrote to you&quot;</strong></p><p>Paul used the past tense here because the action of writing would be in the past when Philemon read the letter. Use the tense that is most natural in your language. Alternate translation: “I write to you”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001021",
+          "start_ref_usfm": "PHM 1:21",
+          "end_ref": "57001021",
+          "end_ref_usfm": "PHM 1:21"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 247828,
+    "reference_id": 162569,
+    "title": "Philemon 1:22 (#1)",
+    "media_type": "Text",
+    "index_reference": "57001022",
+    "language": "eng",
+    "content": "<p><strong>&quot;&quot;</strong></p><p>Connecting Statement:\\n\\nHere Paul closes his letter and gives final instruction to Philemon and a blessing on Philemon and on the believers that met for church in Philemon’s house. If you are using section headings, you could put one here before verse 22. Suggested heading: “Final Instruction and Blessing”</p><p>See:</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001022",
+          "start_ref_usfm": "PHM 1:22",
+          "end_ref": "57001022",
+          "end_ref_usfm": "PHM 1:22"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 247829,
+    "reference_id": 162570,
+    "title": "Philemon 1:22 (#2)",
+    "media_type": "Text",
+    "index_reference": "57001022",
+    "language": "eng",
+    "content": "<p><strong>&quot;at the same time&quot;</strong></p><p>The word translated <strong>at the same time</strong> indicates that Paul wants Philemon to do something else for him while he does the first thing. You can make this clear in your translation with an appropriate connecting word or phrase. Alternate translation: “while doing that” or “in addition to that”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26748\" data-resourceType=\"UWTranslationManual\">Connect — Simultaneous Time Relationship</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001022",
+          "start_ref_usfm": "PHM 1:22",
+          "end_ref": "57001022",
+          "end_ref_usfm": "PHM 1:22"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26748,
+          "content_id": 33334,
+          "label": "Connect — Simultaneous Time Relationship",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247830,
+    "reference_id": 162571,
+    "title": "Philemon 1:22 (#3)",
+    "media_type": "Text",
+    "index_reference": "57001022",
+    "language": "eng",
+    "content": "<p><strong>&quot;I will be given back to you&quot;</strong></p><p>Alternate translation: “those who are keeping me in prison will set me free so that I can go to you.”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001022",
+          "start_ref_usfm": "PHM 1:22",
+          "end_ref": "57001022",
+          "end_ref_usfm": "PHM 1:22"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 247831,
+    "reference_id": 162572,
+    "title": "Philemon 1:22 (#4)",
+    "media_type": "Text",
+    "index_reference": "57001022",
+    "language": "eng",
+    "content": "<p><strong>&quot;prepare a guest room for me&quot;</strong></p><p>The word translated <strong>guest room</strong> refers to any hospitality that is provided for a guest. So the kind of space is unspecified. Alternate translation: “also prepare a place in your house for me.”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001022",
+          "start_ref_usfm": "PHM 1:22",
+          "end_ref": "57001022",
+          "end_ref_usfm": "PHM 1:22"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 247832,
+    "reference_id": 162573,
+    "title": "Philemon 1:22 (#5)",
+    "media_type": "Text",
+    "index_reference": "57001022",
+    "language": "eng",
+    "content": "<p><strong>&quot;through your prayers&quot;</strong></p><p>Alternate translation: “God will answer your prayers so”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001022",
+          "start_ref_usfm": "PHM 1:22",
+          "end_ref": "57001022",
+          "end_ref_usfm": "PHM 1:22"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 247833,
+    "reference_id": 162574,
+    "title": "Philemon 1:22 (#6)",
+    "media_type": "Text",
+    "index_reference": "57001022",
+    "language": "eng",
+    "content": "<p><strong>&quot;I will be given back to you&quot;</strong></p><p>If it would be helpful in your language, you could express this explicitly with an active form. Alternate translation: “God will bring me back to you” or “those who are keeping me in prison will set me free so that I can come to you.”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26672\" data-resourceType=\"UWTranslationManual\">Active or Passive</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001022",
+          "start_ref_usfm": "PHM 1:22",
+          "end_ref": "57001022",
+          "end_ref_usfm": "PHM 1:22"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26672,
+          "content_id": 33258,
+          "label": "Active or Passive",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247834,
+    "reference_id": 162575,
+    "title": "Philemon 1:22 (#7)",
+    "media_type": "Text",
+    "index_reference": "57001022",
+    "language": "eng",
+    "content": "<p><strong>&quot;your&quot;</strong> - <strong>&quot;to you&quot;</strong></p><p>The words <strong>your</strong> and <strong>you</strong> here are plural, referring to Philemon and all the believers who met in his house.</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26731\" data-resourceType=\"UWTranslationManual\">Forms of You</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001022",
+          "start_ref_usfm": "PHM 1:22",
+          "end_ref": "57001022",
+          "end_ref_usfm": "PHM 1:22"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26731,
+          "content_id": 33317,
+          "label": "Forms of You",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247835,
+    "reference_id": 162576,
+    "title": "Philemon 1:23 (#1)",
+    "media_type": "Text",
+    "index_reference": "57001023",
+    "language": "eng",
+    "content": "<p><strong>&quot;Epaphras&quot;</strong></p><p><strong>Epaphras</strong> was the name of a man who was a fellow believer and prisoner with Paul.</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26805\" data-resourceType=\"UWTranslationManual\">How to Translate Names</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001023",
+          "start_ref_usfm": "PHM 1:23",
+          "end_ref": "57001023",
+          "end_ref_usfm": "PHM 1:23"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26805,
+          "content_id": 33391,
+          "label": "How to Translate Names",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247836,
+    "reference_id": 162577,
+    "title": "Philemon 1:23 (#2)",
+    "media_type": "Text",
+    "index_reference": "57001023",
+    "language": "eng",
+    "content": "<p><strong>&quot;in Christ Jesus&quot;</strong></p><p>fdHere, <strong>in Christ Jesus</strong> means something similar to the phrases “in the Lord” and “in Christ” in verse 20. See how you translated those there. Alternate translation: “who is here with me because he serves Christ Jesus”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001023",
+          "start_ref_usfm": "PHM 1:23",
+          "end_ref": "57001023",
+          "end_ref_usfm": "PHM 1:23"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 247837,
+    "reference_id": 162578,
+    "title": "Philemon 1:24 (#1)",
+    "media_type": "Text",
+    "index_reference": "57001024",
+    "language": "eng",
+    "content": "<p><strong>&quot;Mark, Aristarchus, Demas, {and} Luke&quot;</strong></p><p>These are names of men.</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26805\" data-resourceType=\"UWTranslationManual\">How to Translate Names</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001024",
+          "start_ref_usfm": "PHM 1:24",
+          "end_ref": "57001024",
+          "end_ref_usfm": "PHM 1:24"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26805,
+          "content_id": 33391,
+          "label": "How to Translate Names",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247838,
+    "reference_id": 162579,
+    "title": "Philemon 1:24 (#2)",
+    "media_type": "Text",
+    "index_reference": "57001024",
+    "language": "eng",
+    "content": "<p><strong>&quot;Mark, Aristarchus, Demas, {and} Luke&quot;</strong></p><p>Paul is leaving out some of the words here that a sentence would need in many languages to be complete. If it would be helpful in your language, you could supply these words from the context. Alternate translation: “as do Mark, Aristarchus, Demas, and Luke, my fellow workers” or “Mark, Aristarchus, Demas, and Luke, my fellow workers, also greet you”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26681\" data-resourceType=\"UWTranslationManual\">Ellipsis</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001024",
+          "start_ref_usfm": "PHM 1:24",
+          "end_ref": "57001024",
+          "end_ref_usfm": "PHM 1:24"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26681,
+          "content_id": 33267,
+          "label": "Ellipsis",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247839,
+    "reference_id": 162580,
+    "title": "Philemon 1:24 (#3)",
+    "media_type": "Text",
+    "index_reference": "57001024",
+    "language": "eng",
+    "content": "<p><strong>&quot;my fellow workers&quot;</strong></p><p>Alternate translation: “the men who work with me” or “who all work with me.”</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001024",
+          "start_ref_usfm": "PHM 1:24",
+          "end_ref": "57001024",
+          "end_ref_usfm": "PHM 1:24"
+        }
+      ],
+      "resource": []
+    }
+  },
+  {
+    "content_id": 247840,
+    "reference_id": 162581,
+    "title": "Philemon 1:25 (#1)",
+    "media_type": "Text",
+    "index_reference": "57001025",
+    "language": "eng",
+    "content": "<p><strong>&quot;be} with your spirit&quot;</strong></p><p>The words <strong>your spirit</strong> are a synecdoche and represent the people themselves. Paul is referring to Philemon and all who met in his house.</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26729\" data-resourceType=\"UWTranslationManual\">Synecdoche</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001025",
+          "start_ref_usfm": "PHM 1:25",
+          "end_ref": "57001025",
+          "end_ref_usfm": "PHM 1:25"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26729,
+          "content_id": 33315,
+          "label": "Synecdoche",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247841,
+    "reference_id": 162582,
+    "title": "Philemon 1:25 (#2)",
+    "media_type": "Text",
+    "index_reference": "57001025",
+    "language": "eng",
+    "content": "<p><strong>&quot;The grace of our Lord Jesus Christ&quot;</strong></p><p>If it would be helpful in your language, you could express the idea behind the abstract noun <strong>grace</strong> with an adjective or verb. Alternate translation: “May our Lord Jesus Christ be gracious to you and” or “May our Lord Jesus Christ be kind to you and”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26671\" data-resourceType=\"UWTranslationManual\">Abstract Nouns</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001025",
+          "start_ref_usfm": "PHM 1:25",
+          "end_ref": "57001025",
+          "end_ref_usfm": "PHM 1:25"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26671,
+          "content_id": 33257,
+          "label": "Abstract Nouns",
+          "language": "eng"
+        }
+      ]
+    }
+  },
+  {
+    "content_id": 247842,
+    "reference_id": 162583,
+    "title": "Philemon 1:25 (#3)",
+    "media_type": "Text",
+    "index_reference": "57001025",
+    "language": "eng",
+    "content": "<p><strong>&quot;your&quot;</strong></p><p>The word <strong>your</strong> here is plural and refers to Philemon and all who met in his house. Alternate translation: “your spirits”</p><p>See: <span data-bnType=\"resourceReference\" data-resourceId=\"26731\" data-resourceType=\"UWTranslationManual\">Forms of You</span></p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "57001025",
+          "start_ref_usfm": "PHM 1:25",
+          "end_ref": "57001025",
+          "end_ref_usfm": "PHM 1:25"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26731,
+          "content_id": 33317,
+          "label": "Forms of You",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]
