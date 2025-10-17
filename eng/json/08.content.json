@@ -20,18 +20,21 @@
         {
           "reference_id": 25622,
           "content_id": 26480,
+          "resource_code": "UWTranslationWords",
           "label": "Covenant Faithfulness",
           "language": "eng"
         },
         {
           "reference_id": 25726,
           "content_id": 26584,
+          "resource_code": "UWTranslationWords",
           "label": "Faithful",
           "language": "eng"
         },
         {
           "reference_id": 26805,
           "content_id": 33391,
+          "resource_code": "UWTranslationManual",
           "label": "How to Translate Names",
           "language": "eng"
         }
@@ -59,12 +62,14 @@
         {
           "reference_id": 25725,
           "content_id": 26583,
+          "resource_code": "UWTranslationWords",
           "label": "Faith",
           "language": "eng"
         },
         {
           "reference_id": 26322,
           "content_id": 27180,
+          "resource_code": "UWTranslationWords",
           "label": "Trust",
           "language": "eng"
         }
@@ -92,6 +97,7 @@
         {
           "reference_id": 26833,
           "content_id": 33419,
+          "resource_code": "UWTranslationManual",
           "label": "Introduction of a New Event",
           "language": "eng"
         }
@@ -119,6 +125,7 @@
         {
           "reference_id": 26748,
           "content_id": 33334,
+          "resource_code": "UWTranslationManual",
           "label": "Connect — Simultaneous Time Relationship",
           "language": "eng"
         }
@@ -146,6 +153,7 @@
         {
           "reference_id": 26687,
           "content_id": 33273,
+          "resource_code": "UWTranslationManual",
           "label": "Assumed Knowledge and Implicit Information",
           "language": "eng"
         }
@@ -173,6 +181,7 @@
         {
           "reference_id": 26835,
           "content_id": 33421,
+          "resource_code": "UWTranslationManual",
           "label": "Introduction of New and Old Participants",
           "language": "eng"
         }
@@ -200,6 +209,7 @@
         {
           "reference_id": 26805,
           "content_id": 33391,
+          "resource_code": "UWTranslationManual",
           "label": "How to Translate Names",
           "language": "eng"
         }
@@ -227,6 +237,7 @@
         {
           "reference_id": 26672,
           "content_id": 33258,
+          "resource_code": "UWTranslationManual",
           "label": "Active or Passive",
           "language": "eng"
         }
@@ -254,6 +265,7 @@
         {
           "reference_id": 26697,
           "content_id": 33283,
+          "resource_code": "UWTranslationManual",
           "label": "Idiom",
           "language": "eng"
         }
@@ -301,6 +313,7 @@
         {
           "reference_id": 26672,
           "content_id": 33258,
+          "resource_code": "UWTranslationManual",
           "label": "Active or Passive",
           "language": "eng"
         }
@@ -328,6 +341,7 @@
         {
           "reference_id": 26833,
           "content_id": 33419,
+          "resource_code": "UWTranslationManual",
           "label": "Introduction of a New Event",
           "language": "eng"
         }
@@ -355,6 +369,7 @@
         {
           "reference_id": 26835,
           "content_id": 33421,
+          "resource_code": "UWTranslationManual",
           "label": "Introduction of New and Old Participants",
           "language": "eng"
         }
@@ -402,6 +417,7 @@
         {
           "reference_id": 26700,
           "content_id": 33286,
+          "resource_code": "UWTranslationManual",
           "label": "Information Structure",
           "language": "eng"
         }
@@ -429,6 +445,7 @@
         {
           "reference_id": 26687,
           "content_id": 33273,
+          "resource_code": "UWTranslationManual",
           "label": "Assumed Knowledge and Implicit Information",
           "language": "eng"
         }
@@ -456,6 +473,7 @@
         {
           "reference_id": 26697,
           "content_id": 33283,
+          "resource_code": "UWTranslationManual",
           "label": "Idiom",
           "language": "eng"
         }
@@ -483,6 +501,7 @@
         {
           "reference_id": 26729,
           "content_id": 33315,
+          "resource_code": "UWTranslationManual",
           "label": "Synecdoche",
           "language": "eng"
         }
@@ -550,6 +569,7 @@
         {
           "reference_id": 26733,
           "content_id": 33319,
+          "resource_code": "UWTranslationManual",
           "label": "Forms of ‘You’ — Dual/Plural",
           "language": "eng"
         }
@@ -617,6 +637,7 @@
         {
           "reference_id": 26785,
           "content_id": 33371,
+          "resource_code": "UWTranslationManual",
           "label": "Blessings",
           "language": "eng"
         }
@@ -644,6 +665,7 @@
         {
           "reference_id": 26708,
           "content_id": 33294,
+          "resource_code": "UWTranslationManual",
           "label": "Nominal Adjectives",
           "language": "eng"
         }
@@ -671,6 +693,7 @@
         {
           "reference_id": 26671,
           "content_id": 33257,
+          "resource_code": "UWTranslationManual",
           "label": "Abstract Nouns",
           "language": "eng"
         }
@@ -698,6 +721,7 @@
         {
           "reference_id": 26785,
           "content_id": 33371,
+          "resource_code": "UWTranslationManual",
           "label": "Blessings",
           "language": "eng"
         }
@@ -725,6 +749,7 @@
         {
           "reference_id": 26706,
           "content_id": 33292,
+          "resource_code": "UWTranslationManual",
           "label": "Metaphor",
           "language": "eng"
         }
@@ -752,6 +777,7 @@
         {
           "reference_id": 26707,
           "content_id": 33293,
+          "resource_code": "UWTranslationManual",
           "label": "Metonymy",
           "language": "eng"
         }
@@ -779,6 +805,7 @@
         {
           "reference_id": 26697,
           "content_id": 33283,
+          "resource_code": "UWTranslationManual",
           "label": "Idiom",
           "language": "eng"
         }
@@ -806,6 +833,7 @@
         {
           "reference_id": 26685,
           "content_id": 33271,
+          "resource_code": "UWTranslationManual",
           "label": "Exclusive and Inclusive ‘We’",
           "language": "eng"
         }
@@ -833,6 +861,7 @@
         {
           "reference_id": 26743,
           "content_id": 33329,
+          "resource_code": "UWTranslationManual",
           "label": "Connect — Contrast Relationship",
           "language": "eng"
         }
@@ -860,6 +889,7 @@
         {
           "reference_id": 26743,
           "content_id": 33329,
+          "resource_code": "UWTranslationManual",
           "label": "Connect — Contrast Relationship",
           "language": "eng"
         }
@@ -887,6 +917,7 @@
         {
           "reference_id": 26735,
           "content_id": 33321,
+          "resource_code": "UWTranslationManual",
           "label": "Forms of ‘You’ — Singular",
           "language": "eng"
         }
@@ -914,6 +945,7 @@
         {
           "reference_id": 26743,
           "content_id": 33329,
+          "resource_code": "UWTranslationManual",
           "label": "Connect — Contrast Relationship",
           "language": "eng"
         }
@@ -961,6 +993,7 @@
         {
           "reference_id": 26724,
           "content_id": 33310,
+          "resource_code": "UWTranslationManual",
           "label": "Rhetorical Question",
           "language": "eng"
         }
@@ -988,6 +1021,7 @@
         {
           "reference_id": 26724,
           "content_id": 33310,
+          "resource_code": "UWTranslationManual",
           "label": "Rhetorical Question",
           "language": "eng"
         }
@@ -1015,6 +1049,7 @@
         {
           "reference_id": 26687,
           "content_id": 33273,
+          "resource_code": "UWTranslationManual",
           "label": "Assumed Knowledge and Implicit Information",
           "language": "eng"
         }
@@ -1042,6 +1077,7 @@
         {
           "reference_id": 26724,
           "content_id": 33310,
+          "resource_code": "UWTranslationManual",
           "label": "Rhetorical Question",
           "language": "eng"
         }
@@ -1089,6 +1125,7 @@
         {
           "reference_id": 26724,
           "content_id": 33310,
+          "resource_code": "UWTranslationManual",
           "label": "Rhetorical Question",
           "language": "eng"
         }
@@ -1136,6 +1173,7 @@
         {
           "reference_id": 26706,
           "content_id": 33292,
+          "resource_code": "UWTranslationManual",
           "label": "Metaphor",
           "language": "eng"
         }
@@ -1163,6 +1201,7 @@
         {
           "reference_id": 26707,
           "content_id": 33293,
+          "resource_code": "UWTranslationManual",
           "label": "Metonymy",
           "language": "eng"
         }
@@ -1190,6 +1229,7 @@
         {
           "reference_id": 26687,
           "content_id": 33273,
+          "resource_code": "UWTranslationManual",
           "label": "Assumed Knowledge and Implicit Information",
           "language": "eng"
         }
@@ -1217,6 +1257,7 @@
         {
           "reference_id": 26697,
           "content_id": 33283,
+          "resource_code": "UWTranslationManual",
           "label": "Idiom",
           "language": "eng"
         }
@@ -1244,6 +1285,7 @@
         {
           "reference_id": 26706,
           "content_id": 33292,
+          "resource_code": "UWTranslationManual",
           "label": "Metaphor",
           "language": "eng"
         }
@@ -1271,6 +1313,7 @@
         {
           "reference_id": 26706,
           "content_id": 33292,
+          "resource_code": "UWTranslationManual",
           "label": "Metaphor",
           "language": "eng"
         }
@@ -1298,6 +1341,7 @@
         {
           "reference_id": 26835,
           "content_id": 33421,
+          "resource_code": "UWTranslationManual",
           "label": "Introduction of New and Old Participants",
           "language": "eng"
         }
@@ -1325,6 +1369,7 @@
         {
           "reference_id": 26717,
           "content_id": 33303,
+          "resource_code": "UWTranslationManual",
           "label": "Possession",
           "language": "eng"
         }
@@ -1352,6 +1397,7 @@
         {
           "reference_id": 26717,
           "content_id": 33303,
+          "resource_code": "UWTranslationManual",
           "label": "Possession",
           "language": "eng"
         }
@@ -1379,6 +1425,7 @@
         {
           "reference_id": 26809,
           "content_id": 33395,
+          "resource_code": "UWTranslationManual",
           "label": "Unusual Uses of the Plural",
           "language": "eng"
         }
@@ -1426,6 +1473,7 @@
         {
           "reference_id": 26680,
           "content_id": 33266,
+          "resource_code": "UWTranslationManual",
           "label": "Doublet",
           "language": "eng"
         }
@@ -1453,6 +1501,7 @@
         {
           "reference_id": 26681,
           "content_id": 33267,
+          "resource_code": "UWTranslationManual",
           "label": "Ellipsis",
           "language": "eng"
         }
@@ -1480,6 +1529,7 @@
         {
           "reference_id": 26834,
           "content_id": 33420,
+          "resource_code": "UWTranslationManual",
           "label": "Oath Formulas",
           "language": "eng"
         }
@@ -1507,6 +1557,7 @@
         {
           "reference_id": 26695,
           "content_id": 33281,
+          "resource_code": "UWTranslationManual",
           "label": "Hyperbole",
           "language": "eng"
         }
@@ -1534,6 +1585,7 @@
         {
           "reference_id": 26697,
           "content_id": 33283,
+          "resource_code": "UWTranslationManual",
           "label": "Idiom",
           "language": "eng"
         }
@@ -1561,6 +1613,7 @@
         {
           "reference_id": 26745,
           "content_id": 33331,
+          "resource_code": "UWTranslationManual",
           "label": "Connect — Reason-and-Result Relationship",
           "language": "eng"
         }
@@ -1588,6 +1641,7 @@
         {
           "reference_id": 26718,
           "content_id": 33304,
+          "resource_code": "UWTranslationManual",
           "label": "Pronouns",
           "language": "eng"
         }
@@ -1615,6 +1669,7 @@
         {
           "reference_id": 26833,
           "content_id": 33419,
+          "resource_code": "UWTranslationManual",
           "label": "Introduction of a New Event",
           "language": "eng"
         }
@@ -1642,6 +1697,7 @@
         {
           "reference_id": 26746,
           "content_id": 33332,
+          "resource_code": "UWTranslationManual",
           "label": "Connect — Background Information",
           "language": "eng"
         }
@@ -1669,6 +1725,7 @@
         {
           "reference_id": 26707,
           "content_id": 33293,
+          "resource_code": "UWTranslationManual",
           "label": "Metonymy",
           "language": "eng"
         }
@@ -1696,6 +1753,7 @@
         {
           "reference_id": 26695,
           "content_id": 33281,
+          "resource_code": "UWTranslationManual",
           "label": "Hyperbole",
           "language": "eng"
         }
@@ -1723,6 +1781,7 @@
         {
           "reference_id": 26724,
           "content_id": 33310,
+          "resource_code": "UWTranslationManual",
           "label": "Rhetorical Question",
           "language": "eng"
         }
@@ -1750,6 +1809,7 @@
         {
           "reference_id": 26805,
           "content_id": 33391,
+          "resource_code": "UWTranslationManual",
           "label": "How to Translate Names",
           "language": "eng"
         }
@@ -1777,6 +1837,7 @@
         {
           "reference_id": 26805,
           "content_id": 33391,
+          "resource_code": "UWTranslationManual",
           "label": "How to Translate Names",
           "language": "eng"
         }
@@ -1804,6 +1865,7 @@
         {
           "reference_id": 26706,
           "content_id": 33292,
+          "resource_code": "UWTranslationManual",
           "label": "Metaphor",
           "language": "eng"
         }
@@ -1831,6 +1893,7 @@
         {
           "reference_id": 26724,
           "content_id": 33310,
+          "resource_code": "UWTranslationManual",
           "label": "Rhetorical Question",
           "language": "eng"
         }
@@ -1858,6 +1921,7 @@
         {
           "reference_id": 26713,
           "content_id": 33299,
+          "resource_code": "UWTranslationManual",
           "label": "Parallelism",
           "language": "eng"
         }
@@ -1885,6 +1949,7 @@
         {
           "reference_id": 26706,
           "content_id": 33292,
+          "resource_code": "UWTranslationManual",
           "label": "Metaphor",
           "language": "eng"
         }
@@ -1932,6 +1997,7 @@
         {
           "reference_id": 26831,
           "content_id": 33417,
+          "resource_code": "UWTranslationManual",
           "label": "End of Story",
           "language": "eng"
         }
@@ -1959,6 +2025,7 @@
         {
           "reference_id": 26829,
           "content_id": 33415,
+          "resource_code": "UWTranslationManual",
           "label": "Background Information",
           "language": "eng"
         }
@@ -1986,6 +2053,7 @@
         {
           "reference_id": 26671,
           "content_id": 33257,
+          "resource_code": "UWTranslationManual",
           "label": "Abstract Nouns",
           "language": "eng"
         }
@@ -2013,12 +2081,14 @@
         {
           "reference_id": 25800,
           "content_id": 26658,
+          "resource_code": "UWTranslationWords",
           "label": "Grace",
           "language": "eng"
         },
         {
           "reference_id": 25959,
           "content_id": 26817,
+          "resource_code": "UWTranslationWords",
           "label": "Law of Moses",
           "language": "eng"
         }
@@ -2046,6 +2116,7 @@
         {
           "reference_id": 26829,
           "content_id": 33415,
+          "resource_code": "UWTranslationManual",
           "label": "Background Information",
           "language": "eng"
         }
@@ -2073,6 +2144,7 @@
         {
           "reference_id": 26835,
           "content_id": 33421,
+          "resource_code": "UWTranslationManual",
           "label": "Introduction of New and Old Participants",
           "language": "eng"
         }
@@ -2100,6 +2172,7 @@
         {
           "reference_id": 26697,
           "content_id": 33283,
+          "resource_code": "UWTranslationManual",
           "label": "Idiom",
           "language": "eng"
         }
@@ -2127,6 +2200,7 @@
         {
           "reference_id": 26799,
           "content_id": 33385,
+          "resource_code": "UWTranslationManual",
           "label": "Kinship",
           "language": "eng"
         }
@@ -2154,6 +2228,7 @@
         {
           "reference_id": 26835,
           "content_id": 33421,
+          "resource_code": "UWTranslationManual",
           "label": "Introduction of New and Old Participants",
           "language": "eng"
         }
@@ -2201,6 +2276,7 @@
         {
           "reference_id": 26697,
           "content_id": 33283,
+          "resource_code": "UWTranslationManual",
           "label": "Idiom",
           "language": "eng"
         }
@@ -2228,6 +2304,7 @@
         {
           "reference_id": 26799,
           "content_id": 33385,
+          "resource_code": "UWTranslationManual",
           "label": "Kinship",
           "language": "eng"
         }
@@ -2255,6 +2332,7 @@
         {
           "reference_id": 26687,
           "content_id": 33273,
+          "resource_code": "UWTranslationManual",
           "label": "Assumed Knowledge and Implicit Information",
           "language": "eng"
         }
@@ -2282,6 +2360,7 @@
         {
           "reference_id": 26799,
           "content_id": 33385,
+          "resource_code": "UWTranslationManual",
           "label": "Kinship",
           "language": "eng"
         }
@@ -2309,6 +2388,7 @@
         {
           "reference_id": 26706,
           "content_id": 33292,
+          "resource_code": "UWTranslationManual",
           "label": "Metaphor",
           "language": "eng"
         }
@@ -2336,6 +2416,7 @@
         {
           "reference_id": 26817,
           "content_id": 33403,
+          "resource_code": "UWTranslationManual",
           "label": "Irregular Use of Tenses",
           "language": "eng"
         }
@@ -2363,6 +2444,7 @@
         {
           "reference_id": 26785,
           "content_id": 33371,
+          "resource_code": "UWTranslationManual",
           "label": "Blessings",
           "language": "eng"
         }
@@ -2390,6 +2472,7 @@
         {
           "reference_id": 26785,
           "content_id": 33371,
+          "resource_code": "UWTranslationManual",
           "label": "Blessings",
           "language": "eng"
         }
@@ -2417,6 +2500,7 @@
         {
           "reference_id": 26697,
           "content_id": 33283,
+          "resource_code": "UWTranslationManual",
           "label": "Idiom",
           "language": "eng"
         }
@@ -2444,6 +2528,7 @@
         {
           "reference_id": 26799,
           "content_id": 33385,
+          "resource_code": "UWTranslationManual",
           "label": "Kinship",
           "language": "eng"
         }
@@ -2471,6 +2556,7 @@
         {
           "reference_id": 26694,
           "content_id": 33280,
+          "resource_code": "UWTranslationManual",
           "label": "Hendiadys",
           "language": "eng"
         }
@@ -2498,6 +2584,7 @@
         {
           "reference_id": 26721,
           "content_id": 33307,
+          "resource_code": "UWTranslationManual",
           "label": "Quotes within Quotes",
           "language": "eng"
         }
@@ -2525,6 +2612,7 @@
         {
           "reference_id": 26694,
           "content_id": 33280,
+          "resource_code": "UWTranslationManual",
           "label": "Hendiadys",
           "language": "eng"
         }
@@ -2572,6 +2660,7 @@
         {
           "reference_id": 26724,
           "content_id": 33310,
+          "resource_code": "UWTranslationManual",
           "label": "Rhetorical Question",
           "language": "eng"
         }
@@ -2599,6 +2688,7 @@
         {
           "reference_id": 26697,
           "content_id": 33283,
+          "resource_code": "UWTranslationManual",
           "label": "Idiom",
           "language": "eng"
         }
@@ -2626,6 +2716,7 @@
         {
           "reference_id": 26707,
           "content_id": 33293,
+          "resource_code": "UWTranslationManual",
           "label": "Metonymy",
           "language": "eng"
         }
@@ -2653,6 +2744,7 @@
         {
           "reference_id": 26718,
           "content_id": 33304,
+          "resource_code": "UWTranslationManual",
           "label": "Pronouns",
           "language": "eng"
         }
@@ -2680,6 +2772,7 @@
         {
           "reference_id": 26724,
           "content_id": 33310,
+          "resource_code": "UWTranslationManual",
           "label": "Rhetorical Question",
           "language": "eng"
         }
@@ -2707,6 +2800,7 @@
         {
           "reference_id": 26687,
           "content_id": 33273,
+          "resource_code": "UWTranslationManual",
           "label": "Assumed Knowledge and Implicit Information",
           "language": "eng"
         }
@@ -2734,6 +2828,7 @@
         {
           "reference_id": 26682,
           "content_id": 33268,
+          "resource_code": "UWTranslationManual",
           "label": "Euphemism",
           "language": "eng"
         }
@@ -2781,6 +2876,7 @@
         {
           "reference_id": 26680,
           "content_id": 33266,
+          "resource_code": "UWTranslationManual",
           "label": "Doublet",
           "language": "eng"
         }
@@ -2808,6 +2904,7 @@
         {
           "reference_id": 26816,
           "content_id": 33402,
+          "resource_code": "UWTranslationManual",
           "label": "Symbolic Action",
           "language": "eng"
         }
@@ -2835,6 +2932,7 @@
         {
           "reference_id": 26697,
           "content_id": 33283,
+          "resource_code": "UWTranslationManual",
           "label": "Idiom",
           "language": "eng"
         }
@@ -2862,6 +2960,7 @@
         {
           "reference_id": 26743,
           "content_id": 33329,
+          "resource_code": "UWTranslationManual",
           "label": "Connect — Contrast Relationship",
           "language": "eng"
         }
@@ -2889,6 +2988,7 @@
         {
           "reference_id": 26697,
           "content_id": 33283,
+          "resource_code": "UWTranslationManual",
           "label": "Idiom",
           "language": "eng"
         }
@@ -2916,6 +3016,7 @@
         {
           "reference_id": 26694,
           "content_id": 33280,
+          "resource_code": "UWTranslationManual",
           "label": "Hendiadys",
           "language": "eng"
         }
@@ -2943,6 +3044,7 @@
         {
           "reference_id": 26722,
           "content_id": 33308,
+          "resource_code": "UWTranslationManual",
           "label": "Reduplication",
           "language": "eng"
         }
@@ -2970,6 +3072,7 @@
         {
           "reference_id": 26672,
           "content_id": 33258,
+          "resource_code": "UWTranslationManual",
           "label": "Active or Passive",
           "language": "eng"
         }
@@ -2997,6 +3100,7 @@
         {
           "reference_id": 26707,
           "content_id": 33293,
+          "resource_code": "UWTranslationManual",
           "label": "Metonymy",
           "language": "eng"
         }
@@ -3024,6 +3128,7 @@
         {
           "reference_id": 26697,
           "content_id": 33283,
+          "resource_code": "UWTranslationManual",
           "label": "Idiom",
           "language": "eng"
         }
@@ -3051,6 +3156,7 @@
         {
           "reference_id": 26687,
           "content_id": 33273,
+          "resource_code": "UWTranslationManual",
           "label": "Assumed Knowledge and Implicit Information",
           "language": "eng"
         }
@@ -3078,6 +3184,7 @@
         {
           "reference_id": 26713,
           "content_id": 33299,
+          "resource_code": "UWTranslationManual",
           "label": "Parallelism",
           "language": "eng"
         }
@@ -3105,6 +3212,7 @@
         {
           "reference_id": 26706,
           "content_id": 33292,
+          "resource_code": "UWTranslationManual",
           "label": "Metaphor",
           "language": "eng"
         }
@@ -3132,6 +3240,7 @@
         {
           "reference_id": 26697,
           "content_id": 33283,
+          "resource_code": "UWTranslationManual",
           "label": "Idiom",
           "language": "eng"
         }
@@ -3159,6 +3268,7 @@
         {
           "reference_id": 26837,
           "content_id": 33423,
+          "resource_code": "UWTranslationManual",
           "label": "Politeness",
           "language": "eng"
         }
@@ -3186,6 +3296,7 @@
         {
           "reference_id": 26670,
           "content_id": 33256,
+          "resource_code": "UWTranslationManual",
           "label": "First, Second or Third Person",
           "language": "eng"
         }
@@ -3213,6 +3324,7 @@
         {
           "reference_id": 26706,
           "content_id": 33292,
+          "resource_code": "UWTranslationManual",
           "label": "Metaphor",
           "language": "eng"
         }
@@ -3240,6 +3352,7 @@
         {
           "reference_id": 26837,
           "content_id": 33423,
+          "resource_code": "UWTranslationManual",
           "label": "Politeness",
           "language": "eng"
         }
@@ -3267,6 +3380,7 @@
         {
           "reference_id": 26837,
           "content_id": 33423,
+          "resource_code": "UWTranslationManual",
           "label": "Politeness",
           "language": "eng"
         }
@@ -3314,6 +3428,7 @@
         {
           "reference_id": 26698,
           "content_id": 33284,
+          "resource_code": "UWTranslationManual",
           "label": "Imperatives — Other Uses",
           "language": "eng"
         }
@@ -3341,6 +3456,7 @@
         {
           "reference_id": 26700,
           "content_id": 33286,
+          "resource_code": "UWTranslationManual",
           "label": "Information Structure",
           "language": "eng"
         }
@@ -3388,6 +3504,7 @@
         {
           "reference_id": 26687,
           "content_id": 33273,
+          "resource_code": "UWTranslationManual",
           "label": "Assumed Knowledge and Implicit Information",
           "language": "eng"
         }
@@ -3435,6 +3552,7 @@
         {
           "reference_id": 26687,
           "content_id": 33273,
+          "resource_code": "UWTranslationManual",
           "label": "Assumed Knowledge and Implicit Information",
           "language": "eng"
         }
@@ -3522,6 +3640,7 @@
         {
           "reference_id": 26787,
           "content_id": 33373,
+          "resource_code": "UWTranslationManual",
           "label": "Biblical Volume",
           "language": "eng"
         }
@@ -3549,6 +3668,7 @@
         {
           "reference_id": 26687,
           "content_id": 33273,
+          "resource_code": "UWTranslationManual",
           "label": "Assumed Knowledge and Implicit Information",
           "language": "eng"
         }
@@ -3576,6 +3696,7 @@
         {
           "reference_id": 26713,
           "content_id": 33299,
+          "resource_code": "UWTranslationManual",
           "label": "Parallelism",
           "language": "eng"
         }
@@ -3603,6 +3724,7 @@
         {
           "reference_id": 26785,
           "content_id": 33371,
+          "resource_code": "UWTranslationManual",
           "label": "Blessings",
           "language": "eng"
         }
@@ -3630,6 +3752,7 @@
         {
           "reference_id": 26672,
           "content_id": 33258,
+          "resource_code": "UWTranslationManual",
           "label": "Active or Passive",
           "language": "eng"
         }
@@ -3657,6 +3780,7 @@
         {
           "reference_id": 26707,
           "content_id": 33293,
+          "resource_code": "UWTranslationManual",
           "label": "Metonymy",
           "language": "eng"
         }
@@ -3684,6 +3808,7 @@
         {
           "reference_id": 26713,
           "content_id": 33299,
+          "resource_code": "UWTranslationManual",
           "label": "Parallelism",
           "language": "eng"
         }
@@ -3711,6 +3836,7 @@
         {
           "reference_id": 26785,
           "content_id": 33371,
+          "resource_code": "UWTranslationManual",
           "label": "Blessings",
           "language": "eng"
         }
@@ -3738,6 +3864,7 @@
         {
           "reference_id": 26672,
           "content_id": 33258,
+          "resource_code": "UWTranslationManual",
           "label": "Active or Passive",
           "language": "eng"
         }
@@ -3765,6 +3892,7 @@
         {
           "reference_id": 26679,
           "content_id": 33265,
+          "resource_code": "UWTranslationManual",
           "label": "Double Negatives",
           "language": "eng"
         }
@@ -3792,6 +3920,7 @@
         {
           "reference_id": 26718,
           "content_id": 33304,
+          "resource_code": "UWTranslationManual",
           "label": "Pronouns",
           "language": "eng"
         }
@@ -3819,6 +3948,7 @@
         {
           "reference_id": 26708,
           "content_id": 33294,
+          "resource_code": "UWTranslationManual",
           "label": "Nominal Adjectives",
           "language": "eng"
         }
@@ -3846,6 +3976,7 @@
         {
           "reference_id": 26708,
           "content_id": 33294,
+          "resource_code": "UWTranslationManual",
           "label": "Nominal Adjectives",
           "language": "eng"
         }
@@ -3873,6 +4004,7 @@
         {
           "reference_id": 26713,
           "content_id": 33299,
+          "resource_code": "UWTranslationManual",
           "label": "Parallelism",
           "language": "eng"
         }
@@ -3920,6 +4052,7 @@
         {
           "reference_id": 26687,
           "content_id": 33273,
+          "resource_code": "UWTranslationManual",
           "label": "Assumed Knowledge and Implicit Information",
           "language": "eng"
         }
@@ -3947,6 +4080,7 @@
         {
           "reference_id": 26721,
           "content_id": 33307,
+          "resource_code": "UWTranslationManual",
           "label": "Quotes within Quotes",
           "language": "eng"
         }
@@ -3974,6 +4108,7 @@
         {
           "reference_id": 26687,
           "content_id": 33273,
+          "resource_code": "UWTranslationManual",
           "label": "Assumed Knowledge and Implicit Information",
           "language": "eng"
         }
@@ -4021,6 +4156,7 @@
         {
           "reference_id": 26718,
           "content_id": 33304,
+          "resource_code": "UWTranslationManual",
           "label": "Pronouns",
           "language": "eng"
         }
@@ -4048,6 +4184,7 @@
         {
           "reference_id": 26745,
           "content_id": 33331,
+          "resource_code": "UWTranslationManual",
           "label": "Connect — Reason-and-Result Relationship",
           "language": "eng"
         }
@@ -4075,6 +4212,7 @@
         {
           "reference_id": 26672,
           "content_id": 33258,
+          "resource_code": "UWTranslationManual",
           "label": "Active or Passive",
           "language": "eng"
         }
@@ -4102,6 +4240,7 @@
         {
           "reference_id": 26687,
           "content_id": 33273,
+          "resource_code": "UWTranslationManual",
           "label": "Assumed Knowledge and Implicit Information",
           "language": "eng"
         }
@@ -4129,6 +4268,7 @@
         {
           "reference_id": 26833,
           "content_id": 33419,
+          "resource_code": "UWTranslationManual",
           "label": "Introduction of a New Event",
           "language": "eng"
         }
@@ -4156,6 +4296,7 @@
         {
           "reference_id": 26799,
           "content_id": 33385,
+          "resource_code": "UWTranslationManual",
           "label": "Kinship",
           "language": "eng"
         }
@@ -4183,6 +4324,7 @@
         {
           "reference_id": 26799,
           "content_id": 33385,
+          "resource_code": "UWTranslationManual",
           "label": "Kinship",
           "language": "eng"
         }
@@ -4210,6 +4352,7 @@
         {
           "reference_id": 26718,
           "content_id": 33304,
+          "resource_code": "UWTranslationManual",
           "label": "Pronouns",
           "language": "eng"
         }
@@ -4237,6 +4380,7 @@
         {
           "reference_id": 26799,
           "content_id": 33385,
+          "resource_code": "UWTranslationManual",
           "label": "Kinship",
           "language": "eng"
         }
@@ -4264,6 +4408,7 @@
         {
           "reference_id": 26724,
           "content_id": 33310,
+          "resource_code": "UWTranslationManual",
           "label": "Rhetorical Question",
           "language": "eng"
         }
@@ -4291,6 +4436,7 @@
         {
           "reference_id": 26706,
           "content_id": 33292,
+          "resource_code": "UWTranslationManual",
           "label": "Metaphor",
           "language": "eng"
         }
@@ -4318,6 +4464,7 @@
         {
           "reference_id": 26745,
           "content_id": 33331,
+          "resource_code": "UWTranslationManual",
           "label": "Connect — Reason-and-Result Relationship",
           "language": "eng"
         }
@@ -4345,6 +4492,7 @@
         {
           "reference_id": 26724,
           "content_id": 33310,
+          "resource_code": "UWTranslationManual",
           "label": "Rhetorical Question",
           "language": "eng"
         }
@@ -4372,6 +4520,7 @@
         {
           "reference_id": 26687,
           "content_id": 33273,
+          "resource_code": "UWTranslationManual",
           "label": "Assumed Knowledge and Implicit Information",
           "language": "eng"
         }
@@ -4399,6 +4548,7 @@
         {
           "reference_id": 26706,
           "content_id": 33292,
+          "resource_code": "UWTranslationManual",
           "label": "Metaphor",
           "language": "eng"
         }
@@ -4446,6 +4596,7 @@
         {
           "reference_id": 26822,
           "content_id": 33408,
+          "resource_code": "UWTranslationManual",
           "label": "Translate Unknowns",
           "language": "eng"
         }
@@ -4493,6 +4644,7 @@
         {
           "reference_id": 26698,
           "content_id": 33284,
+          "resource_code": "UWTranslationManual",
           "label": "Imperatives — Other Uses",
           "language": "eng"
         }
@@ -4520,6 +4672,7 @@
         {
           "reference_id": 26816,
           "content_id": 33402,
+          "resource_code": "UWTranslationManual",
           "label": "Symbolic Action",
           "language": "eng"
         }
@@ -4547,6 +4700,7 @@
         {
           "reference_id": 26682,
           "content_id": 33268,
+          "resource_code": "UWTranslationManual",
           "label": "Euphemism",
           "language": "eng"
         }
@@ -4614,6 +4768,7 @@
         {
           "reference_id": 26700,
           "content_id": 33286,
+          "resource_code": "UWTranslationManual",
           "label": "Information Structure",
           "language": "eng"
         }
@@ -4641,6 +4796,7 @@
         {
           "reference_id": 26707,
           "content_id": 33293,
+          "resource_code": "UWTranslationManual",
           "label": "Metonymy",
           "language": "eng"
         }
@@ -4688,6 +4844,7 @@
         {
           "reference_id": 26682,
           "content_id": 33268,
+          "resource_code": "UWTranslationManual",
           "label": "Euphemism",
           "language": "eng"
         }
@@ -4715,6 +4872,7 @@
         {
           "reference_id": 26829,
           "content_id": 33415,
+          "resource_code": "UWTranslationManual",
           "label": "Background Information",
           "language": "eng"
         }
@@ -4742,6 +4900,7 @@
         {
           "reference_id": 26672,
           "content_id": 33258,
+          "resource_code": "UWTranslationManual",
           "label": "Active or Passive",
           "language": "eng"
         }
@@ -4769,6 +4928,7 @@
         {
           "reference_id": 26684,
           "content_id": 33270,
+          "resource_code": "UWTranslationManual",
           "label": "Exclamations",
           "language": "eng"
         }
@@ -4796,6 +4956,7 @@
         {
           "reference_id": 26837,
           "content_id": 33423,
+          "resource_code": "UWTranslationManual",
           "label": "Politeness",
           "language": "eng"
         }
@@ -4823,6 +4984,7 @@
         {
           "reference_id": 26697,
           "content_id": 33283,
+          "resource_code": "UWTranslationManual",
           "label": "Idiom",
           "language": "eng"
         }
@@ -4850,6 +5012,7 @@
         {
           "reference_id": 26799,
           "content_id": 33385,
+          "resource_code": "UWTranslationManual",
           "label": "Kinship",
           "language": "eng"
         }
@@ -4877,6 +5040,7 @@
         {
           "reference_id": 26785,
           "content_id": 33371,
+          "resource_code": "UWTranslationManual",
           "label": "Blessings",
           "language": "eng"
         }
@@ -4904,6 +5068,7 @@
         {
           "reference_id": 26697,
           "content_id": 33283,
+          "resource_code": "UWTranslationManual",
           "label": "Idiom",
           "language": "eng"
         }
@@ -4931,6 +5096,7 @@
         {
           "reference_id": 26687,
           "content_id": 33273,
+          "resource_code": "UWTranslationManual",
           "label": "Assumed Knowledge and Implicit Information",
           "language": "eng"
         }
@@ -4958,6 +5124,7 @@
         {
           "reference_id": 26687,
           "content_id": 33273,
+          "resource_code": "UWTranslationManual",
           "label": "Assumed Knowledge and Implicit Information",
           "language": "eng"
         }
@@ -4985,6 +5152,7 @@
         {
           "reference_id": 26697,
           "content_id": 33283,
+          "resource_code": "UWTranslationManual",
           "label": "Idiom",
           "language": "eng"
         }
@@ -5012,6 +5180,7 @@
         {
           "reference_id": 26745,
           "content_id": 33331,
+          "resource_code": "UWTranslationManual",
           "label": "Connect — Reason-and-Result Relationship",
           "language": "eng"
         }
@@ -5039,6 +5208,7 @@
         {
           "reference_id": 26697,
           "content_id": 33283,
+          "resource_code": "UWTranslationManual",
           "label": "Idiom",
           "language": "eng"
         }
@@ -5066,6 +5236,7 @@
         {
           "reference_id": 26707,
           "content_id": 33293,
+          "resource_code": "UWTranslationManual",
           "label": "Metonymy",
           "language": "eng"
         }
@@ -5093,6 +5264,7 @@
         {
           "reference_id": 26697,
           "content_id": 33283,
+          "resource_code": "UWTranslationManual",
           "label": "Idiom",
           "language": "eng"
         }
@@ -5120,6 +5292,7 @@
         {
           "reference_id": 26749,
           "content_id": 33335,
+          "resource_code": "UWTranslationManual",
           "label": "Connecting Words and Phrases",
           "language": "eng"
         }
@@ -5147,6 +5320,7 @@
         {
           "reference_id": 26743,
           "content_id": 33329,
+          "resource_code": "UWTranslationManual",
           "label": "Connect — Contrast Relationship",
           "language": "eng"
         }
@@ -5174,6 +5348,7 @@
         {
           "reference_id": 26799,
           "content_id": 33385,
+          "resource_code": "UWTranslationManual",
           "label": "Kinship",
           "language": "eng"
         }
@@ -5201,6 +5376,7 @@
         {
           "reference_id": 26687,
           "content_id": 33273,
+          "resource_code": "UWTranslationManual",
           "label": "Assumed Knowledge and Implicit Information",
           "language": "eng"
         }
@@ -5248,6 +5424,7 @@
         {
           "reference_id": 26834,
           "content_id": 33420,
+          "resource_code": "UWTranslationManual",
           "label": "Oath Formulas",
           "language": "eng"
         }
@@ -5275,6 +5452,7 @@
         {
           "reference_id": 26687,
           "content_id": 33273,
+          "resource_code": "UWTranslationManual",
           "label": "Assumed Knowledge and Implicit Information",
           "language": "eng"
         }
@@ -5302,6 +5480,7 @@
         {
           "reference_id": 26697,
           "content_id": 33283,
+          "resource_code": "UWTranslationManual",
           "label": "Idiom",
           "language": "eng"
         }
@@ -5329,6 +5508,7 @@
         {
           "reference_id": 26700,
           "content_id": 33286,
+          "resource_code": "UWTranslationManual",
           "label": "Information Structure",
           "language": "eng"
         }
@@ -5356,6 +5536,7 @@
         {
           "reference_id": 26672,
           "content_id": 33258,
+          "resource_code": "UWTranslationManual",
           "label": "Active or Passive",
           "language": "eng"
         }
@@ -5383,6 +5564,7 @@
         {
           "reference_id": 26822,
           "content_id": 33408,
+          "resource_code": "UWTranslationManual",
           "label": "Translate Unknowns",
           "language": "eng"
         }
@@ -5410,6 +5592,7 @@
         {
           "reference_id": 26681,
           "content_id": 33267,
+          "resource_code": "UWTranslationManual",
           "label": "Ellipsis",
           "language": "eng"
         }
@@ -5437,6 +5620,7 @@
         {
           "reference_id": 26681,
           "content_id": 33267,
+          "resource_code": "UWTranslationManual",
           "label": "Ellipsis",
           "language": "eng"
         }
@@ -5464,6 +5648,7 @@
         {
           "reference_id": 26819,
           "content_id": 33405,
+          "resource_code": "UWTranslationManual",
           "label": "Textual Variants",
           "language": "eng"
         }
@@ -5491,6 +5676,7 @@
         {
           "reference_id": 26697,
           "content_id": 33283,
+          "resource_code": "UWTranslationManual",
           "label": "Idiom",
           "language": "eng"
         }
@@ -5518,6 +5704,7 @@
         {
           "reference_id": 26799,
           "content_id": 33385,
+          "resource_code": "UWTranslationManual",
           "label": "Kinship",
           "language": "eng"
         }
@@ -5545,6 +5732,7 @@
         {
           "reference_id": 26687,
           "content_id": 33273,
+          "resource_code": "UWTranslationManual",
           "label": "Assumed Knowledge and Implicit Information",
           "language": "eng"
         }
@@ -5572,6 +5760,7 @@
         {
           "reference_id": 26681,
           "content_id": 33267,
+          "resource_code": "UWTranslationManual",
           "label": "Ellipsis",
           "language": "eng"
         }
@@ -5599,6 +5788,7 @@
         {
           "reference_id": 26721,
           "content_id": 33307,
+          "resource_code": "UWTranslationManual",
           "label": "Quotes within Quotes",
           "language": "eng"
         }
@@ -5626,6 +5816,7 @@
         {
           "reference_id": 26697,
           "content_id": 33283,
+          "resource_code": "UWTranslationManual",
           "label": "Idiom",
           "language": "eng"
         }
@@ -5653,6 +5844,7 @@
         {
           "reference_id": 26697,
           "content_id": 33283,
+          "resource_code": "UWTranslationManual",
           "label": "Idiom",
           "language": "eng"
         }
@@ -5680,6 +5872,7 @@
         {
           "reference_id": 26837,
           "content_id": 33423,
+          "resource_code": "UWTranslationManual",
           "label": "Politeness",
           "language": "eng"
         }
@@ -5707,6 +5900,7 @@
         {
           "reference_id": 26697,
           "content_id": 33283,
+          "resource_code": "UWTranslationManual",
           "label": "Idiom",
           "language": "eng"
         }
@@ -5734,6 +5928,7 @@
         {
           "reference_id": 26704,
           "content_id": 33290,
+          "resource_code": "UWTranslationManual",
           "label": "Litotes",
           "language": "eng"
         }
@@ -5761,6 +5956,7 @@
         {
           "reference_id": 26687,
           "content_id": 33273,
+          "resource_code": "UWTranslationManual",
           "label": "Assumed Knowledge and Implicit Information",
           "language": "eng"
         }
@@ -5808,6 +6004,7 @@
         {
           "reference_id": 26833,
           "content_id": 33419,
+          "resource_code": "UWTranslationManual",
           "label": "Introduction of a New Event",
           "language": "eng"
         }
@@ -5835,6 +6032,7 @@
         {
           "reference_id": 26687,
           "content_id": 33273,
+          "resource_code": "UWTranslationManual",
           "label": "Assumed Knowledge and Implicit Information",
           "language": "eng"
         }
@@ -5862,6 +6060,7 @@
         {
           "reference_id": 26706,
           "content_id": 33292,
+          "resource_code": "UWTranslationManual",
           "label": "Metaphor",
           "language": "eng"
         }
@@ -5889,6 +6088,7 @@
         {
           "reference_id": 26799,
           "content_id": 33385,
+          "resource_code": "UWTranslationManual",
           "label": "Kinship",
           "language": "eng"
         }
@@ -5916,6 +6116,7 @@
         {
           "reference_id": 26719,
           "content_id": 33305,
+          "resource_code": "UWTranslationManual",
           "label": "Direct and Indirect Quotations",
           "language": "eng"
         }
@@ -5943,6 +6144,7 @@
         {
           "reference_id": 26697,
           "content_id": 33283,
+          "resource_code": "UWTranslationManual",
           "label": "Idiom",
           "language": "eng"
         }
@@ -5990,6 +6192,7 @@
         {
           "reference_id": 26799,
           "content_id": 33385,
+          "resource_code": "UWTranslationManual",
           "label": "Kinship",
           "language": "eng"
         }
@@ -6017,6 +6220,7 @@
         {
           "reference_id": 26697,
           "content_id": 33283,
+          "resource_code": "UWTranslationManual",
           "label": "Idiom",
           "language": "eng"
         }
@@ -6044,6 +6248,7 @@
         {
           "reference_id": 26697,
           "content_id": 33283,
+          "resource_code": "UWTranslationManual",
           "label": "Idiom",
           "language": "eng"
         }
@@ -6071,6 +6276,7 @@
         {
           "reference_id": 26687,
           "content_id": 33273,
+          "resource_code": "UWTranslationManual",
           "label": "Assumed Knowledge and Implicit Information",
           "language": "eng"
         }
@@ -6098,6 +6304,7 @@
         {
           "reference_id": 26687,
           "content_id": 33273,
+          "resource_code": "UWTranslationManual",
           "label": "Assumed Knowledge and Implicit Information",
           "language": "eng"
         }
@@ -6125,6 +6332,7 @@
         {
           "reference_id": 26742,
           "content_id": 33328,
+          "resource_code": "UWTranslationManual",
           "label": "Connect — Exception Clauses",
           "language": "eng"
         }
@@ -6172,6 +6380,7 @@
         {
           "reference_id": 26697,
           "content_id": 33283,
+          "resource_code": "UWTranslationManual",
           "label": "Idiom",
           "language": "eng"
         }
@@ -6199,6 +6408,7 @@
         {
           "reference_id": 26729,
           "content_id": 33315,
+          "resource_code": "UWTranslationManual",
           "label": "Synecdoche",
           "language": "eng"
         }
@@ -6226,6 +6436,7 @@
         {
           "reference_id": 26697,
           "content_id": 33283,
+          "resource_code": "UWTranslationManual",
           "label": "Idiom",
           "language": "eng"
         }
@@ -6273,6 +6484,7 @@
         {
           "reference_id": 26697,
           "content_id": 33283,
+          "resource_code": "UWTranslationManual",
           "label": "Idiom",
           "language": "eng"
         }
@@ -6300,6 +6512,7 @@
         {
           "reference_id": 26708,
           "content_id": 33294,
+          "resource_code": "UWTranslationManual",
           "label": "Nominal Adjectives",
           "language": "eng"
         }
@@ -6327,6 +6540,7 @@
         {
           "reference_id": 26687,
           "content_id": 33273,
+          "resource_code": "UWTranslationManual",
           "label": "Assumed Knowledge and Implicit Information",
           "language": "eng"
         }
@@ -6354,6 +6568,7 @@
         {
           "reference_id": 26671,
           "content_id": 33257,
+          "resource_code": "UWTranslationManual",
           "label": "Abstract Nouns",
           "language": "eng"
         }
@@ -6381,6 +6596,7 @@
         {
           "reference_id": 26829,
           "content_id": 33415,
+          "resource_code": "UWTranslationManual",
           "label": "Background Information",
           "language": "eng"
         }
@@ -6408,6 +6624,7 @@
         {
           "reference_id": 26681,
           "content_id": 33267,
+          "resource_code": "UWTranslationManual",
           "label": "Ellipsis",
           "language": "eng"
         }
@@ -6435,6 +6652,7 @@
         {
           "reference_id": 26829,
           "content_id": 33415,
+          "resource_code": "UWTranslationManual",
           "label": "Background Information",
           "language": "eng"
         }
@@ -6462,6 +6680,7 @@
         {
           "reference_id": 26697,
           "content_id": 33283,
+          "resource_code": "UWTranslationManual",
           "label": "Idiom",
           "language": "eng"
         }
@@ -6489,6 +6708,7 @@
         {
           "reference_id": 26833,
           "content_id": 33419,
+          "resource_code": "UWTranslationManual",
           "label": "Introduction of a New Event",
           "language": "eng"
         }
@@ -6516,6 +6736,7 @@
         {
           "reference_id": 26745,
           "content_id": 33331,
+          "resource_code": "UWTranslationManual",
           "label": "Connect — Reason-and-Result Relationship",
           "language": "eng"
         }
@@ -6543,6 +6764,7 @@
         {
           "reference_id": 26687,
           "content_id": 33273,
+          "resource_code": "UWTranslationManual",
           "label": "Assumed Knowledge and Implicit Information",
           "language": "eng"
         }
@@ -6570,6 +6792,7 @@
         {
           "reference_id": 26695,
           "content_id": 33281,
+          "resource_code": "UWTranslationManual",
           "label": "Hyperbole",
           "language": "eng"
         }
@@ -6597,6 +6820,7 @@
         {
           "reference_id": 26729,
           "content_id": 33315,
+          "resource_code": "UWTranslationManual",
           "label": "Synecdoche",
           "language": "eng"
         }
@@ -6644,6 +6868,7 @@
         {
           "reference_id": 26687,
           "content_id": 33273,
+          "resource_code": "UWTranslationManual",
           "label": "Assumed Knowledge and Implicit Information",
           "language": "eng"
         }
@@ -6691,6 +6916,7 @@
         {
           "reference_id": 26708,
           "content_id": 33294,
+          "resource_code": "UWTranslationManual",
           "label": "Nominal Adjectives",
           "language": "eng"
         }
@@ -6718,6 +6944,7 @@
         {
           "reference_id": 26706,
           "content_id": 33292,
+          "resource_code": "UWTranslationManual",
           "label": "Metaphor",
           "language": "eng"
         }
@@ -6745,6 +6972,7 @@
         {
           "reference_id": 26679,
           "content_id": 33265,
+          "resource_code": "UWTranslationManual",
           "label": "Double Negatives",
           "language": "eng"
         }
@@ -6772,6 +7000,7 @@
         {
           "reference_id": 26707,
           "content_id": 33293,
+          "resource_code": "UWTranslationManual",
           "label": "Metonymy",
           "language": "eng"
         }
@@ -6819,6 +7048,7 @@
         {
           "reference_id": 26687,
           "content_id": 33273,
+          "resource_code": "UWTranslationManual",
           "label": "Assumed Knowledge and Implicit Information",
           "language": "eng"
         }
@@ -6846,6 +7076,7 @@
         {
           "reference_id": 26707,
           "content_id": 33293,
+          "resource_code": "UWTranslationManual",
           "label": "Metonymy",
           "language": "eng"
         }
@@ -6873,6 +7104,7 @@
         {
           "reference_id": 26785,
           "content_id": 33371,
+          "resource_code": "UWTranslationManual",
           "label": "Blessings",
           "language": "eng"
         }
@@ -6900,6 +7132,7 @@
         {
           "reference_id": 26687,
           "content_id": 33273,
+          "resource_code": "UWTranslationManual",
           "label": "Assumed Knowledge and Implicit Information",
           "language": "eng"
         }
@@ -6927,6 +7160,7 @@
         {
           "reference_id": 26706,
           "content_id": 33292,
+          "resource_code": "UWTranslationManual",
           "label": "Metaphor",
           "language": "eng"
         }
@@ -6954,6 +7188,7 @@
         {
           "reference_id": 26713,
           "content_id": 33299,
+          "resource_code": "UWTranslationManual",
           "label": "Parallelism",
           "language": "eng"
         }
@@ -6981,6 +7216,7 @@
         {
           "reference_id": 26698,
           "content_id": 33284,
+          "resource_code": "UWTranslationManual",
           "label": "Imperatives — Other Uses",
           "language": "eng"
         }
@@ -7008,6 +7244,7 @@
         {
           "reference_id": 26707,
           "content_id": 33293,
+          "resource_code": "UWTranslationManual",
           "label": "Metonymy",
           "language": "eng"
         }
@@ -7035,6 +7272,7 @@
         {
           "reference_id": 26785,
           "content_id": 33371,
+          "resource_code": "UWTranslationManual",
           "label": "Blessings",
           "language": "eng"
         }
@@ -7062,6 +7300,7 @@
         {
           "reference_id": 26713,
           "content_id": 33299,
+          "resource_code": "UWTranslationManual",
           "label": "Parallelism",
           "language": "eng"
         }
@@ -7089,6 +7328,7 @@
         {
           "reference_id": 26745,
           "content_id": 33331,
+          "resource_code": "UWTranslationManual",
           "label": "Connect — Reason-and-Result Relationship",
           "language": "eng"
         }
@@ -7116,6 +7356,7 @@
         {
           "reference_id": 26682,
           "content_id": 33268,
+          "resource_code": "UWTranslationManual",
           "label": "Euphemism",
           "language": "eng"
         }
@@ -7143,6 +7384,7 @@
         {
           "reference_id": 26687,
           "content_id": 33273,
+          "resource_code": "UWTranslationManual",
           "label": "Assumed Knowledge and Implicit Information",
           "language": "eng"
         }
@@ -7170,6 +7412,7 @@
         {
           "reference_id": 26785,
           "content_id": 33371,
+          "resource_code": "UWTranslationManual",
           "label": "Blessings",
           "language": "eng"
         }
@@ -7197,6 +7440,7 @@
         {
           "reference_id": 26679,
           "content_id": 33265,
+          "resource_code": "UWTranslationManual",
           "label": "Double Negatives",
           "language": "eng"
         }
@@ -7224,6 +7468,7 @@
         {
           "reference_id": 26785,
           "content_id": 33371,
+          "resource_code": "UWTranslationManual",
           "label": "Blessings",
           "language": "eng"
         }
@@ -7251,6 +7496,7 @@
         {
           "reference_id": 26707,
           "content_id": 33293,
+          "resource_code": "UWTranslationManual",
           "label": "Metonymy",
           "language": "eng"
         }
@@ -7278,6 +7524,7 @@
         {
           "reference_id": 26706,
           "content_id": 33292,
+          "resource_code": "UWTranslationManual",
           "label": "Metaphor",
           "language": "eng"
         }
@@ -7305,6 +7552,7 @@
         {
           "reference_id": 26707,
           "content_id": 33293,
+          "resource_code": "UWTranslationManual",
           "label": "Metonymy",
           "language": "eng"
         }
@@ -7332,6 +7580,7 @@
         {
           "reference_id": 26745,
           "content_id": 33331,
+          "resource_code": "UWTranslationManual",
           "label": "Connect — Reason-and-Result Relationship",
           "language": "eng"
         }
@@ -7359,6 +7608,7 @@
         {
           "reference_id": 26697,
           "content_id": 33283,
+          "resource_code": "UWTranslationManual",
           "label": "Idiom",
           "language": "eng"
         }
@@ -7386,6 +7636,7 @@
         {
           "reference_id": 26816,
           "content_id": 33402,
+          "resource_code": "UWTranslationManual",
           "label": "Symbolic Action",
           "language": "eng"
         }
@@ -7433,6 +7684,7 @@
         {
           "reference_id": 26713,
           "content_id": 33299,
+          "resource_code": "UWTranslationManual",
           "label": "Parallelism",
           "language": "eng"
         }
@@ -7460,6 +7712,7 @@
         {
           "reference_id": 26697,
           "content_id": 33283,
+          "resource_code": "UWTranslationManual",
           "label": "Idiom",
           "language": "eng"
         }
@@ -7487,6 +7740,7 @@
         {
           "reference_id": 26697,
           "content_id": 33283,
+          "resource_code": "UWTranslationManual",
           "label": "Idiom",
           "language": "eng"
         }
@@ -7514,6 +7768,7 @@
         {
           "reference_id": 26799,
           "content_id": 33385,
+          "resource_code": "UWTranslationManual",
           "label": "Kinship",
           "language": "eng"
         }
@@ -7541,6 +7796,7 @@
         {
           "reference_id": 26687,
           "content_id": 33273,
+          "resource_code": "UWTranslationManual",
           "label": "Assumed Knowledge and Implicit Information",
           "language": "eng"
         }
@@ -7568,6 +7824,7 @@
         {
           "reference_id": 26833,
           "content_id": 33419,
+          "resource_code": "UWTranslationManual",
           "label": "Introduction of a New Event",
           "language": "eng"
         }
@@ -7595,6 +7852,7 @@
         {
           "reference_id": 26805,
           "content_id": 33391,
+          "resource_code": "UWTranslationManual",
           "label": "How to Translate Names",
           "language": "eng"
         }
@@ -7622,6 +7880,7 @@
         {
           "reference_id": 26805,
           "content_id": 33391,
+          "resource_code": "UWTranslationManual",
           "label": "How to Translate Names",
           "language": "eng"
         }
@@ -7649,6 +7908,7 @@
         {
           "reference_id": 26805,
           "content_id": 33391,
+          "resource_code": "UWTranslationManual",
           "label": "How to Translate Names",
           "language": "eng"
         }
@@ -7676,6 +7936,7 @@
         {
           "reference_id": 26687,
           "content_id": 33273,
+          "resource_code": "UWTranslationManual",
           "label": "Assumed Knowledge and Implicit Information",
           "language": "eng"
         }
